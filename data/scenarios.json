@@ -1,0 +1,2426 @@
+[
+  {
+    "id": "S01",
+    "category": "headphones",
+    "brief": "I need wireless over-ear headphones for long flights, under $150. They must have active noise cancelling. Battery life matters most to me, then a lower price, then good customer ratings.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 150
+      },
+      {
+        "attr": "form_factor",
+        "op": "==",
+        "value": "over_ear"
+      },
+      {
+        "attr": "noise_cancelling",
+        "op": "==",
+        "value": true
+      }
+    ],
+    "weights": {
+      "battery_hours": 0.5,
+      "price": 0.3,
+      "rating": 0.2
+    },
+    "products": [
+      "hp-004",
+      "hp-021",
+      "hp-032",
+      "hp-051",
+      "hp-068",
+      "hp-072",
+      "hp-077",
+      "hp-078"
+    ],
+    "ranking": [
+      {
+        "id": "hp-051",
+        "utility": 0.8677,
+        "feasible": true,
+        "rank": 1
+      },
+      {
+        "id": "hp-032",
+        "utility": 0.8134,
+        "feasible": true,
+        "rank": 2
+      },
+      {
+        "id": "hp-078",
+        "utility": 0.675,
+        "feasible": true,
+        "rank": 3
+      },
+      {
+        "id": "hp-068",
+        "utility": 0.6234,
+        "feasible": true,
+        "rank": 4
+      },
+      {
+        "id": "hp-077",
+        "utility": 0.4083,
+        "feasible": true,
+        "rank": 5
+      },
+      {
+        "id": "hp-021",
+        "utility": 0.375,
+        "feasible": true,
+        "rank": 6
+      },
+      {
+        "id": "hp-072",
+        "utility": 0.1733,
+        "feasible": true,
+        "rank": 7
+      },
+      {
+        "id": "hp-004",
+        "utility": null,
+        "feasible": false,
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "id": "S02",
+    "category": "headphones",
+    "brief": "Wireless in-ear earbuds for running, budget $80. Being as light as possible matters most, then battery life, then price.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 80
+      },
+      {
+        "attr": "form_factor",
+        "op": "==",
+        "value": "in_ear"
+      }
+    ],
+    "weights": {
+      "weight_g": 0.5,
+      "battery_hours": 0.3,
+      "price": 0.2
+    },
+    "products": [
+      "hp-001",
+      "hp-005",
+      "hp-009",
+      "hp-015",
+      "hp-038",
+      "hp-053",
+      "hp-055",
+      "hp-078"
+    ],
+    "ranking": [
+      {
+        "id": "hp-001",
+        "utility": 0.9993,
+        "feasible": true,
+        "rank": 1
+      },
+      {
+        "id": "hp-053",
+        "utility": 0.8002,
+        "feasible": true,
+        "rank": 2
+      },
+      {
+        "id": "hp-055",
+        "utility": 0.7778,
+        "feasible": true,
+        "rank": 3
+      },
+      {
+        "id": "hp-005",
+        "utility": 0.6127,
+        "feasible": true,
+        "rank": 4
+      },
+      {
+        "id": "hp-038",
+        "utility": 0.381,
+        "feasible": true,
+        "rank": 5
+      },
+      {
+        "id": "hp-009",
+        "utility": null,
+        "feasible": false,
+        "rank": 6
+      },
+      {
+        "id": "hp-015",
+        "utility": null,
+        "feasible": false,
+        "rank": 7
+      },
+      {
+        "id": "hp-078",
+        "utility": null,
+        "feasible": false,
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "id": "S03",
+    "category": "headphones",
+    "brief": "Just get me a cheap pair of wireless headphones with good reviews, under $50. Any style is fine. Low price and high ratings matter equally.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 50
+      }
+    ],
+    "weights": {
+      "price": 0.5,
+      "rating": 0.5
+    },
+    "products": [
+      "hp-004",
+      "hp-021",
+      "hp-022",
+      "hp-031",
+      "hp-032",
+      "hp-056",
+      "hp-067",
+      "hp-073"
+    ],
+    "ranking": [
+      {
+        "id": "hp-004",
+        "utility": 0.9231,
+        "feasible": true,
+        "rank": 1
+      },
+      {
+        "id": "hp-032",
+        "utility": 0.7176,
+        "feasible": true,
+        "rank": 2
+      },
+      {
+        "id": "hp-022",
+        "utility": 0.6722,
+        "feasible": true,
+        "rank": 3
+      },
+      {
+        "id": "hp-021",
+        "utility": 0.6338,
+        "feasible": true,
+        "rank": 4
+      },
+      {
+        "id": "hp-031",
+        "utility": 0.449,
+        "feasible": true,
+        "rank": 5
+      },
+      {
+        "id": "hp-056",
+        "utility": 0.0,
+        "feasible": true,
+        "rank": 6
+      },
+      {
+        "id": "hp-073",
+        "utility": null,
+        "feasible": false,
+        "rank": 7
+      },
+      {
+        "id": "hp-067",
+        "utility": null,
+        "feasible": false,
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "id": "S04",
+    "category": "headphones",
+    "brief": "Wireless on-ear headphones for my daily walk, up to $100. Good customer ratings matter most; after that, a light weight and a low price matter equally.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 100
+      },
+      {
+        "attr": "form_factor",
+        "op": "==",
+        "value": "on_ear"
+      }
+    ],
+    "weights": {
+      "rating": 0.4,
+      "weight_g": 0.3,
+      "price": 0.3
+    },
+    "products": [
+      "hp-016",
+      "hp-036",
+      "hp-039",
+      "hp-040",
+      "hp-044",
+      "hp-045",
+      "hp-075",
+      "hp-077"
+    ],
+    "ranking": [
+      {
+        "id": "hp-016",
+        "utility": 0.8409,
+        "feasible": true,
+        "rank": 1
+      },
+      {
+        "id": "hp-045",
+        "utility": 0.7903,
+        "feasible": true,
+        "rank": 2
+      },
+      {
+        "id": "hp-040",
+        "utility": 0.6207,
+        "feasible": true,
+        "rank": 3
+      },
+      {
+        "id": "hp-044",
+        "utility": 0.5575,
+        "feasible": true,
+        "rank": 4
+      },
+      {
+        "id": "hp-036",
+        "utility": 0.3482,
+        "feasible": true,
+        "rank": 5
+      },
+      {
+        "id": "hp-075",
+        "utility": 0.3,
+        "feasible": true,
+        "rank": 6
+      },
+      {
+        "id": "hp-077",
+        "utility": null,
+        "feasible": false,
+        "rank": 7
+      },
+      {
+        "id": "hp-039",
+        "utility": null,
+        "feasible": false,
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "id": "S05",
+    "category": "headphones",
+    "brief": "Wireless headphones for a noisy open-plan office, any style, up to $250. Active noise cancelling is a must. Ratings and battery life matter most and equally; price matters a little.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 250
+      },
+      {
+        "attr": "noise_cancelling",
+        "op": "==",
+        "value": true
+      }
+    ],
+    "weights": {
+      "rating": 0.4,
+      "battery_hours": 0.4,
+      "price": 0.2
+    },
+    "products": [
+      "hp-004",
+      "hp-006",
+      "hp-028",
+      "hp-041",
+      "hp-042",
+      "hp-051",
+      "hp-083",
+      "hp-086"
+    ],
+    "ranking": [
+      {
+        "id": "hp-051",
+        "utility": 0.7719,
+        "feasible": true,
+        "rank": 1
+      },
+      {
+        "id": "hp-042",
+        "utility": 0.6039,
+        "feasible": true,
+        "rank": 2
+      },
+      {
+        "id": "hp-028",
+        "utility": 0.5814,
+        "feasible": true,
+        "rank": 3
+      },
+      {
+        "id": "hp-086",
+        "utility": 0.421,
+        "feasible": true,
+        "rank": 4
+      },
+      {
+        "id": "hp-041",
+        "utility": 0.374,
+        "feasible": true,
+        "rank": 5
+      },
+      {
+        "id": "hp-083",
+        "utility": 0.2377,
+        "feasible": true,
+        "rank": 6
+      },
+      {
+        "id": "hp-006",
+        "utility": 0.2,
+        "feasible": true,
+        "rank": 7
+      },
+      {
+        "id": "hp-004",
+        "utility": null,
+        "feasible": false,
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "id": "S06",
+    "category": "headphones",
+    "brief": "Noise-cancelling wireless earbuds (in-ear) for my train commute, under $200. Active noise cancelling is required. Battery life matters most; ratings and price matter equally after that.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 200
+      },
+      {
+        "attr": "form_factor",
+        "op": "==",
+        "value": "in_ear"
+      },
+      {
+        "attr": "noise_cancelling",
+        "op": "==",
+        "value": true
+      }
+    ],
+    "weights": {
+      "battery_hours": 0.4,
+      "rating": 0.3,
+      "price": 0.3
+    },
+    "products": [
+      "hp-023",
+      "hp-033",
+      "hp-041",
+      "hp-046",
+      "hp-053",
+      "hp-071",
+      "hp-076",
+      "hp-082"
+    ],
+    "ranking": [
+      {
+        "id": "hp-033",
+        "utility": 0.68,
+        "feasible": true,
+        "rank": 1
+      },
+      {
+        "id": "hp-053",
+        "utility": 0.5401,
+        "feasible": true,
+        "rank": 2
+      },
+      {
+        "id": "hp-041",
+        "utility": 0.3991,
+        "feasible": true,
+        "rank": 3
+      },
+      {
+        "id": "hp-023",
+        "utility": 0.3537,
+        "feasible": true,
+        "rank": 4
+      },
+      {
+        "id": "hp-076",
+        "utility": 0.1945,
+        "feasible": true,
+        "rank": 5
+      },
+      {
+        "id": "hp-071",
+        "utility": null,
+        "feasible": false,
+        "rank": 6
+      },
+      {
+        "id": "hp-082",
+        "utility": null,
+        "feasible": false,
+        "rank": 7
+      },
+      {
+        "id": "hp-046",
+        "utility": null,
+        "feasible": false,
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "id": "S07",
+    "category": "headphones",
+    "brief": "Wireless over-ear headphones under $120. Noise cancelling would be nice but isn't required; it's my top preference. After that, battery life and price matter equally.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 120
+      },
+      {
+        "attr": "form_factor",
+        "op": "==",
+        "value": "over_ear"
+      }
+    ],
+    "weights": {
+      "noise_cancelling": 0.4,
+      "battery_hours": 0.3,
+      "price": 0.3
+    },
+    "products": [
+      "hp-002",
+      "hp-026",
+      "hp-032",
+      "hp-041",
+      "hp-050",
+      "hp-051",
+      "hp-067",
+      "hp-078"
+    ],
+    "ranking": [
+      {
+        "id": "hp-051",
+        "utility": 0.96,
+        "feasible": true,
+        "rank": 1
+      },
+      {
+        "id": "hp-067",
+        "utility": 0.8714,
+        "feasible": true,
+        "rank": 2
+      },
+      {
+        "id": "hp-032",
+        "utility": 0.7,
+        "feasible": true,
+        "rank": 3
+      },
+      {
+        "id": "hp-078",
+        "utility": 0.7,
+        "feasible": true,
+        "rank": 4
+      },
+      {
+        "id": "hp-050",
+        "utility": 0.2614,
+        "feasible": true,
+        "rank": 5
+      },
+      {
+        "id": "hp-041",
+        "utility": null,
+        "feasible": false,
+        "rank": 6
+      },
+      {
+        "id": "hp-026",
+        "utility": null,
+        "feasible": false,
+        "rank": 7
+      },
+      {
+        "id": "hp-002",
+        "utility": null,
+        "feasible": false,
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "id": "S08",
+    "category": "headphones",
+    "brief": "Wireless headphones for a week of camping, any style, up to $150. The longest battery life matters far more than anything else; a light weight and good ratings matter a little.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 150
+      }
+    ],
+    "weights": {
+      "battery_hours": 0.6,
+      "weight_g": 0.2,
+      "rating": 0.2
+    },
+    "products": [
+      "hp-004",
+      "hp-033",
+      "hp-037",
+      "hp-047",
+      "hp-075",
+      "hp-081",
+      "hp-084",
+      "hp-087"
+    ],
+    "ranking": [
+      {
+        "id": "hp-033",
+        "utility": 0.9054,
+        "feasible": true,
+        "rank": 1
+      },
+      {
+        "id": "hp-047",
+        "utility": 0.7718,
+        "feasible": true,
+        "rank": 2
+      },
+      {
+        "id": "hp-081",
+        "utility": 0.4224,
+        "feasible": true,
+        "rank": 3
+      },
+      {
+        "id": "hp-037",
+        "utility": 0.4,
+        "feasible": true,
+        "rank": 4
+      },
+      {
+        "id": "hp-004",
+        "utility": 0.3636,
+        "feasible": true,
+        "rank": 5
+      },
+      {
+        "id": "hp-075",
+        "utility": 0.1944,
+        "feasible": true,
+        "rank": 6
+      },
+      {
+        "id": "hp-087",
+        "utility": null,
+        "feasible": false,
+        "rank": 7
+      },
+      {
+        "id": "hp-084",
+        "utility": null,
+        "feasible": false,
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "id": "S09",
+    "category": "headphones",
+    "brief": "Budget wireless earbuds (in-ear), $40 maximum. Low price matters most; battery life and ratings matter equally after that.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 40
+      },
+      {
+        "attr": "form_factor",
+        "op": "==",
+        "value": "in_ear"
+      }
+    ],
+    "weights": {
+      "price": 0.4,
+      "battery_hours": 0.3,
+      "rating": 0.3
+    },
+    "products": [
+      "hp-001",
+      "hp-005",
+      "hp-007",
+      "hp-014",
+      "hp-021",
+      "hp-037",
+      "hp-044",
+      "hp-088"
+    ],
+    "ranking": [
+      {
+        "id": "hp-007",
+        "utility": 0.8178,
+        "feasible": true,
+        "rank": 1
+      },
+      {
+        "id": "hp-001",
+        "utility": 0.7127,
+        "feasible": true,
+        "rank": 2
+      },
+      {
+        "id": "hp-014",
+        "utility": 0.6321,
+        "feasible": true,
+        "rank": 3
+      },
+      {
+        "id": "hp-005",
+        "utility": 0.3265,
+        "feasible": true,
+        "rank": 4
+      },
+      {
+        "id": "hp-037",
+        "utility": 0.32,
+        "feasible": true,
+        "rank": 5
+      },
+      {
+        "id": "hp-044",
+        "utility": null,
+        "feasible": false,
+        "rank": 6
+      },
+      {
+        "id": "hp-021",
+        "utility": null,
+        "feasible": false,
+        "rank": 7
+      },
+      {
+        "id": "hp-088",
+        "utility": null,
+        "feasible": false,
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "id": "S10",
+    "category": "headphones",
+    "brief": "The best wireless over-ear headphones for listening at home. Price isn't a concern, up to $400. Ratings matter most; noise cancelling and a light weight matter equally after that.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 400
+      },
+      {
+        "attr": "form_factor",
+        "op": "==",
+        "value": "over_ear"
+      }
+    ],
+    "weights": {
+      "rating": 0.4,
+      "noise_cancelling": 0.3,
+      "weight_g": 0.3
+    },
+    "products": [
+      "hp-005",
+      "hp-018",
+      "hp-029",
+      "hp-039",
+      "hp-042",
+      "hp-052",
+      "hp-067",
+      "hp-085"
+    ],
+    "ranking": [
+      {
+        "id": "hp-067",
+        "utility": 0.7727,
+        "feasible": true,
+        "rank": 1
+      },
+      {
+        "id": "hp-018",
+        "utility": 0.5667,
+        "feasible": true,
+        "rank": 2
+      },
+      {
+        "id": "hp-029",
+        "utility": 0.5495,
+        "feasible": true,
+        "rank": 3
+      },
+      {
+        "id": "hp-039",
+        "utility": 0.4,
+        "feasible": true,
+        "rank": 4
+      },
+      {
+        "id": "hp-085",
+        "utility": 0.3862,
+        "feasible": true,
+        "rank": 5
+      },
+      {
+        "id": "hp-052",
+        "utility": 0.1557,
+        "feasible": true,
+        "rank": 6
+      },
+      {
+        "id": "hp-042",
+        "utility": null,
+        "feasible": false,
+        "rank": 7
+      },
+      {
+        "id": "hp-005",
+        "utility": null,
+        "feasible": false,
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "id": "S11",
+    "category": "laptops",
+    "brief": "A laptop for a college student who carries it all day, under $600, with at least 8 GB of RAM. Light weight matters most; a low price and more storage matter equally after that.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 600
+      },
+      {
+        "attr": "ram_gb",
+        "op": ">=",
+        "value": 8
+      }
+    ],
+    "weights": {
+      "weight_lb": 0.4,
+      "price": 0.3,
+      "storage_gb": 0.3
+    },
+    "products": [
+      "lt-004",
+      "lt-023",
+      "lt-025",
+      "lt-030",
+      "lt-036",
+      "lt-042",
+      "lt-074",
+      "lt-075"
+    ],
+    "ranking": [
+      {
+        "id": "lt-025",
+        "utility": 0.6763,
+        "feasible": true,
+        "rank": 1
+      },
+      {
+        "id": "lt-023",
+        "utility": 0.5909,
+        "feasible": true,
+        "rank": 2
+      },
+      {
+        "id": "lt-030",
+        "utility": 0.5871,
+        "feasible": true,
+        "rank": 3
+      },
+      {
+        "id": "lt-036",
+        "utility": 0.5125,
+        "feasible": true,
+        "rank": 4
+      },
+      {
+        "id": "lt-042",
+        "utility": 0.3,
+        "feasible": true,
+        "rank": 5
+      },
+      {
+        "id": "lt-074",
+        "utility": null,
+        "feasible": false,
+        "rank": 6
+      },
+      {
+        "id": "lt-004",
+        "utility": null,
+        "feasible": false,
+        "rank": 7
+      },
+      {
+        "id": "lt-075",
+        "utility": null,
+        "feasible": false,
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "id": "S12",
+    "category": "laptops",
+    "brief": "A laptop for video editing, up to $1,500, with at least 16 GB of RAM. More RAM and more storage matter most and equally; a bigger screen matters a little.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 1500
+      },
+      {
+        "attr": "ram_gb",
+        "op": ">=",
+        "value": 16
+      }
+    ],
+    "weights": {
+      "ram_gb": 0.4,
+      "storage_gb": 0.4,
+      "screen_in": 0.2
+    },
+    "products": [
+      "lt-003",
+      "lt-035",
+      "lt-044",
+      "lt-046",
+      "lt-063",
+      "lt-065",
+      "lt-066",
+      "lt-069"
+    ],
+    "ranking": [
+      {
+        "id": "lt-065",
+        "utility": 1.0,
+        "feasible": true,
+        "rank": 1
+      },
+      {
+        "id": "lt-046",
+        "utility": 0.503,
+        "feasible": true,
+        "rank": 2
+      },
+      {
+        "id": "lt-063",
+        "utility": 0.3333,
+        "feasible": true,
+        "rank": 3
+      },
+      {
+        "id": "lt-044",
+        "utility": 0.1333,
+        "feasible": true,
+        "rank": 4
+      },
+      {
+        "id": "lt-066",
+        "utility": 0.0788,
+        "feasible": true,
+        "rank": 5
+      },
+      {
+        "id": "lt-003",
+        "utility": null,
+        "feasible": false,
+        "rank": 6
+      },
+      {
+        "id": "lt-035",
+        "utility": null,
+        "feasible": false,
+        "rank": 7
+      },
+      {
+        "id": "lt-069",
+        "utility": null,
+        "feasible": false,
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "id": "S13",
+    "category": "laptops",
+    "brief": "A basic laptop for web browsing and email, under $400. Low price matters most, then good ratings, then a bigger screen.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 400
+      }
+    ],
+    "weights": {
+      "price": 0.5,
+      "rating": 0.3,
+      "screen_in": 0.2
+    },
+    "products": [
+      "lt-004",
+      "lt-005",
+      "lt-006",
+      "lt-007",
+      "lt-020",
+      "lt-031",
+      "lt-046",
+      "lt-069"
+    ],
+    "ranking": [
+      {
+        "id": "lt-004",
+        "utility": 0.8,
+        "feasible": true,
+        "rank": 1
+      },
+      {
+        "id": "lt-020",
+        "utility": 0.7332,
+        "feasible": true,
+        "rank": 2
+      },
+      {
+        "id": "lt-006",
+        "utility": 0.7225,
+        "feasible": true,
+        "rank": 3
+      },
+      {
+        "id": "lt-007",
+        "utility": 0.6808,
+        "feasible": true,
+        "rank": 4
+      },
+      {
+        "id": "lt-005",
+        "utility": 0.4979,
+        "feasible": true,
+        "rank": 5
+      },
+      {
+        "id": "lt-031",
+        "utility": 0.47,
+        "feasible": true,
+        "rank": 6
+      },
+      {
+        "id": "lt-046",
+        "utility": null,
+        "feasible": false,
+        "rank": 7
+      },
+      {
+        "id": "lt-069",
+        "utility": null,
+        "feasible": false,
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "id": "S14",
+    "category": "laptops",
+    "brief": "A travel laptop that weighs no more than 4 pounds, up to $1,000. Lighter is better and matters most; then more RAM, then good ratings.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 1000
+      },
+      {
+        "attr": "weight_lb",
+        "op": "<=",
+        "value": 4
+      }
+    ],
+    "weights": {
+      "weight_lb": 0.5,
+      "ram_gb": 0.3,
+      "rating": 0.2
+    },
+    "products": [
+      "lt-006",
+      "lt-010",
+      "lt-016",
+      "lt-027",
+      "lt-043",
+      "lt-050",
+      "lt-059",
+      "lt-063"
+    ],
+    "ranking": [
+      {
+        "id": "lt-050",
+        "utility": 1.0,
+        "feasible": true,
+        "rank": 1
+      },
+      {
+        "id": "lt-010",
+        "utility": 0.4007,
+        "feasible": true,
+        "rank": 2
+      },
+      {
+        "id": "lt-016",
+        "utility": 0.2884,
+        "feasible": true,
+        "rank": 3
+      },
+      {
+        "id": "lt-006",
+        "utility": 0.252,
+        "feasible": true,
+        "rank": 4
+      },
+      {
+        "id": "lt-027",
+        "utility": 0.15,
+        "feasible": true,
+        "rank": 5
+      },
+      {
+        "id": "lt-063",
+        "utility": null,
+        "feasible": false,
+        "rank": 6
+      },
+      {
+        "id": "lt-059",
+        "utility": null,
+        "feasible": false,
+        "rank": 7
+      },
+      {
+        "id": "lt-043",
+        "utility": null,
+        "feasible": false,
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "id": "S15",
+    "category": "laptops",
+    "brief": "A laptop with a big screen, at least 15.6 inches, under $800. More RAM matters most; a low price and more storage matter equally after that.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 800
+      },
+      {
+        "attr": "screen_in",
+        "op": ">=",
+        "value": 15.6
+      }
+    ],
+    "weights": {
+      "ram_gb": 0.4,
+      "price": 0.3,
+      "storage_gb": 0.3
+    },
+    "products": [
+      "lt-016",
+      "lt-024",
+      "lt-025",
+      "lt-028",
+      "lt-030",
+      "lt-037",
+      "lt-042",
+      "lt-073"
+    ],
+    "ranking": [
+      {
+        "id": "lt-037",
+        "utility": 0.7717,
+        "feasible": true,
+        "rank": 1
+      },
+      {
+        "id": "lt-028",
+        "utility": 0.5773,
+        "feasible": true,
+        "rank": 2
+      },
+      {
+        "id": "lt-030",
+        "utility": 0.5663,
+        "feasible": true,
+        "rank": 3
+      },
+      {
+        "id": "lt-042",
+        "utility": 0.5,
+        "feasible": true,
+        "rank": 4
+      },
+      {
+        "id": "lt-024",
+        "utility": 0.3,
+        "feasible": true,
+        "rank": 5
+      },
+      {
+        "id": "lt-016",
+        "utility": null,
+        "feasible": false,
+        "rank": 6
+      },
+      {
+        "id": "lt-025",
+        "utility": null,
+        "feasible": false,
+        "rank": 7
+      },
+      {
+        "id": "lt-073",
+        "utility": null,
+        "feasible": false,
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "id": "S16",
+    "category": "laptops",
+    "brief": "A reliable work laptop with at least 512 GB of storage, up to $1,200. Good ratings matter most; more RAM and light weight matter equally after that.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 1200
+      },
+      {
+        "attr": "storage_gb",
+        "op": ">=",
+        "value": 512
+      }
+    ],
+    "weights": {
+      "rating": 0.4,
+      "ram_gb": 0.3,
+      "weight_lb": 0.3
+    },
+    "products": [
+      "lt-001",
+      "lt-008",
+      "lt-018",
+      "lt-028",
+      "lt-040",
+      "lt-042",
+      "lt-047",
+      "lt-052"
+    ],
+    "ranking": [
+      {
+        "id": "lt-047",
+        "utility": 0.8464,
+        "feasible": true,
+        "rank": 1
+      },
+      {
+        "id": "lt-040",
+        "utility": 0.7714,
+        "feasible": true,
+        "rank": 2
+      },
+      {
+        "id": "lt-052",
+        "utility": 0.5964,
+        "feasible": true,
+        "rank": 3
+      },
+      {
+        "id": "lt-028",
+        "utility": 0.55,
+        "feasible": true,
+        "rank": 4
+      },
+      {
+        "id": "lt-042",
+        "utility": 0.15,
+        "feasible": true,
+        "rank": 5
+      },
+      {
+        "id": "lt-001",
+        "utility": null,
+        "feasible": false,
+        "rank": 6
+      },
+      {
+        "id": "lt-018",
+        "utility": null,
+        "feasible": false,
+        "rank": 7
+      },
+      {
+        "id": "lt-008",
+        "utility": null,
+        "feasible": false,
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "id": "S17",
+    "category": "laptops",
+    "brief": "A cheap laptop for my child's homework, $300 maximum. Low price and good ratings matter most and equally; more storage matters a little.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 300
+      }
+    ],
+    "weights": {
+      "price": 0.4,
+      "rating": 0.4,
+      "storage_gb": 0.2
+    },
+    "products": [
+      "lt-003",
+      "lt-006",
+      "lt-007",
+      "lt-018",
+      "lt-019",
+      "lt-020",
+      "lt-025",
+      "lt-044"
+    ],
+    "ranking": [
+      {
+        "id": "lt-007",
+        "utility": 0.6672,
+        "feasible": true,
+        "rank": 1
+      },
+      {
+        "id": "lt-019",
+        "utility": 0.5792,
+        "feasible": true,
+        "rank": 2
+      },
+      {
+        "id": "lt-006",
+        "utility": 0.5471,
+        "feasible": true,
+        "rank": 3
+      },
+      {
+        "id": "lt-018",
+        "utility": 0.5323,
+        "feasible": true,
+        "rank": 4
+      },
+      {
+        "id": "lt-025",
+        "utility": 0.4667,
+        "feasible": true,
+        "rank": 5
+      },
+      {
+        "id": "lt-020",
+        "utility": 0.4325,
+        "feasible": true,
+        "rank": 6
+      },
+      {
+        "id": "lt-003",
+        "utility": 0.4,
+        "feasible": true,
+        "rank": 7
+      },
+      {
+        "id": "lt-044",
+        "utility": null,
+        "feasible": false,
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "id": "S18",
+    "category": "laptops",
+    "brief": "A laptop for programming with at least 16 GB of RAM, under $1,000. More RAM matters most, then a low price, then light weight.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 1000
+      },
+      {
+        "attr": "ram_gb",
+        "op": ">=",
+        "value": 16
+      }
+    ],
+    "weights": {
+      "ram_gb": 0.5,
+      "price": 0.3,
+      "weight_lb": 0.2
+    },
+    "products": [
+      "lt-004",
+      "lt-012",
+      "lt-025",
+      "lt-038",
+      "lt-039",
+      "lt-040",
+      "lt-044",
+      "lt-046"
+    ],
+    "ranking": [
+      {
+        "id": "lt-038",
+        "utility": 0.8952,
+        "feasible": true,
+        "rank": 1
+      },
+      {
+        "id": "lt-039",
+        "utility": 0.4746,
+        "feasible": true,
+        "rank": 2
+      },
+      {
+        "id": "lt-044",
+        "utility": 0.3511,
+        "feasible": true,
+        "rank": 3
+      },
+      {
+        "id": "lt-040",
+        "utility": 0.3461,
+        "feasible": true,
+        "rank": 4
+      },
+      {
+        "id": "lt-046",
+        "utility": 0.0,
+        "feasible": true,
+        "rank": 5
+      },
+      {
+        "id": "lt-025",
+        "utility": null,
+        "feasible": false,
+        "rank": 6
+      },
+      {
+        "id": "lt-004",
+        "utility": null,
+        "feasible": false,
+        "rank": 7
+      },
+      {
+        "id": "lt-012",
+        "utility": null,
+        "feasible": false,
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "id": "S19",
+    "category": "laptops",
+    "brief": "A home-office laptop with a screen of at least 15 inches, up to $700. More storage matters most; good ratings and a low price matter equally after that.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 700
+      },
+      {
+        "attr": "screen_in",
+        "op": ">=",
+        "value": 15
+      }
+    ],
+    "weights": {
+      "storage_gb": 0.4,
+      "rating": 0.3,
+      "price": 0.3
+    },
+    "products": [
+      "lt-007",
+      "lt-012",
+      "lt-018",
+      "lt-026",
+      "lt-028",
+      "lt-030",
+      "lt-036",
+      "lt-042"
+    ],
+    "ranking": [
+      {
+        "id": "lt-018",
+        "utility": 0.6,
+        "feasible": true,
+        "rank": 1
+      },
+      {
+        "id": "lt-026",
+        "utility": 0.5134,
+        "feasible": true,
+        "rank": 2
+      },
+      {
+        "id": "lt-028",
+        "utility": 0.4608,
+        "feasible": true,
+        "rank": 3
+      },
+      {
+        "id": "lt-030",
+        "utility": 0.4082,
+        "feasible": true,
+        "rank": 4
+      },
+      {
+        "id": "lt-042",
+        "utility": 0.4,
+        "feasible": true,
+        "rank": 5
+      },
+      {
+        "id": "lt-036",
+        "utility": null,
+        "feasible": false,
+        "rank": 6
+      },
+      {
+        "id": "lt-012",
+        "utility": null,
+        "feasible": false,
+        "rank": 7
+      },
+      {
+        "id": "lt-007",
+        "utility": null,
+        "feasible": false,
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "id": "S20",
+    "category": "laptops",
+    "brief": "The best all-round laptop up to $2,000. More RAM and more storage matter most and equally; good ratings and light weight matter equally after that.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 2000
+      }
+    ],
+    "weights": {
+      "ram_gb": 0.3,
+      "storage_gb": 0.3,
+      "rating": 0.2,
+      "weight_lb": 0.2
+    },
+    "products": [
+      "lt-005",
+      "lt-011",
+      "lt-016",
+      "lt-024",
+      "lt-056",
+      "lt-057",
+      "lt-065",
+      "lt-072"
+    ],
+    "ranking": [
+      {
+        "id": "lt-065",
+        "utility": 0.6857,
+        "feasible": true,
+        "rank": 1
+      },
+      {
+        "id": "lt-057",
+        "utility": 0.5114,
+        "feasible": true,
+        "rank": 2
+      },
+      {
+        "id": "lt-056",
+        "utility": 0.3782,
+        "feasible": true,
+        "rank": 3
+      },
+      {
+        "id": "lt-024",
+        "utility": 0.2535,
+        "feasible": true,
+        "rank": 4
+      },
+      {
+        "id": "lt-011",
+        "utility": 0.2347,
+        "feasible": true,
+        "rank": 5
+      },
+      {
+        "id": "lt-016",
+        "utility": 0.2029,
+        "feasible": true,
+        "rank": 6
+      },
+      {
+        "id": "lt-005",
+        "utility": 0.1174,
+        "feasible": true,
+        "rank": 7
+      },
+      {
+        "id": "lt-072",
+        "utility": null,
+        "feasible": false,
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "id": "S21",
+    "category": "coffee_makers",
+    "brief": "A drip coffee maker I can set the night before, so it must be programmable, under $80. A bigger carafe and a low price matter most and equally; good ratings matter a little.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 80
+      },
+      {
+        "attr": "programmable",
+        "op": "==",
+        "value": true
+      }
+    ],
+    "weights": {
+      "capacity_cups": 0.4,
+      "price": 0.4,
+      "rating": 0.2
+    },
+    "products": [
+      "cm-012",
+      "cm-015",
+      "cm-019",
+      "cm-022",
+      "cm-025",
+      "cm-027",
+      "cm-028",
+      "cm-039"
+    ],
+    "ranking": [
+      {
+        "id": "cm-015",
+        "utility": 0.9233,
+        "feasible": true,
+        "rank": 1
+      },
+      {
+        "id": "cm-019",
+        "utility": 0.8589,
+        "feasible": true,
+        "rank": 2
+      },
+      {
+        "id": "cm-022",
+        "utility": 0.6361,
+        "feasible": true,
+        "rank": 3
+      },
+      {
+        "id": "cm-028",
+        "utility": 0.5588,
+        "feasible": true,
+        "rank": 4
+      },
+      {
+        "id": "cm-039",
+        "utility": 0.5,
+        "feasible": true,
+        "rank": 5
+      },
+      {
+        "id": "cm-012",
+        "utility": 0.5,
+        "feasible": true,
+        "rank": 6
+      },
+      {
+        "id": "cm-027",
+        "utility": 0.3808,
+        "feasible": true,
+        "rank": 7
+      },
+      {
+        "id": "cm-025",
+        "utility": null,
+        "feasible": false,
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "id": "S22",
+    "category": "coffee_makers",
+    "brief": "A drip coffee maker with a thermal carafe (required), up to $150. Good ratings matter most, then a bigger carafe, then price.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 150
+      },
+      {
+        "attr": "thermal_carafe",
+        "op": "==",
+        "value": true
+      }
+    ],
+    "weights": {
+      "rating": 0.5,
+      "capacity_cups": 0.3,
+      "price": 0.2
+    },
+    "products": [
+      "cm-029",
+      "cm-044",
+      "cm-046",
+      "cm-048",
+      "cm-052",
+      "cm-066",
+      "cm-078",
+      "cm-079"
+    ],
+    "ranking": [
+      {
+        "id": "cm-029",
+        "utility": 0.85,
+        "feasible": true,
+        "rank": 1
+      },
+      {
+        "id": "cm-046",
+        "utility": 0.6843,
+        "feasible": true,
+        "rank": 2
+      },
+      {
+        "id": "cm-048",
+        "utility": 0.5475,
+        "feasible": true,
+        "rank": 3
+      },
+      {
+        "id": "cm-044",
+        "utility": 0.4437,
+        "feasible": true,
+        "rank": 4
+      },
+      {
+        "id": "cm-052",
+        "utility": 0.0,
+        "feasible": true,
+        "rank": 5
+      },
+      {
+        "id": "cm-078",
+        "utility": null,
+        "feasible": false,
+        "rank": 6
+      },
+      {
+        "id": "cm-079",
+        "utility": null,
+        "feasible": false,
+        "rank": 7
+      },
+      {
+        "id": "cm-066",
+        "utility": null,
+        "feasible": false,
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "id": "S23",
+    "category": "coffee_makers",
+    "brief": "The cheapest decent drip coffee maker, under $40. Low price and good ratings matter equally.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 40
+      }
+    ],
+    "weights": {
+      "price": 0.5,
+      "rating": 0.5
+    },
+    "products": [
+      "cm-001",
+      "cm-002",
+      "cm-003",
+      "cm-010",
+      "cm-011",
+      "cm-014",
+      "cm-016",
+      "cm-065"
+    ],
+    "ranking": [
+      {
+        "id": "cm-002",
+        "utility": 0.9154,
+        "feasible": true,
+        "rank": 1
+      },
+      {
+        "id": "cm-010",
+        "utility": 0.7511,
+        "feasible": true,
+        "rank": 2
+      },
+      {
+        "id": "cm-014",
+        "utility": 0.5444,
+        "feasible": true,
+        "rank": 3
+      },
+      {
+        "id": "cm-001",
+        "utility": 0.5,
+        "feasible": true,
+        "rank": 4
+      },
+      {
+        "id": "cm-011",
+        "utility": 0.4772,
+        "feasible": true,
+        "rank": 5
+      },
+      {
+        "id": "cm-003",
+        "utility": 0.4144,
+        "feasible": true,
+        "rank": 6
+      },
+      {
+        "id": "cm-016",
+        "utility": 0.25,
+        "feasible": true,
+        "rank": 7
+      },
+      {
+        "id": "cm-065",
+        "utility": null,
+        "feasible": false,
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "id": "S24",
+    "category": "coffee_makers",
+    "brief": "A drip coffee maker for a small office: at least 12 cups, up to $120. Good ratings matter most; a programmable timer and a low price matter equally after that.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 120
+      },
+      {
+        "attr": "capacity_cups",
+        "op": ">=",
+        "value": 12
+      }
+    ],
+    "weights": {
+      "rating": 0.4,
+      "programmable": 0.3,
+      "price": 0.3
+    },
+    "products": [
+      "cm-017",
+      "cm-020",
+      "cm-022",
+      "cm-027",
+      "cm-031",
+      "cm-043",
+      "cm-046",
+      "cm-048"
+    ],
+    "ranking": [
+      {
+        "id": "cm-031",
+        "utility": 0.8953,
+        "feasible": true,
+        "rank": 1
+      },
+      {
+        "id": "cm-020",
+        "utility": 0.8304,
+        "feasible": true,
+        "rank": 2
+      },
+      {
+        "id": "cm-022",
+        "utility": 0.7242,
+        "feasible": true,
+        "rank": 3
+      },
+      {
+        "id": "cm-046",
+        "utility": 0.5514,
+        "feasible": true,
+        "rank": 4
+      },
+      {
+        "id": "cm-048",
+        "utility": 0.45,
+        "feasible": true,
+        "rank": 5
+      },
+      {
+        "id": "cm-043",
+        "utility": 0.4145,
+        "feasible": true,
+        "rank": 6
+      },
+      {
+        "id": "cm-017",
+        "utility": 0.3,
+        "feasible": true,
+        "rank": 7
+      },
+      {
+        "id": "cm-027",
+        "utility": null,
+        "feasible": false,
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "id": "S25",
+    "category": "coffee_makers",
+    "brief": "I like strong coffee. A drip coffee maker under $100 where I can choose a bolder brew strength; that matters most. Good ratings and a low price matter equally after that.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 100
+      }
+    ],
+    "weights": {
+      "brew_strength_control": 0.4,
+      "rating": 0.3,
+      "price": 0.3
+    },
+    "products": [
+      "cm-008",
+      "cm-018",
+      "cm-021",
+      "cm-038",
+      "cm-040",
+      "cm-050",
+      "cm-061",
+      "cm-064"
+    ],
+    "ranking": [
+      {
+        "id": "cm-018",
+        "utility": 0.926,
+        "feasible": true,
+        "rank": 1
+      },
+      {
+        "id": "cm-038",
+        "utility": 0.7303,
+        "feasible": true,
+        "rank": 2
+      },
+      {
+        "id": "cm-040",
+        "utility": 0.7232,
+        "feasible": true,
+        "rank": 3
+      },
+      {
+        "id": "cm-021",
+        "utility": 0.7159,
+        "feasible": true,
+        "rank": 4
+      },
+      {
+        "id": "cm-008",
+        "utility": 0.6,
+        "feasible": true,
+        "rank": 5
+      },
+      {
+        "id": "cm-050",
+        "utility": 0.0,
+        "feasible": true,
+        "rank": 6
+      },
+      {
+        "id": "cm-064",
+        "utility": null,
+        "feasible": false,
+        "rank": 7
+      },
+      {
+        "id": "cm-061",
+        "utility": null,
+        "feasible": false,
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "id": "S26",
+    "category": "coffee_makers",
+    "brief": "A drip coffee maker for a two-person household, up to $60. Good ratings and a low price matter most and equally; a programmable timer matters a little.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 60
+      }
+    ],
+    "weights": {
+      "rating": 0.4,
+      "price": 0.4,
+      "programmable": 0.2
+    },
+    "products": [
+      "cm-006",
+      "cm-008",
+      "cm-019",
+      "cm-026",
+      "cm-027",
+      "cm-038",
+      "cm-057",
+      "cm-077"
+    ],
+    "ranking": [
+      {
+        "id": "cm-008",
+        "utility": 0.7586,
+        "feasible": true,
+        "rank": 1
+      },
+      {
+        "id": "cm-006",
+        "utility": 0.6667,
+        "feasible": true,
+        "rank": 2
+      },
+      {
+        "id": "cm-019",
+        "utility": 0.565,
+        "feasible": true,
+        "rank": 3
+      },
+      {
+        "id": "cm-026",
+        "utility": 0.3747,
+        "feasible": true,
+        "rank": 4
+      },
+      {
+        "id": "cm-027",
+        "utility": 0.2,
+        "feasible": true,
+        "rank": 5
+      },
+      {
+        "id": "cm-038",
+        "utility": null,
+        "feasible": false,
+        "rank": 6
+      },
+      {
+        "id": "cm-077",
+        "utility": null,
+        "feasible": false,
+        "rank": 7
+      },
+      {
+        "id": "cm-057",
+        "utility": null,
+        "feasible": false,
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "id": "S27",
+    "category": "coffee_makers",
+    "brief": "A programmable drip coffee maker with a thermal carafe, both required, up to $200. Good ratings matter most, then a bigger carafe, then brew strength control.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 200
+      },
+      {
+        "attr": "programmable",
+        "op": "==",
+        "value": true
+      },
+      {
+        "attr": "thermal_carafe",
+        "op": "==",
+        "value": true
+      }
+    ],
+    "weights": {
+      "rating": 0.5,
+      "capacity_cups": 0.3,
+      "brew_strength_control": 0.2
+    },
+    "products": [
+      "cm-003",
+      "cm-026",
+      "cm-042",
+      "cm-052",
+      "cm-054",
+      "cm-057",
+      "cm-058",
+      "cm-069"
+    ],
+    "ranking": [
+      {
+        "id": "cm-058",
+        "utility": 0.95,
+        "feasible": true,
+        "rank": 1
+      },
+      {
+        "id": "cm-042",
+        "utility": 0.8,
+        "feasible": true,
+        "rank": 2
+      },
+      {
+        "id": "cm-057",
+        "utility": 0.5,
+        "feasible": true,
+        "rank": 3
+      },
+      {
+        "id": "cm-054",
+        "utility": 0.45,
+        "feasible": true,
+        "rank": 4
+      },
+      {
+        "id": "cm-052",
+        "utility": 0.45,
+        "feasible": true,
+        "rank": 5
+      },
+      {
+        "id": "cm-003",
+        "utility": null,
+        "feasible": false,
+        "rank": 6
+      },
+      {
+        "id": "cm-026",
+        "utility": null,
+        "feasible": false,
+        "rank": 7
+      },
+      {
+        "id": "cm-069",
+        "utility": null,
+        "feasible": false,
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "id": "S28",
+    "category": "coffee_makers",
+    "brief": "A drip coffee maker under $120. I'd prefer a thermal carafe so the coffee stays hot, and that matters most, but it isn't required. Good ratings and a low price matter equally after that.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 120
+      }
+    ],
+    "weights": {
+      "thermal_carafe": 0.4,
+      "rating": 0.3,
+      "price": 0.3
+    },
+    "products": [
+      "cm-004",
+      "cm-009",
+      "cm-010",
+      "cm-035",
+      "cm-046",
+      "cm-047",
+      "cm-054",
+      "cm-076"
+    ],
+    "ranking": [
+      {
+        "id": "cm-046",
+        "utility": 0.7837,
+        "feasible": true,
+        "rank": 1
+      },
+      {
+        "id": "cm-054",
+        "utility": 0.61,
+        "feasible": true,
+        "rank": 2
+      },
+      {
+        "id": "cm-004",
+        "utility": 0.6,
+        "feasible": true,
+        "rank": 3
+      },
+      {
+        "id": "cm-010",
+        "utility": 0.5788,
+        "feasible": true,
+        "rank": 4
+      },
+      {
+        "id": "cm-009",
+        "utility": 0.5542,
+        "feasible": true,
+        "rank": 5
+      },
+      {
+        "id": "cm-047",
+        "utility": 0.3636,
+        "feasible": true,
+        "rank": 6
+      },
+      {
+        "id": "cm-035",
+        "utility": 0.18,
+        "feasible": true,
+        "rank": 7
+      },
+      {
+        "id": "cm-076",
+        "utility": null,
+        "feasible": false,
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "id": "S29",
+    "category": "coffee_makers",
+    "brief": "A drip coffee maker for hosting family gatherings, up to $250. A bigger carafe and good ratings matter most and equally; brew strength control matters a little.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 250
+      }
+    ],
+    "weights": {
+      "capacity_cups": 0.4,
+      "rating": 0.4,
+      "brew_strength_control": 0.2
+    },
+    "products": [
+      "cm-011",
+      "cm-015",
+      "cm-041",
+      "cm-075",
+      "cm-076",
+      "cm-078",
+      "cm-079",
+      "cm-080"
+    ],
+    "ranking": [
+      {
+        "id": "cm-015",
+        "utility": 1.0,
+        "feasible": true,
+        "rank": 1
+      },
+      {
+        "id": "cm-041",
+        "utility": 0.72,
+        "feasible": true,
+        "rank": 2
+      },
+      {
+        "id": "cm-011",
+        "utility": 0.72,
+        "feasible": true,
+        "rank": 3
+      },
+      {
+        "id": "cm-075",
+        "utility": 0.4,
+        "feasible": true,
+        "rank": 4
+      },
+      {
+        "id": "cm-076",
+        "utility": 0.3333,
+        "feasible": true,
+        "rank": 5
+      },
+      {
+        "id": "cm-080",
+        "utility": null,
+        "feasible": false,
+        "rank": 6
+      },
+      {
+        "id": "cm-079",
+        "utility": null,
+        "feasible": false,
+        "rank": 7
+      },
+      {
+        "id": "cm-078",
+        "utility": null,
+        "feasible": false,
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "id": "S30",
+    "category": "coffee_makers",
+    "brief": "A drip coffee maker that makes at least 10 cups, under $70. Low price matters most; good ratings and a programmable timer matter equally after that.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 70
+      },
+      {
+        "attr": "capacity_cups",
+        "op": ">=",
+        "value": 10
+      }
+    ],
+    "weights": {
+      "price": 0.4,
+      "rating": 0.3,
+      "programmable": 0.3
+    },
+    "products": [
+      "cm-018",
+      "cm-028",
+      "cm-030",
+      "cm-031",
+      "cm-037",
+      "cm-047",
+      "cm-048",
+      "cm-070"
+    ],
+    "ranking": [
+      {
+        "id": "cm-018",
+        "utility": 0.9333,
+        "feasible": true,
+        "rank": 1
+      },
+      {
+        "id": "cm-031",
+        "utility": 0.7097,
+        "feasible": true,
+        "rank": 2
+      },
+      {
+        "id": "cm-028",
+        "utility": 0.6398,
+        "feasible": true,
+        "rank": 3
+      },
+      {
+        "id": "cm-030",
+        "utility": 0.5915,
+        "feasible": true,
+        "rank": 4
+      },
+      {
+        "id": "cm-037",
+        "utility": 0.3,
+        "feasible": true,
+        "rank": 5
+      },
+      {
+        "id": "cm-070",
+        "utility": null,
+        "feasible": false,
+        "rank": 6
+      },
+      {
+        "id": "cm-048",
+        "utility": null,
+        "feasible": false,
+        "rank": 7
+      },
+      {
+        "id": "cm-047",
+        "utility": null,
+        "feasible": false,
+        "rank": 8
+      }
+    ]
+  }
+]

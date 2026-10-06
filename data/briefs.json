@@ -1,0 +1,626 @@
+[
+  {
+    "id": "S01",
+    "category": "headphones",
+    "brief": "I need wireless over-ear headphones for long flights, under $150. They must have active noise cancelling. Battery life matters most to me, then a lower price, then good customer ratings.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 150
+      },
+      {
+        "attr": "form_factor",
+        "op": "==",
+        "value": "over_ear"
+      },
+      {
+        "attr": "noise_cancelling",
+        "op": "==",
+        "value": true
+      }
+    ],
+    "weights": {
+      "battery_hours": 0.5,
+      "price": 0.3,
+      "rating": 0.2
+    }
+  },
+  {
+    "id": "S02",
+    "category": "headphones",
+    "brief": "Wireless in-ear earbuds for running, budget $80. Being as light as possible matters most, then battery life, then price.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 80
+      },
+      {
+        "attr": "form_factor",
+        "op": "==",
+        "value": "in_ear"
+      }
+    ],
+    "weights": {
+      "weight_g": 0.5,
+      "battery_hours": 0.3,
+      "price": 0.2
+    }
+  },
+  {
+    "id": "S03",
+    "category": "headphones",
+    "brief": "Just get me a cheap pair of wireless headphones with good reviews, under $50. Any style is fine. Low price and high ratings matter equally.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 50
+      }
+    ],
+    "weights": {
+      "price": 0.5,
+      "rating": 0.5
+    }
+  },
+  {
+    "id": "S04",
+    "category": "headphones",
+    "brief": "Wireless on-ear headphones for my daily walk, up to $100. Good customer ratings matter most; after that, a light weight and a low price matter equally.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 100
+      },
+      {
+        "attr": "form_factor",
+        "op": "==",
+        "value": "on_ear"
+      }
+    ],
+    "weights": {
+      "rating": 0.4,
+      "weight_g": 0.3,
+      "price": 0.3
+    }
+  },
+  {
+    "id": "S05",
+    "category": "headphones",
+    "brief": "Wireless headphones for a noisy open-plan office, any style, up to $250. Active noise cancelling is a must. Ratings and battery life matter most and equally; price matters a little.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 250
+      },
+      {
+        "attr": "noise_cancelling",
+        "op": "==",
+        "value": true
+      }
+    ],
+    "weights": {
+      "rating": 0.4,
+      "battery_hours": 0.4,
+      "price": 0.2
+    }
+  },
+  {
+    "id": "S06",
+    "category": "headphones",
+    "brief": "Noise-cancelling wireless earbuds (in-ear) for my train commute, under $200. Active noise cancelling is required. Battery life matters most; ratings and price matter equally after that.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 200
+      },
+      {
+        "attr": "form_factor",
+        "op": "==",
+        "value": "in_ear"
+      },
+      {
+        "attr": "noise_cancelling",
+        "op": "==",
+        "value": true
+      }
+    ],
+    "weights": {
+      "battery_hours": 0.4,
+      "rating": 0.3,
+      "price": 0.3
+    }
+  },
+  {
+    "id": "S07",
+    "category": "headphones",
+    "brief": "Wireless over-ear headphones under $120. Noise cancelling would be nice but isn't required; it's my top preference. After that, battery life and price matter equally.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 120
+      },
+      {
+        "attr": "form_factor",
+        "op": "==",
+        "value": "over_ear"
+      }
+    ],
+    "weights": {
+      "noise_cancelling": 0.4,
+      "battery_hours": 0.3,
+      "price": 0.3
+    }
+  },
+  {
+    "id": "S08",
+    "category": "headphones",
+    "brief": "Wireless headphones for a week of camping, any style, up to $150. The longest battery life matters far more than anything else; a light weight and good ratings matter a little.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 150
+      }
+    ],
+    "weights": {
+      "battery_hours": 0.6,
+      "weight_g": 0.2,
+      "rating": 0.2
+    }
+  },
+  {
+    "id": "S09",
+    "category": "headphones",
+    "brief": "Budget wireless earbuds (in-ear), $40 maximum. Low price matters most; battery life and ratings matter equally after that.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 40
+      },
+      {
+        "attr": "form_factor",
+        "op": "==",
+        "value": "in_ear"
+      }
+    ],
+    "weights": {
+      "price": 0.4,
+      "battery_hours": 0.3,
+      "rating": 0.3
+    }
+  },
+  {
+    "id": "S10",
+    "category": "headphones",
+    "brief": "The best wireless over-ear headphones for listening at home. Price isn't a concern, up to $400. Ratings matter most; noise cancelling and a light weight matter equally after that.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 400
+      },
+      {
+        "attr": "form_factor",
+        "op": "==",
+        "value": "over_ear"
+      }
+    ],
+    "weights": {
+      "rating": 0.4,
+      "noise_cancelling": 0.3,
+      "weight_g": 0.3
+    }
+  },
+  {
+    "id": "S11",
+    "category": "laptops",
+    "brief": "A laptop for a college student who carries it all day, under $600, with at least 8 GB of RAM. Light weight matters most; a low price and more storage matter equally after that.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 600
+      },
+      {
+        "attr": "ram_gb",
+        "op": ">=",
+        "value": 8
+      }
+    ],
+    "weights": {
+      "weight_lb": 0.4,
+      "price": 0.3,
+      "storage_gb": 0.3
+    }
+  },
+  {
+    "id": "S12",
+    "category": "laptops",
+    "brief": "A laptop for video editing, up to $1,500, with at least 16 GB of RAM. More RAM and more storage matter most and equally; a bigger screen matters a little.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 1500
+      },
+      {
+        "attr": "ram_gb",
+        "op": ">=",
+        "value": 16
+      }
+    ],
+    "weights": {
+      "ram_gb": 0.4,
+      "storage_gb": 0.4,
+      "screen_in": 0.2
+    }
+  },
+  {
+    "id": "S13",
+    "category": "laptops",
+    "brief": "A basic laptop for web browsing and email, under $400. Low price matters most, then good ratings, then a bigger screen.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 400
+      }
+    ],
+    "weights": {
+      "price": 0.5,
+      "rating": 0.3,
+      "screen_in": 0.2
+    }
+  },
+  {
+    "id": "S14",
+    "category": "laptops",
+    "brief": "A travel laptop that weighs no more than 4 pounds, up to $1,000. Lighter is better and matters most; then more RAM, then good ratings.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 1000
+      },
+      {
+        "attr": "weight_lb",
+        "op": "<=",
+        "value": 4
+      }
+    ],
+    "weights": {
+      "weight_lb": 0.5,
+      "ram_gb": 0.3,
+      "rating": 0.2
+    }
+  },
+  {
+    "id": "S15",
+    "category": "laptops",
+    "brief": "A laptop with a big screen, at least 15.6 inches, under $800. More RAM matters most; a low price and more storage matter equally after that.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 800
+      },
+      {
+        "attr": "screen_in",
+        "op": ">=",
+        "value": 15.6
+      }
+    ],
+    "weights": {
+      "ram_gb": 0.4,
+      "price": 0.3,
+      "storage_gb": 0.3
+    }
+  },
+  {
+    "id": "S16",
+    "category": "laptops",
+    "brief": "A reliable work laptop with at least 512 GB of storage, up to $1,200. Good ratings matter most; more RAM and light weight matter equally after that.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 1200
+      },
+      {
+        "attr": "storage_gb",
+        "op": ">=",
+        "value": 512
+      }
+    ],
+    "weights": {
+      "rating": 0.4,
+      "ram_gb": 0.3,
+      "weight_lb": 0.3
+    }
+  },
+  {
+    "id": "S17",
+    "category": "laptops",
+    "brief": "A cheap laptop for my child's homework, $300 maximum. Low price and good ratings matter most and equally; more storage matters a little.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 300
+      }
+    ],
+    "weights": {
+      "price": 0.4,
+      "rating": 0.4,
+      "storage_gb": 0.2
+    }
+  },
+  {
+    "id": "S18",
+    "category": "laptops",
+    "brief": "A laptop for programming with at least 16 GB of RAM, under $1,000. More RAM matters most, then a low price, then light weight.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 1000
+      },
+      {
+        "attr": "ram_gb",
+        "op": ">=",
+        "value": 16
+      }
+    ],
+    "weights": {
+      "ram_gb": 0.5,
+      "price": 0.3,
+      "weight_lb": 0.2
+    }
+  },
+  {
+    "id": "S19",
+    "category": "laptops",
+    "brief": "A home-office laptop with a screen of at least 15 inches, up to $700. More storage matters most; good ratings and a low price matter equally after that.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 700
+      },
+      {
+        "attr": "screen_in",
+        "op": ">=",
+        "value": 15
+      }
+    ],
+    "weights": {
+      "storage_gb": 0.4,
+      "rating": 0.3,
+      "price": 0.3
+    }
+  },
+  {
+    "id": "S20",
+    "category": "laptops",
+    "brief": "The best all-round laptop up to $2,000. More RAM and more storage matter most and equally; good ratings and light weight matter equally after that.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 2000
+      }
+    ],
+    "weights": {
+      "ram_gb": 0.3,
+      "storage_gb": 0.3,
+      "rating": 0.2,
+      "weight_lb": 0.2
+    }
+  },
+  {
+    "id": "S21",
+    "category": "coffee_makers",
+    "brief": "A drip coffee maker I can set the night before, so it must be programmable, under $80. A bigger carafe and a low price matter most and equally; good ratings matter a little.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 80
+      },
+      {
+        "attr": "programmable",
+        "op": "==",
+        "value": true
+      }
+    ],
+    "weights": {
+      "capacity_cups": 0.4,
+      "price": 0.4,
+      "rating": 0.2
+    }
+  },
+  {
+    "id": "S22",
+    "category": "coffee_makers",
+    "brief": "A drip coffee maker with a thermal carafe (required), up to $150. Good ratings matter most, then a bigger carafe, then price.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 150
+      },
+      {
+        "attr": "thermal_carafe",
+        "op": "==",
+        "value": true
+      }
+    ],
+    "weights": {
+      "rating": 0.5,
+      "capacity_cups": 0.3,
+      "price": 0.2
+    }
+  },
+  {
+    "id": "S23",
+    "category": "coffee_makers",
+    "brief": "The cheapest decent drip coffee maker, under $40. Low price and good ratings matter equally.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 40
+      }
+    ],
+    "weights": {
+      "price": 0.5,
+      "rating": 0.5
+    }
+  },
+  {
+    "id": "S24",
+    "category": "coffee_makers",
+    "brief": "A drip coffee maker for a small office: at least 12 cups, up to $120. Good ratings matter most; a programmable timer and a low price matter equally after that.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 120
+      },
+      {
+        "attr": "capacity_cups",
+        "op": ">=",
+        "value": 12
+      }
+    ],
+    "weights": {
+      "rating": 0.4,
+      "programmable": 0.3,
+      "price": 0.3
+    }
+  },
+  {
+    "id": "S25",
+    "category": "coffee_makers",
+    "brief": "I like strong coffee. A drip coffee maker under $100 where I can choose a bolder brew strength; that matters most. Good ratings and a low price matter equally after that.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 100
+      }
+    ],
+    "weights": {
+      "brew_strength_control": 0.4,
+      "rating": 0.3,
+      "price": 0.3
+    }
+  },
+  {
+    "id": "S26",
+    "category": "coffee_makers",
+    "brief": "A drip coffee maker for a two-person household, up to $60. Good ratings and a low price matter most and equally; a programmable timer matters a little.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 60
+      }
+    ],
+    "weights": {
+      "rating": 0.4,
+      "price": 0.4,
+      "programmable": 0.2
+    }
+  },
+  {
+    "id": "S27",
+    "category": "coffee_makers",
+    "brief": "A programmable drip coffee maker with a thermal carafe, both required, up to $200. Good ratings matter most, then a bigger carafe, then brew strength control.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 200
+      },
+      {
+        "attr": "programmable",
+        "op": "==",
+        "value": true
+      },
+      {
+        "attr": "thermal_carafe",
+        "op": "==",
+        "value": true
+      }
+    ],
+    "weights": {
+      "rating": 0.5,
+      "capacity_cups": 0.3,
+      "brew_strength_control": 0.2
+    }
+  },
+  {
+    "id": "S28",
+    "category": "coffee_makers",
+    "brief": "A drip coffee maker under $120. I'd prefer a thermal carafe so the coffee stays hot, and that matters most, but it isn't required. Good ratings and a low price matter equally after that.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 120
+      }
+    ],
+    "weights": {
+      "thermal_carafe": 0.4,
+      "rating": 0.3,
+      "price": 0.3
+    }
+  },
+  {
+    "id": "S29",
+    "category": "coffee_makers",
+    "brief": "A drip coffee maker for hosting family gatherings, up to $250. A bigger carafe and good ratings matter most and equally; brew strength control matters a little.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 250
+      }
+    ],
+    "weights": {
+      "capacity_cups": 0.4,
+      "rating": 0.4,
+      "brew_strength_control": 0.2
+    }
+  },
+  {
+    "id": "S30",
+    "category": "coffee_makers",
+    "brief": "A drip coffee maker that makes at least 10 cups, under $70. Low price matters most; good ratings and a programmable timer matter equally after that.",
+    "constraints": [
+      {
+        "attr": "price",
+        "op": "<=",
+        "value": 70
+      },
+      {
+        "attr": "capacity_cups",
+        "op": ">=",
+        "value": 10
+      }
+    ],
+    "weights": {
+      "price": 0.4,
+      "rating": 0.3,
+      "programmable": 0.3
+    }
+  }
+]

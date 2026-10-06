@@ -1,0 +1,122 @@
+{
+  "S01": {
+    "product_id": "hp-032",
+    "rank": 2
+  },
+  "S02": {
+    "product_id": "hp-055",
+    "rank": 3
+  },
+  "S03": {
+    "product_id": "hp-032",
+    "rank": 2
+  },
+  "S04": {
+    "product_id": "hp-040",
+    "rank": 3
+  },
+  "S05": {
+    "product_id": "hp-086",
+    "rank": 4
+  },
+  "S06": {
+    "product_id": "hp-023",
+    "rank": 4
+  },
+  "S07": {
+    "product_id": "hp-078",
+    "rank": 4
+  },
+  "S08": {
+    "product_id": "hp-037",
+    "rank": 4
+  },
+  "S09": {
+    "product_id": "hp-005",
+    "rank": 4
+  },
+  "S10": {
+    "product_id": "hp-018",
+    "rank": 2
+  },
+  "S11": {
+    "product_id": "lt-030",
+    "rank": 3
+  },
+  "S12": {
+    "product_id": "lt-046",
+    "rank": 2
+  },
+  "S13": {
+    "product_id": "lt-007",
+    "rank": 4
+  },
+  "S14": {
+    "product_id": "lt-006",
+    "rank": 4
+  },
+  "S15": {
+    "product_id": "lt-028",
+    "rank": 2
+  },
+  "S16": {
+    "product_id": "lt-040",
+    "rank": 2
+  },
+  "S17": {
+    "product_id": "lt-006",
+    "rank": 3
+  },
+  "S18": {
+    "product_id": "lt-039",
+    "rank": 2
+  },
+  "S19": {
+    "product_id": "lt-030",
+    "rank": 4
+  },
+  "S20": {
+    "product_id": "lt-057",
+    "rank": 2
+  },
+  "S21": {
+    "product_id": "cm-028",
+    "rank": 4
+  },
+  "S22": {
+    "product_id": "cm-046",
+    "rank": 2
+  },
+  "S23": {
+    "product_id": "cm-001",
+    "rank": 4
+  },
+  "S24": {
+    "product_id": "cm-020",
+    "rank": 2
+  },
+  "S25": {
+    "product_id": "cm-038",
+    "rank": 2
+  },
+  "S26": {
+    "product_id": "cm-006",
+    "rank": 2
+  },
+  "S27": {
+    "product_id": "cm-057",
+    "rank": 3
+  },
+  "S28": {
+    "product_id": "cm-010",
+    "rank": 4
+  },
+  "S29": {
+    "product_id": "cm-041",
+    "rank": 2
+  },
+  "S30": {
+    "product_id": "cm-028",
+    "rank": 3
+  }
+}

@@ -1,0 +1,4156 @@
+{
+  "headphones": [
+    {
+      "id": "hp-001",
+      "category": "headphones",
+      "asin": "B09PRC3WC5",
+      "name": "TOZO A1 Mini Wireless Earbuds",
+      "brand": "TOZO",
+      "price": 15.29,
+      "rating": 4.3,
+      "rating_count": 57772,
+      "attributes": {
+        "form_factor": "in_ear",
+        "noise_cancelling": false,
+        "battery_hours": 5.5,
+        "weight_g": 3.7
+      },
+      "source_title": "TOZO A1 Mini Wireless Earbuds Bluetooth 5.3 in Ear Light-Weight Headphones Built-in Microphone, IPX5 Waterproof, Immersive Premium Sound Long Distance Connection Headset with Charging Case, Black"
+    },
+    {
+      "id": "hp-002",
+      "category": "headphones",
+      "asin": "B0C2PMXT82",
+      "name": "IKT Wireless Earbuds Bluetooth 5.3",
+      "brand": "IKT",
+      "price": 16.57,
+      "rating": 4.9,
+      "rating_count": 175,
+      "attributes": {
+        "form_factor": "in_ear",
+        "noise_cancelling": false,
+        "battery_hours": 10.0,
+        "weight_g": 80.0
+      },
+      "source_title": "IKT Wireless Earbuds, Bluetooth Headphones 5.3, 60Hrs Playtime USB-C Charging Case, LED Display, ENC Clear Talk, Deep Bass, Comfortable Fit, Over-Ear IPX7 Waterproof Earphones with Earhooks."
+    },
+    {
+      "id": "hp-003",
+      "category": "headphones",
+      "asin": "B09785BLYG",
+      "name": "JVC HA-EN15WH Gumy Sport Wireless Earbuds",
+      "brand": "JVC",
+      "price": 16.99,
+      "rating": 3.8,
+      "rating_count": 47,
+      "attributes": {
+        "form_factor": "in_ear",
+        "noise_cancelling": false,
+        "battery_hours": 6.5,
+        "weight_g": 17.97
+      },
+      "source_title": "JVC HA-EN15WH Gumy Sport Wireless Earbuds - In Ear Bluetooth Sports Headphones with Secure & Comfortable Soft Nozzle Fit Earpieces, Sweat Proof IPX2, 6.5 Hour Rechargeable Battery Mic & Remote (White)"
+    },
+    {
+      "id": "hp-004",
+      "category": "headphones",
+      "asin": "B09WD1B2P1",
+      "name": "Picun B12 Wireless Bluetooth Headphones",
+      "brand": "Picun",
+      "price": 16.99,
+      "rating": 4.4,
+      "rating_count": 4018,
+      "attributes": {
+        "form_factor": "over_ear",
+        "noise_cancelling": false,
+        "battery_hours": 20.0,
+        "weight_g": 320.5
+      },
+      "source_title": "Picun B12 Wireless Bluetooth Headphones,HD Stereo Sound Over Ear Headphones with Built-in Microphones, Deep Bass 20 Hours Playtime, Fast Charge Bluetooth 5.2 Headset for Adults, School, Travel, Black"
+    },
+    {
+      "id": "hp-005",
+      "category": "headphones",
+      "asin": "B00DIOALWC",
+      "name": "Plantronics BackBeat GO 2 Bluetooth Wireless Earbuds",
+      "brand": "Plantronics",
+      "price": 17.99,
+      "rating": 3.3,
+      "rating_count": 228,
+      "attributes": {
+        "form_factor": "in_ear",
+        "noise_cancelling": false,
+        "battery_hours": 4.5,
+        "weight_g": 22.68
+      },
+      "source_title": "Plantronics BackBeat GO 2 Bluetooth Wireless Stereo Earbuds - Retail Packaging - White"
+    },
+    {
+      "id": "hp-006",
+      "category": "headphones",
+      "asin": "B0BMVWWP2B",
+      "name": "Coucur Q22 Wireless Earbuds",
+      "brand": "Coucur",
+      "price": 17.99,
+      "rating": 4.0,
+      "rating_count": 1238,
+      "attributes": {
+        "form_factor": "in_ear",
+        "noise_cancelling": true,
+        "battery_hours": 5.0,
+        "weight_g": 181.44
+      },
+      "source_title": "Coucur Wireless Earbuds Sports, Bluetooth 5.1 Headphones with Mic Deep Bass Bluetooth Earphones in-Ear, CVC8.0 Noise Cancelling Earbuds for Running Gym IP7 Waterproof, 100H Playtime, Touch Control"
+    },
+    {
+      "id": "hp-007",
+      "category": "headphones",
+      "asin": "B093X44MP1",
+      "name": "Prosonic N10 Wireless Neckband Headphones",
+      "brand": "P Prosonic",
+      "price": 18.98,
+      "rating": 4.1,
+      "rating_count": 219,
+      "attributes": {
+        "form_factor": "in_ear",
+        "noise_cancelling": false,
+        "battery_hours": 12.0,
+        "weight_g": 189.9
+      },
+      "source_title": "Prosonic N10 Wireless Neckband Headphones with 12mm Drivers, 12 Hours Playtime, HD Stereo Crystal Clear Sound, IPX5 Waterproof, Sporty and Ergonomic Neck Hanging Design (Black Burgundy)"
+    },
+    {
+      "id": "hp-008",
+      "category": "headphones",
+      "asin": "B09MT1KBH9",
+      "name": "ZXQ Q2 Wireless Neckband Earbuds",
+      "brand": "ZXQ",
+      "price": 19.97,
+      "rating": 3.9,
+      "rating_count": 192,
+      "attributes": {
+        "form_factor": "in_ear",
+        "noise_cancelling": false,
+        "battery_hours": 12.0,
+        "weight_g": 31.75
+      },
+      "source_title": "ZXQ Q2 Wireless Neckband Bluetooth Headphones, Neckband Earbuds with Magnetic, Wireless Sport Earphones with Microphone, 12 Hours Playtime,USB Type C Charge Port, with Carry Case Ear Hook (Black)"
+    },
+    {
+      "id": "hp-009",
+      "category": "headphones",
+      "asin": "B0B1MNFSG9",
+      "name": "BULYPAZY Sleep Headphones Bluetooth Headband",
+      "brand": "BULYPAZY",
+      "price": 19.98,
+      "rating": 4.0,
+      "rating_count": 957,
+      "attributes": {
+        "form_factor": "on_ear",
+        "noise_cancelling": false,
+        "battery_hours": 10.0,
+        "weight_g": 16.0
+      },
+      "source_title": "BULYPAZY Sleep Headphones, 2023 Bluetooth Headband Headphones with HD Speakers and Mic Perfect for Side Sleepers Sleeping Calling Jogging Yoga Workout Gift Ideas-Unisex (HF012-Gray)"
+    },
+    {
+      "id": "hp-010",
+      "category": "headphones",
+      "asin": "B093X84ZB8",
+      "name": "Bud Light Wireless Earbuds",
+      "brand": "Budweiser",
+      "price": 19.99,
+      "rating": 3.4,
+      "rating_count": 88,
+      "attributes": {
+        "form_factor": "in_ear",
+        "noise_cancelling": false,
+        "battery_hours": 9.0,
+        "weight_g": 172.91
+      },
+      "source_title": "Bud Light Wireless Earbuds with Can Charging Case High-Definition Stereo Sound Earplugs with Up to 9 Hours Playtime Bluetooth 5.0 with Microphone for Sports and Works"
+    },
+    {
+      "id": "hp-011",
+      "category": "headphones",
+      "asin": "B0BZ6XH3LC",
+      "name": "ZIUTY Wireless Earbuds Bluetooth 5.3",
+      "brand": "ZIUTY",
+      "price": 19.99,
+      "rating": 4.6,
+      "rating_count": 11237,
+      "attributes": {
+        "form_factor": "in_ear",
+        "noise_cancelling": false,
+        "battery_hours": 5.0,
+        "weight_g": 3.96
+      },
+      "source_title": "ZIUTY Wireless Earbuds, Bluetooth 5.3 Headphones 50H Playtime with LED Digital Display Charging Case, IPX5 Waterproof Earphones with Mic for Android iOS Cell Phone Computer Laptop Sports (White)"
+    },
+    {
+      "id": "hp-012",
+      "category": "headphones",
+      "asin": "B0B3JRFRLV",
+      "name": "coioc Wireless Earbuds",
+      "brand": "coioc",
+      "price": 19.99,
+      "rating": 4.4,
+      "rating_count": 3772,
+      "attributes": {
+        "form_factor": "in_ear",
+        "noise_cancelling": false,
+        "battery_hours": 5.0,
+        "weight_g": 3.3
+      },
+      "source_title": "coioc Wireless Earbuds, Bluetooth Headphones, Ultra-Light and Bluetooth 5.3, CVC8.0 Bluetooth Earbuds, 30H with Mini Charging Case, USB-C Fast Charge, Deep Bass, IPX7 Waterproof, for Work,Travel"
+    },
+    {
+      "id": "hp-013",
+      "category": "headphones",
+      "asin": "B09QKF94X6",
+      "name": "MURPISO U-Pro 2 Wireless Earbuds",
+      "brand": "MURPISO",
+      "price": 19.99,
+      "rating": 4.2,
+      "rating_count": 2202,
+      "attributes": {
+        "form_factor": "in_ear",
+        "noise_cancelling": true,
+        "battery_hours": 8.0,
+        "weight_g": 141.75
+      },
+      "source_title": "MURPISO Wireless Earbuds, Active Noise Cancelling Bluetooth5.2 Deep Bass Headphones with 4 Mics, 35 Hours Playtime, IPX6 Waterproof Earphones, in-Ear Bluetooth Earbuds for iPhone Android Black"
+    },
+    {
+      "id": "hp-014",
+      "category": "headphones",
+      "asin": "B0BC8JS6L1",
+      "name": "taopod U-Air Wireless Earphones",
+      "brand": "taopod",
+      "price": 19.99,
+      "rating": 4.4,
+      "rating_count": 164,
+      "attributes": {
+        "form_factor": "in_ear",
+        "noise_cancelling": false,
+        "battery_hours": 6.0,
+        "weight_g": 47.0
+      },
+      "source_title": "taopod Wireless Headphones, Bluetooth Earphones with LED Display, 42H Playtime, IPX7 Waterproof, Mini Earbud with Deep Bass, Bluetooth 5.3 Earphones for Sports Running Workout"
+    },
+    {
+      "id": "hp-015",
+      "category": "headphones",
+      "asin": "B08VNLSM15",
+      "name": "PRTUKYT 6S Wireless Bluetooth Headphones",
+      "brand": "PRTUKYT",
+      "price": 19.99,
+      "rating": 4.1,
+      "rating_count": 1948,
+      "attributes": {
+        "form_factor": "over_ear",
+        "noise_cancelling": false,
+        "battery_hours": 20.0,
+        "weight_g": 290.0
+      },
+      "source_title": "PRTUKYT 6S Wireless Bluetooth Headphones Over Ear"
+    },
+    {
+      "id": "hp-016",
+      "category": "headphones",
+      "asin": "B09CTFJ9NH",
+      "name": "Fulext Sleep Headphones Bluetooth Headband",
+      "brand": "Fulext",
+      "price": 19.99,
+      "rating": 4.3,
+      "rating_count": 689,
+      "attributes": {
+        "form_factor": "on_ear",
+        "noise_cancelling": false,
+        "battery_hours": 10.0,
+        "weight_g": 90.72
+      },
+      "source_title": "Fulext Sleep Headphones Bluetooth Headband, Upgrage Soft Sleeping Wireless Music Sport Headbands, Long Time Play Sleeping Headsets with Built in Speakers Perfect for Workout, Running, Yoga"
+    },
+    {
+      "id": "hp-017",
+      "category": "headphones",
+      "asin": "B0B5V5TG95",
+      "name": "MUSICOZY Sleep Headphones Wireless Bluetooth 5.2",
+      "brand": "MUSICOZY",
+      "price": 19.99,
+      "rating": 4.3,
+      "rating_count": 20787,
+      "attributes": {
+        "form_factor": "on_ear",
+        "noise_cancelling": false,
+        "battery_hours": 10.0,
+        "weight_g": 105.0
+      },
+      "source_title": "MUSICOZY Sleep Headphones Wireless Bluetooth 5.2 Sports Headband Headphones Earbuds Earphones with HD Stereo Speakers Unique Cool Gadgets for Running Workout Jogging Yoga Insomnia"
+    },
+    {
+      "id": "hp-018",
+      "category": "headphones",
+      "asin": "B0BWFDFH3Y",
+      "name": "Falebare 6S Bluetooth Headphones",
+      "brand": "Falebare",
+      "price": 21.99,
+      "rating": 4.3,
+      "rating_count": 673,
+      "attributes": {
+        "form_factor": "over_ear",
+        "noise_cancelling": false,
+        "battery_hours": 40.0,
+        "weight_g": 17.97
+      },
+      "source_title": "Bluetooth Headphones Over Ear, 6S Foldable Wireless Headphones with 6 EQ Modes, 40 Hours Playtime HiFi Stereo Headset with Mic, Soft Ear Pads, TF/FM for Cellphone/PC/Home (White & Gold)"
+    },
+    {
+      "id": "hp-019",
+      "category": "headphones",
+      "asin": "B09F9PNB77",
+      "name": "EXMAX H5 Bluetooth Over Ear Headphones",
+      "brand": "EXMAX",
+      "price": 22.95,
+      "rating": 3.9,
+      "rating_count": 69,
+      "attributes": {
+        "form_factor": "over_ear",
+        "noise_cancelling": false,
+        "battery_hours": 60.0,
+        "weight_g": 147.0
+      },
+      "source_title": "EXMAX H5 Bluetooth Headphones Over Ear Hi-Fi Stereo Wireless & Wired Over-Ear Headphones Headset + Microphone Foldable Comfortable Earmuffs Earpads 60 Hours Playtime for Online Class PC Cellphones TV"
+    },
+    {
+      "id": "hp-020",
+      "category": "headphones",
+      "asin": "B09H2PFK4H",
+      "name": "UMUTOO Wireless Headphones with FM Radio",
+      "brand": "UMUTOO",
+      "price": 23.99,
+      "rating": 4.3,
+      "rating_count": 187,
+      "attributes": {
+        "form_factor": "over_ear",
+        "noise_cancelling": false,
+        "battery_hours": 24.0,
+        "weight_g": 160.0
+      },
+      "source_title": "UMUTOO Wireless Headphones with FM Radio and Bluetooth 5.0, Rechargeable Portable Headset with Built-in Microphone, Lightweight and Comfortable Ear Muffs for Jogging, Mowing, Cycling, and More"
+    },
+    {
+      "id": "hp-021",
+      "category": "headphones",
+      "asin": "B09HSL3QRG",
+      "name": "OYEALEX Active Noise Cancelling Over Ear Headphones",
+      "brand": "OYEALEX",
+      "price": 24.99,
+      "rating": 4.1,
+      "rating_count": 370,
+      "attributes": {
+        "form_factor": "over_ear",
+        "noise_cancelling": true,
+        "battery_hours": 10.0,
+        "weight_g": 210.0
+      },
+      "source_title": "OYEALEX Active Noise Cancelling Over Ear Headphone Bluetooth Wireless Headphones with Microphone Deep Bass Foldable Comfortable Headphones for Online Class, Home Office, PC/Cell Phones/Game Orange"
+    },
+    {
+      "id": "hp-022",
+      "category": "headphones",
+      "asin": "B086LL8V2G",
+      "name": "JLab Go Air True Wireless Earbuds",
+      "brand": "JLab",
+      "price": 24.99,
+      "rating": 4.2,
+      "rating_count": 32335,
+      "attributes": {
+        "form_factor": "in_ear",
+        "noise_cancelling": false,
+        "battery_hours": 5.0,
+        "weight_g": 60.0
+      },
+      "source_title": "JLab Go Air True Wireless Bluetooth Earbuds + Charging Case | Black | Dual Connect | IP44 Sweat Resistance | Bluetooth 5.0 Connection | 3 EQ Sound Settings Signature, Balanced, Bass Boost"
+    },
+    {
+      "id": "hp-023",
+      "category": "headphones",
+      "asin": "B0BYSBT5CV",
+      "name": "IOTTICKER Wireless Earbuds Bluetooth 5.3",
+      "brand": "IOTTICKER",
+      "price": 24.99,
+      "rating": 4.1,
+      "rating_count": 131,
+      "attributes": {
+        "form_factor": "in_ear",
+        "noise_cancelling": true,
+        "battery_hours": 6.0,
+        "weight_g": 3.0
+      },
+      "source_title": "IOTTICKER Wireless Earbuds Bluetooth 5.3, Wireless Headphones 22H Playtime, HiFi Stereo Earphones with 4 Mic ENC Noise Cancelling, Transparent Headset Sweatproof Suitable for iPhone iOS Android Black"
+    },
+    {
+      "id": "hp-024",
+      "category": "headphones",
+      "asin": "B0BKJSSK8Y",
+      "name": "EAGLEND Bluetooth Headset with Microphone",
+      "brand": "EAGLEND",
+      "price": 24.99,
+      "rating": 3.6,
+      "rating_count": 24,
+      "attributes": {
+        "form_factor": "on_ear",
+        "noise_cancelling": false,
+        "battery_hours": 14.0,
+        "weight_g": 209.8
+      },
+      "source_title": "Bluetooth Headset with Microphone Wireless Headphones - Computer Headsets with ENC Noise Cancelling Mic Mute V5.0 On Ear Headphones for Laptop/iPhone/Android/Cell Phones/Zoom/Ms Teams/Skype"
+    },
+    {
+      "id": "hp-025",
+      "category": "headphones",
+      "asin": "B0C6JKPMQY",
+      "name": "AAOCLO Waterproof Bluetooth 5.3 True Wireless Earbuds",
+      "brand": "OKKOOK",
+      "price": 25.0,
+      "rating": 4.3,
+      "rating_count": 110,
+      "attributes": {
+        "form_factor": "in_ear",
+        "noise_cancelling": false,
+        "battery_hours": 6.5,
+        "weight_g": 4.0
+      },
+      "source_title": "AAOCLO Waterproof Bluetooth 5.3 True Wireless Earbuds, Touch Control,30H Cyclic Playtime TWS Headphones with Charging Case and mic, in-Ear Stereo Earphones Headset"
+    },
+    {
+      "id": "hp-026",
+      "category": "headphones",
+      "asin": "B0BLZ8HNDT",
+      "name": "CAPOXO D7 Wireless Earbuds",
+      "brand": "CAPOXO",
+      "price": 25.99,
+      "rating": 4.6,
+      "rating_count": 1173,
+      "attributes": {
+        "form_factor": "in_ear",
+        "noise_cancelling": false,
+        "battery_hours": 6.0,
+        "weight_g": 4.05
+      },
+      "source_title": "CAPOXO Wireless Earbuds Bluetooth Headphones 50Hrs Playtime with Wireless Charging Case&Dual LED Power Display, IPX7 Waterproof Earphones, in Ear Stereo Headset Built-in Mic for iPhone/Android"
+    },
+    {
+      "id": "hp-027",
+      "category": "headphones",
+      "asin": "B09G2F6G6L",
+      "name": "Vsonus H51 Active Noise Cancelling Headphones",
+      "brand": "Vsonus",
+      "price": 25.99,
+      "rating": 4.1,
+      "rating_count": 67,
+      "attributes": {
+        "form_factor": "over_ear",
+        "noise_cancelling": true,
+        "battery_hours": 30.0,
+        "weight_g": 325.08
+      },
+      "source_title": "Vsonus H51 Active Noise Cancelling Headphones, Wireless Over Ear Bluetooth Headphones, Heavy Bass, BT 5.0, 30H Playtime, Metal Cover, Comfortable Protein Earpads for Travel Home Office"
+    },
+    {
+      "id": "hp-028",
+      "category": "headphones",
+      "asin": "B0B6B2KMQZ",
+      "name": "Galirity Neckband Bluetooth Headphones",
+      "brand": "Galirity",
+      "price": 26.33,
+      "rating": 4.4,
+      "rating_count": 2821,
+      "attributes": {
+        "form_factor": "in_ear",
+        "noise_cancelling": true,
+        "battery_hours": 16.0,
+        "weight_g": 74.0
+      },
+      "source_title": "Bluetooth Headset, 2023 Upgraded Neckband Bluetooth Headphones with Retractable Earbuds, Noise Cancelling Stereo Earphones with Mic, Foldable Wireless Headphones for Sports Office with Carry Case"
+    },
+    {
+      "id": "hp-029",
+      "category": "headphones",
+      "asin": "B07CYZGQ12",
+      "name": "PowerLocus Bluetooth Over-Ear Headphones",
+      "brand": "PowerLocus",
+      "price": 26.99,
+      "rating": 4.4,
+      "rating_count": 47958,
+      "attributes": {
+        "form_factor": "over_ear",
+        "noise_cancelling": false,
+        "battery_hours": 15.0,
+        "weight_g": 165.0
+      },
+      "source_title": "PowerLocus Bluetooth Over-Ear Headphones, Wireless Stereo Foldable Headphones Wireless and Wired Headsets with Built-in Mic, Micro SD/TF, FM for iPhone/Samsung/iPad/PC (Purple)"
+    },
+    {
+      "id": "hp-030",
+      "category": "headphones",
+      "asin": "B0BRMV85ZK",
+      "name": "Aisizon Air Conduction H1 Wireless Headphones",
+      "brand": "Aisizon",
+      "price": 29.8,
+      "rating": 3.8,
+      "rating_count": 146,
+      "attributes": {
+        "form_factor": "on_ear",
+        "noise_cancelling": false,
+        "battery_hours": 8.0,
+        "weight_g": 16.0
+      },
+      "source_title": "Aisizon Air Conduction Headphones H1, Over Ear Sports Wireless Bluetooth Headphones, Open Ear Headphones Wireless Bluetooth for Runing, Gym Workout, Sports"
+    },
+    {
+      "id": "hp-031",
+      "category": "headphones",
+      "asin": "B09LQB3VTT",
+      "name": "ausounds Wireless Earbuds",
+      "brand": "ausounds",
+      "price": 29.95,
+      "rating": 3.9,
+      "rating_count": 150,
+      "attributes": {
+        "form_factor": "in_ear",
+        "noise_cancelling": false,
+        "battery_hours": 5.0,
+        "weight_g": 181.44
+      },
+      "source_title": "ausounds Wireless Earbuds, Bluetooth, Touch Control, Dual Mics, Workout Sweat Resistant(Navy)"
+    },
+    {
+      "id": "hp-032",
+      "category": "headphones",
+      "asin": "B0BRZ2BFVK",
+      "name": "E7 Active Noise Cancelling Headphones",
+      "brand": "Generic",
+      "price": 29.98,
+      "rating": 4.6,
+      "rating_count": 389,
+      "attributes": {
+        "form_factor": "over_ear",
+        "noise_cancelling": true,
+        "battery_hours": 30.0,
+        "weight_g": 388.35
+      },
+      "source_title": "E7 Active Noise Cancelling Headphones Bluetooth Headphones Over Ear Wireless Headphones with Microphone Deep Bass, Comfortable Protein Earpads, 30HPlaytime for Travel/Work"
+    },
+    {
+      "id": "hp-033",
+      "category": "headphones",
+      "asin": "B09PN6YZVP",
+      "name": "GIEC Wireless Earbuds",
+      "brand": "GIEC",
+      "price": 29.99,
+      "rating": 4.0,
+      "rating_count": 123,
+      "attributes": {
+        "form_factor": "in_ear",
+        "noise_cancelling": true,
+        "battery_hours": 60.0,
+        "weight_g": 50.0
+      },
+      "source_title": "GIEC Wireless Earbuds Bluetooth Earbuds Noise Cancelling Earbuds with Mic True Wireless Earbuds 60H Playtime IP55 Waterproof Earbuds in Ear Headphones Bluetooth Earbuds for Android and iOS White"
+    },
+    {
+      "id": "hp-034",
+      "category": "headphones",
+      "asin": "B0B6FQGNYR",
+      "name": "Hntmao T19 True Wireless Earbuds",
+      "brand": "Hntmao",
+      "price": 29.99,
+      "rating": 3.9,
+      "rating_count": 80,
+      "attributes": {
+        "form_factor": "in_ear",
+        "noise_cancelling": false,
+        "battery_hours": 4.5,
+        "weight_g": 95.8
+      },
+      "source_title": "Hntmao True Wireless Earbuds, IPX6 Waterprof Bluetoth Earbuds, 30H Cyclic Playtime Headphones with Charging Case and mic for iPhone Android, in-Ear Stereo Earphones Headset for Sport Green"
+    },
+    {
+      "id": "hp-035",
+      "category": "headphones",
+      "asin": "B0BRXDR9GF",
+      "name": "SoundPEATS RunFree Lite Open-Ear Headphones",
+      "brand": "SoundPEATS",
+      "price": 29.99,
+      "rating": 4.0,
+      "rating_count": 132,
+      "attributes": {
+        "form_factor": "in_ear",
+        "noise_cancelling": false,
+        "battery_hours": 17.0,
+        "weight_g": 28.03
+      },
+      "source_title": "SoundPEATS Air Conduction Headphones, RunFree Lite Open-Ear Sports Bluetooth V5.3 Headphones with Bass Boost and 17 Hours, Sweatproof Ultralight Headset for Running, Workouts, Comfortable Fit, USB-C"
+    },
+    {
+      "id": "hp-036",
+      "category": "headphones",
+      "asin": "B09JC8V5VN",
+      "name": "UNOSOUNDS On Ear Wireless Headphones",
+      "brand": "UNOSOUNDS",
+      "price": 29.99,
+      "rating": 3.5,
+      "rating_count": 34,
+      "attributes": {
+        "form_factor": "on_ear",
+        "noise_cancelling": false,
+        "battery_hours": 6.0,
+        "weight_g": 272.16
+      },
+      "source_title": "UNOSOUNDS On Ear Headphones, Wireless and Bluetooth, Noise Reducing, Comfortable Design, Built in Mic and Wired Mode for Mobile, PC & TV, Includes 3.5mm Aux Cable and USB Charger (Black)"
+    },
+    {
+      "id": "hp-037",
+      "category": "headphones",
+      "asin": "B0B5GRZ3FW",
+      "name": "sprtoybat Q35 Wireless Earbuds",
+      "brand": "sprtoybat",
+      "price": 29.99,
+      "rating": 4.4,
+      "rating_count": 6479,
+      "attributes": {
+        "form_factor": "in_ear",
+        "noise_cancelling": false,
+        "battery_hours": 5.0,
+        "weight_g": 6.0
+      },
+      "source_title": "Ultralight Sport Bluetooth 5.3 Headphones, Wireless Earbuds with Dual LED Battery Display 30Hrs Playtime, IPX7 Waterproof Wireless Headphones with Earhooks, Built-in Mic Earphones for Gym Black"
+    },
+    {
+      "id": "hp-038",
+      "category": "headphones",
+      "asin": "B09Y4JMLD3",
+      "name": "POMUIC Wireless Earbuds Bluetooth 5.1",
+      "brand": "POMUIC",
+      "price": 29.99,
+      "rating": 4.1,
+      "rating_count": 996,
+      "attributes": {
+        "form_factor": "in_ear",
+        "noise_cancelling": false,
+        "battery_hours": 5.5,
+        "weight_g": 150.0
+      },
+      "source_title": "POMUIC Wireless Earbuds, Bluetooth 5.1 Headphones with 4 HD Microphone, 60Hrs Playback Sport Earphones with LED Display, IP7 Waterproof, in Ear Bluetooth Earbuds with Earhooks, Headset for Sport Work"
+    },
+    {
+      "id": "hp-039",
+      "category": "headphones",
+      "asin": "B09414PJ6Q",
+      "name": "PowerLocus Bluetooth Headphones Over-Ear",
+      "brand": "PowerLocus",
+      "price": 29.99,
+      "rating": 4.4,
+      "rating_count": 860,
+      "attributes": {
+        "form_factor": "over_ear",
+        "noise_cancelling": false,
+        "battery_hours": 70.0,
+        "weight_g": 311.0
+      },
+      "source_title": "Bluetooth Headphones, PowerLocus Bluetooth Headphones Over-Ear, Passive Noise Cancelling Headphone with Microphone, 70Hrs Playtime, Foldable Wireless Headphones,Hi-Fi Deep Bass for Work,Home Office,PC"
+    },
+    {
+      "id": "hp-040",
+      "category": "headphones",
+      "asin": "B09KVHV2MF",
+      "name": "Cabor Over Ear Wireless Headphones",
+      "brand": "Cabor",
+      "price": 29.99,
+      "rating": 3.7,
+      "rating_count": 240,
+      "attributes": {
+        "form_factor": "on_ear",
+        "noise_cancelling": false,
+        "battery_hours": 20.0,
+        "weight_g": 99.8
+      },
+      "source_title": "Cabor Over Ear Wireless Headphones Behind The Head – Soft Wrap Around Headphones with Microphone, 20-Hour Battery Life, Foldable for Workout, Office, Walking, and Running, Black"
+    },
+    {
+      "id": "hp-041",
+      "category": "headphones",
+      "asin": "B095GFVX6T",
+      "name": "BEARTWO Bluetooth Neckband Headphones",
+      "brand": "BEARTWO",
+      "price": 31.98,
+      "rating": 4.1,
+      "rating_count": 16023,
+      "attributes": {
+        "form_factor": "in_ear",
+        "noise_cancelling": true,
+        "battery_hours": 16.0,
+        "weight_g": 74.0
+      },
+      "source_title": "BEARTWO Bluetooth Headphones, Upgraded Foldable Wireless Neckband Headset with Retractable Earbuds, Noise Cancelling Stereo Earphones with Mic for Workout, Running, Driving (with Carry Case)"
+    },
+    {
+      "id": "hp-042",
+      "category": "headphones",
+      "asin": "B0C5WV8GJ9",
+      "name": "fojep BX28 Wireless Earbuds",
+      "brand": "fojep",
+      "price": 32.39,
+      "rating": 4.6,
+      "rating_count": 2893,
+      "attributes": {
+        "form_factor": "in_ear",
+        "noise_cancelling": true,
+        "battery_hours": 7.0,
+        "weight_g": 141.7
+      },
+      "source_title": "Wireless Earbuds,Ture Wireless Bluetooth 5.3 Earbuds,75H Playtime IPX7 Waterproof Headphones with LED Digital Display & CVC 8.0 Noise Cancelling Mic in-Ear Earphone for iPhone Android"
+    },
+    {
+      "id": "hp-043",
+      "category": "headphones",
+      "asin": "B0C1KX2J75",
+      "name": "SoundPEATS Q30 HD Bluetooth Earbuds",
+      "brand": "SoundPEATS",
+      "price": 32.99,
+      "rating": 4.2,
+      "rating_count": 2675,
+      "attributes": {
+        "form_factor": "in_ear",
+        "noise_cancelling": false,
+        "battery_hours": 13.0,
+        "weight_g": 16.15
+      },
+      "source_title": "SoundPEATS Q30 HD Bluetooth Headphones in-Ear Stereo Wireless 5.0 Magnetic Earphones IPX6 Sweatproof Earbuds with Mic for Sports, Immersive Bass, 10mm Drivers, aptX-HD, 13 Hours Playtime"
+    },
+    {
+      "id": "hp-044",
+      "category": "headphones",
+      "asin": "B00VIKYN8Q",
+      "name": "Bluedio H Plus Wireless Bluetooth Headphones",
+      "brand": "Bluedio",
+      "price": 33.99,
+      "rating": 4.0,
+      "rating_count": 1327,
+      "attributes": {
+        "form_factor": "on_ear",
+        "noise_cancelling": false,
+        "battery_hours": 40.0,
+        "weight_g": 207.0
+      },
+      "source_title": "Bluedio H Plus Turbine Wireless Bluetooth 5.0 Stereo Headphones with Mic/Micro SD Card Slot/FM Radio, Black"
+    },
+    {
+      "id": "hp-045",
+      "category": "headphones",
+      "asin": "B07QLN8MNJ",
+      "name": "JBL TUNE 500BT On-Ear Wireless Headphones",
+      "brand": "JBL",
+      "price": 34.95,
+      "rating": 4.6,
+      "rating_count": 11309,
+      "attributes": {
+        "form_factor": "on_ear",
+        "noise_cancelling": false,
+        "battery_hours": 16.0,
+        "weight_g": 155.0
+      },
+      "source_title": "JBL TUNE 500BT - On-Ear Wireless Bluetooth Headphone - Black"
+    },
+    {
+      "id": "hp-046",
+      "category": "headphones",
+      "asin": "B06WP1NXBX",
+      "name": "JVC HAS190BTR Wireless On Ear Headphones",
+      "brand": "JVC",
+      "price": 34.99,
+      "rating": 4.4,
+      "rating_count": 116,
+      "attributes": {
+        "form_factor": "on_ear",
+        "noise_cancelling": false,
+        "battery_hours": 17.0,
+        "weight_g": 140.61
+      },
+      "source_title": "JVC Wireless Lightweight Flat Foldable On Ear Bluetooth Wireless Headband with Mic, Red (HAS190BTR)"
+    },
+    {
+      "id": "hp-047",
+      "category": "headphones",
+      "asin": "B0BZSB33DJ",
+      "name": "Baseus Bowie WM02+ Wireless Earbuds",
+      "brand": "Baseus",
+      "price": 35.89,
+      "rating": 4.3,
+      "rating_count": 416,
+      "attributes": {
+        "form_factor": "in_ear",
+        "noise_cancelling": false,
+        "battery_hours": 50.0,
+        "weight_g": 167.1
+      },
+      "source_title": "Baseus Wireless Earbuds, 50 Hrs Playback Bluetooth 5.3 Anti-Loss Bluetooth Headphones LED Power Display 60ms Low-Latency Fast-Charging in-Ear Earphone for iPhone and Android (Bowie WM02+)"
+    },
+    {
+      "id": "hp-048",
+      "category": "headphones",
+      "asin": "B09B1KVQ9Q",
+      "name": "JVC True Wireless Earbuds HAA8TR",
+      "brand": "JVC",
+      "price": 37.55,
+      "rating": 3.8,
+      "rating_count": 105,
+      "attributes": {
+        "form_factor": "in_ear",
+        "noise_cancelling": false,
+        "battery_hours": 6.0,
+        "weight_g": 90.7
+      },
+      "source_title": "JVC True Wireless Earbuds Headphones, Bluetooth 5.0, Water Resistance (IPX4), Long Battery Life (up to 15 Hours) - HAA8TR (Red)"
+    },
+    {
+      "id": "hp-049",
+      "category": "headphones",
+      "asin": "B08XYT192L",
+      "name": "I LOVE EF IFECCO Wireless Bluetooth Headphones",
+      "brand": "I LOVE EF IFECCO",
+      "price": 38.79,
+      "rating": 4.3,
+      "rating_count": 2291,
+      "attributes": {
+        "form_factor": "over_ear",
+        "noise_cancelling": false,
+        "battery_hours": 30.0,
+        "weight_g": 331.7
+      },
+      "source_title": "I LOVE EF IFECCO Wireless Bluetooth Headphones Over Ear with Build-in Microphone and 3.5mm Cable for Wired Headset Mode with HD Stereo Sound Soft Earpads Long Battery Life"
+    },
+    {
+      "id": "hp-050",
+      "category": "headphones",
+      "asin": "B0BV6N4LR9",
+      "name": "esonstyle S22 Over Ear Bluetooth Headphones",
+      "brand": "esonstyle",
+      "price": 38.99,
+      "rating": 4.3,
+      "rating_count": 671,
+      "attributes": {
+        "form_factor": "over_ear",
+        "noise_cancelling": false,
+        "battery_hours": 30.0,
+        "weight_g": 208.0
+      },
+      "source_title": "esonstyle Bluetooth Headphones Over Ear Foldable Wireless and Wired Stereo Headset with Mic Soft Earmuffs Light Weight for Phone TV PC Online Class Home Office (Apricot)"
+    },
+    {
+      "id": "hp-051",
+      "category": "headphones",
+      "asin": "B0B3LXYHVH",
+      "name": "Ulacici U20 Active Noise Cancelling Headphones",
+      "brand": "Ulacici",
+      "price": 39.31,
+      "rating": 4.3,
+      "rating_count": 470,
+      "attributes": {
+        "form_factor": "over_ear",
+        "noise_cancelling": true,
+        "battery_hours": 40.0,
+        "weight_g": 188.0
+      },
+      "source_title": "Active Noise Cancelling Headphones,Wireless Bluetooth Headphones Built-in Mic 40 Hours Playtime Wireless Noise Cancelling Headphone 3D Low Bass Tone Fast Charge for Cellphone/Work/Gym/TravelComputers"
+    },
+    {
+      "id": "hp-052",
+      "category": "headphones",
+      "asin": "B09BTDCYXV",
+      "name": "JLab Studio Pro Bluetooth Wireless Over-Ear",
+      "brand": "JLab",
+      "price": 39.88,
+      "rating": 4.2,
+      "rating_count": 2449,
+      "attributes": {
+        "form_factor": "over_ear",
+        "noise_cancelling": false,
+        "battery_hours": 50.0,
+        "weight_g": 289.2
+      },
+      "source_title": "JLab Studio Pro Bluetooth Wireless Over-Ear Headphones | 50+ Hour Bluetooth 5 Playtime | EQ3 Sound | Ultra-Plush Faux Leather & Cloud Foam Cushions | Track and Volume Controls (Slate)"
+    },
+    {
+      "id": "hp-053",
+      "category": "headphones",
+      "asin": "B0C4H1FMVG",
+      "name": "FXDTECH Wireless Earbuds",
+      "brand": "FXDTECH",
+      "price": 39.97,
+      "rating": 4.6,
+      "rating_count": 1165,
+      "attributes": {
+        "form_factor": "in_ear",
+        "noise_cancelling": true,
+        "battery_hours": 5.5,
+        "weight_g": 3.5
+      },
+      "source_title": "Wireless Earbuds,Bluetooth Headphones,HiFi Sterero Auto Pairing Earphones with Mic &Charging Case & 36H Playtime,IP7 Waterproof Noise Cancellation Bluetooth Ear buds for iPhone/Samsung/AirPods/workout"
+    },
+    {
+      "id": "hp-054",
+      "category": "headphones",
+      "asin": "B09Q8XXXXJ",
+      "name": "AMAFACE Skull Wireless Earbuds",
+      "brand": "AMAFACE",
+      "price": 39.99,
+      "rating": 4.3,
+      "rating_count": 1496,
+      "attributes": {
+        "form_factor": "in_ear",
+        "noise_cancelling": false,
+        "battery_hours": 6.0,
+        "weight_g": 4.0
+      },
+      "source_title": "AMAFACE Skull Wireless Earbuds Cool Bluetooth Headphones for Skeleton Lovers 36H Play Time Waterproof Stereo Bluetooth Earphones USB-C LED Display Single/Twin Mode Cartoon Earset for iPhones Android"
+    },
+    {
+      "id": "hp-055",
+      "category": "headphones",
+      "asin": "B092HWCDVW",
+      "name": "SOUL S-Nano True Wireless Earbuds",
+      "brand": "SOUL",
+      "price": 39.99,
+      "rating": 4.1,
+      "rating_count": 259,
+      "attributes": {
+        "form_factor": "in_ear",
+        "noise_cancelling": false,
+        "battery_hours": 5.5,
+        "weight_g": 10.0
+      },
+      "source_title": "SOUL New S-Nano True Wireless Earbuds - in Ear Headphones, Ultra Portable, Bluetooth, IPX5 Waterproof, Transparency Mode - Lime"
+    },
+    {
+      "id": "hp-056",
+      "category": "headphones",
+      "asin": "B07WF9SLQP",
+      "name": "Phiaton BT 390 On Ear Wireless Headphones",
+      "brand": "Phiaton",
+      "price": 39.99,
+      "rating": 3.3,
+      "rating_count": 46,
+      "attributes": {
+        "form_factor": "on_ear",
+        "noise_cancelling": false,
+        "battery_hours": 30.0,
+        "weight_g": 142.1
+      },
+      "source_title": "Phiaton BT 390 on Ear Hi-Fi Stereo Wireless Bluetooth Headphones, Foldable, Noise Isolation, EverPlay-X Wireless Headset, 30 Hours Play Time, with Deep Bass Stereo and Mic, Black"
+    },
+    {
+      "id": "hp-057",
+      "category": "headphones",
+      "asin": "B09T77MS2W",
+      "name": "Altec Lansing Nanophones ANC Bluetooth",
+      "brand": "Altec Lansing",
+      "price": 39.99,
+      "rating": 4.3,
+      "rating_count": 54,
+      "attributes": {
+        "form_factor": "on_ear",
+        "noise_cancelling": true,
+        "battery_hours": 12.0,
+        "weight_g": 331.7
+      },
+      "source_title": "Altec Lansing Nanophones ANC Bluetooth Wireless Active Noise Cancelling Headphones On Ear Headphones 12 Hour Battery Life, Foldable Earcups, Removeable Mic for Working and Learning from Home (Grey)"
+    },
+    {
+      "id": "hp-058",
+      "category": "headphones",
+      "asin": "B07G2XC8C6",
+      "name": "Plantronics BackBeat GO 410 Wireless Earbuds",
+      "brand": "Plantronics",
+      "price": 44.99,
+      "rating": 3.8,
+      "rating_count": 433,
+      "attributes": {
+        "form_factor": "in_ear",
+        "noise_cancelling": true,
+        "battery_hours": 8.0,
+        "weight_g": 34.0
+      },
+      "source_title": "Plantronics BackBeat GO 410 Wireless Headphones, Active Noise Canceling Earbuds, Graphite"
+    },
+    {
+      "id": "hp-059",
+      "category": "headphones",
+      "asin": "B07VQFHHDF",
+      "name": "August EP636 Bluetooth Headphones",
+      "brand": "August",
+      "price": 45.95,
+      "rating": 4.2,
+      "rating_count": 1716,
+      "attributes": {
+        "form_factor": "on_ear",
+        "noise_cancelling": false,
+        "battery_hours": 12.5,
+        "weight_g": 126.0
+      },
+      "source_title": "August EP636 Bluetooth Headphones - Wireless On-Ear Headphones with NFC/Headset Microphone - Silver"
+    },
+    {
+      "id": "hp-060",
+      "category": "headphones",
+      "asin": "B0B3JDDJG5",
+      "name": "Panadia Bone Conduction Headphones",
+      "brand": "Panadia",
+      "price": 45.95,
+      "rating": 4.3,
+      "rating_count": 1361,
+      "attributes": {
+        "form_factor": "in_ear",
+        "noise_cancelling": false,
+        "battery_hours": 6.0,
+        "weight_g": 29.0
+      },
+      "source_title": "Panadia Bone Conduction Headphones,Open Ear Bluetooth Headphones with Built-in Mic,IPX7 Waterproof Wireless Sport Headset for Running Workout Gym (Black Red)"
+    },
+    {
+      "id": "hp-061",
+      "category": "headphones",
+      "asin": "B09FXN6G3T",
+      "name": "Silensys E7 Active Noise Cancelling Headphones",
+      "brand": "Silensys",
+      "price": 49.98,
+      "rating": 4.4,
+      "rating_count": 5672,
+      "attributes": {
+        "form_factor": "over_ear",
+        "noise_cancelling": true,
+        "battery_hours": 30.0,
+        "weight_g": 280.8
+      },
+      "source_title": "Silensys E7 Active Noise Cancelling Headphones Bluetooth Headphones with Microphone Deep Bass Wireless Headphones Over Ear, Comfortable Protein Earpads, 30 Hours Playtime for Travel/Work, Black"
+    },
+    {
+      "id": "hp-062",
+      "category": "headphones",
+      "asin": "B0BQTKVGS8",
+      "name": "SoundPEATS Wireless Earbuds Air3 Deluxe HS",
+      "brand": "SoundPEATS",
+      "price": 49.99,
+      "rating": 4.3,
+      "rating_count": 876,
+      "attributes": {
+        "form_factor": "in_ear",
+        "noise_cancelling": false,
+        "battery_hours": 5.0,
+        "weight_g": 150.2
+      },
+      "source_title": "SoundPEATS Wireless Earbuds Air3 Deluxe HS with Hi-Res Audio Certification and LDAC Codec, Bluetooth 5.2 Earphones with 4 Mics and ENC for Calls, 14.2mm Driver, 60ms Low Latency Game Mode (White)"
+    },
+    {
+      "id": "hp-063",
+      "category": "headphones",
+      "asin": "B082MXJVH3",
+      "name": "OneOdio A70 Bluetooth Over Ear Headphones",
+      "brand": "OneOdio",
+      "price": 49.99,
+      "rating": 4.4,
+      "rating_count": 11727,
+      "attributes": {
+        "form_factor": "over_ear",
+        "noise_cancelling": false,
+        "battery_hours": 72.0,
+        "weight_g": 422.5
+      },
+      "source_title": "OneOdio A70 Bluetooth Over Ear Headphones, Wireless Headphones w/ 72H Playtime, Hi-Res, 3.5mm/6.35mm Wired Audio Jack for Studio Monitor & Mixing DJ E-Guitar AMP, Computer Laptop PC Tablet - Silver"
+    },
+    {
+      "id": "hp-064",
+      "category": "headphones",
+      "asin": "B08Q85HL1X",
+      "name": "STARTREE Sports Wireless Earbuds",
+      "brand": "STARTREE",
+      "price": 49.99,
+      "rating": 4.1,
+      "rating_count": 40,
+      "attributes": {
+        "form_factor": "in_ear",
+        "noise_cancelling": false,
+        "battery_hours": 6.0,
+        "weight_g": 320.3
+      },
+      "source_title": "Headphone Sports Headset Earbuds Running"
+    },
+    {
+      "id": "hp-065",
+      "category": "headphones",
+      "asin": "B0BNV9818Q",
+      "name": "MOVSSOU E7 Active Noise Cancelling Headphones",
+      "brand": "MOVSSOU",
+      "price": 56.98,
+      "rating": 4.3,
+      "rating_count": 8540,
+      "attributes": {
+        "form_factor": "over_ear",
+        "noise_cancelling": true,
+        "battery_hours": 30.0,
+        "weight_g": 280.8
+      },
+      "source_title": "MOVSSOU E7 Active Noise Cancelling Headphones Bluetooth Headphones Wireless Headphones Over Ear with Microphone Deep Bass, Comfortable Protein Earpads, 30 Hours Playtime for Travel/Work, Teal Green"
+    },
+    {
+      "id": "hp-066",
+      "category": "headphones",
+      "asin": "B0BNC1QBH6",
+      "name": "Sony WH-CH510 Wireless Headphones",
+      "brand": "Sony",
+      "price": 59.99,
+      "rating": 4.5,
+      "rating_count": 36452,
+      "attributes": {
+        "form_factor": "on_ear",
+        "noise_cancelling": false,
+        "battery_hours": 35.0,
+        "weight_g": 132.0
+      },
+      "source_title": "Sony Wireless Headphones WH-CH510: Wireless Bluetooth On-Ear Headset with Mic for phone-call, Blue"
+    },
+    {
+      "id": "hp-067",
+      "category": "headphones",
+      "asin": "B09SPZPDJK",
+      "name": "ZIHNIC Active Noise Cancelling Wireless Headphones",
+      "brand": "ZIHNIC",
+      "price": 59.99,
+      "rating": 4.4,
+      "rating_count": 4076,
+      "attributes": {
+        "form_factor": "over_ear",
+        "noise_cancelling": true,
+        "battery_hours": 40.0,
+        "weight_g": 240.0
+      },
+      "source_title": "ZIHNIC Active Noise Cancelling Headphones, 40H Playtime Wireless Bluetooth Headset with Deep Bass Hi-Fi Stereo Sound,Comfortable Earpads for Travel/Home/Office (Rose Gold)"
+    },
+    {
+      "id": "hp-068",
+      "category": "headphones",
+      "asin": "B09GV2PSSP",
+      "name": "Silensys E7 PRO Active Noise Cancelling Headphones",
+      "brand": "Silensys",
+      "price": 64.98,
+      "rating": 4.4,
+      "rating_count": 929,
+      "attributes": {
+        "form_factor": "over_ear",
+        "noise_cancelling": true,
+        "battery_hours": 30.0,
+        "weight_g": 447.8
+      },
+      "source_title": "Silensys E7 PRO Active Noise Cancelling Headphones Bluetooth Headphones with Microphone Deep Bass Wireless Headphones Over Ear, Comfortable Fit, 30H Playtime for TV/Computer/Cellphone, Black"
+    },
+    {
+      "id": "hp-069",
+      "category": "headphones",
+      "asin": "B0BL7JMJ4M",
+      "name": "Edifier W240TN Active Noise Cancellation Earbuds",
+      "brand": "Edifier",
+      "price": 69.99,
+      "rating": 4.1,
+      "rating_count": 535,
+      "attributes": {
+        "form_factor": "in_ear",
+        "noise_cancelling": true,
+        "battery_hours": 8.0,
+        "weight_g": 80.0
+      },
+      "source_title": "Edifier W240TN Active Noise Cancellation Earbuds with Bluetooth V5.3 - True Wireless Earbuds with Dual Dynamic Drivers - Fast Charging - Custom EQ - Physical Button and App Control - Black"
+    },
+    {
+      "id": "hp-070",
+      "category": "headphones",
+      "asin": "B09RQYGRT6",
+      "name": "GOWIN JD Pantoja Headphones",
+      "brand": "GOWIN",
+      "price": 74.99,
+      "rating": 4.8,
+      "rating_count": 57,
+      "attributes": {
+        "form_factor": "over_ear",
+        "noise_cancelling": false,
+        "battery_hours": 6.0,
+        "weight_g": 400.0
+      },
+      "source_title": "GOWIN JD Pantoja Headphones Bluetooth (Black/Red)"
+    },
+    {
+      "id": "hp-071",
+      "category": "headphones",
+      "asin": "B09FPW21Z5",
+      "name": "Happy Plugs Air 1 Zen",
+      "brand": "Happy Plugs",
+      "price": 79.99,
+      "rating": 3.4,
+      "rating_count": 26,
+      "attributes": {
+        "form_factor": "in_ear",
+        "noise_cancelling": false,
+        "battery_hours": 6.0,
+        "weight_g": 379.9
+      },
+      "source_title": "Happy Plugs Air 1 Zen – Fashion & Premium True Wireless in-Ear Earbuds – 30 Hours Battery Life – Passive Noise Cancellation - Mint"
+    },
+    {
+      "id": "hp-072",
+      "category": "headphones",
+      "asin": "B089XV8BBW",
+      "name": "Philips Wireless Headphones for TV Watching",
+      "brand": "PHILIPS",
+      "price": 89.99,
+      "rating": 3.8,
+      "rating_count": 873,
+      "attributes": {
+        "form_factor": "over_ear",
+        "noise_cancelling": true,
+        "battery_hours": 18.0,
+        "weight_g": 238.14
+      },
+      "source_title": "Philips Wireless Headphones for TV Watching with Home Cinema Sound and Low Latency, TV Headphones Wireless with Bluetooth USB Transmitter Over The TV Ear Bluetooth Headphone Easy to use, 18h Playtime"
+    },
+    {
+      "id": "hp-073",
+      "category": "headphones",
+      "asin": "B09KT4P3M1",
+      "name": "JBL Tune 130NC TWS True Wireless In-Ear",
+      "brand": "JBL",
+      "price": 99.95,
+      "rating": 4.2,
+      "rating_count": 5929,
+      "attributes": {
+        "form_factor": "in_ear",
+        "noise_cancelling": true,
+        "battery_hours": 8.0,
+        "weight_g": 52.0
+      },
+      "source_title": "JBL Tune 130NC TWS True Wireless In-Ear Noise Cancelling Headphones - Black, Small"
+    },
+    {
+      "id": "hp-074",
+      "category": "headphones",
+      "asin": "B09BPCBXG2",
+      "name": "JBL Tune 760NC",
+      "brand": "JBL",
+      "price": 99.95,
+      "rating": 4.3,
+      "rating_count": 1268,
+      "attributes": {
+        "form_factor": "over_ear",
+        "noise_cancelling": true,
+        "battery_hours": 35.0,
+        "weight_g": 220.0
+      },
+      "source_title": "JBL Tune 760NC - Lightweight, Foldable Over-Ear Wireless Headphones with Active Noise Cancellation - White, Medium"
+    },
+    {
+      "id": "hp-075",
+      "category": "headphones",
+      "asin": "B0BB1F44HT",
+      "name": "H2O Audio TRI Multi-Sport Waterproof Bone Conduction",
+      "brand": "H2O Audio",
+      "price": 99.99,
+      "rating": 3.2,
+      "rating_count": 72,
+      "attributes": {
+        "form_factor": "on_ear",
+        "noise_cancelling": false,
+        "battery_hours": 6.0,
+        "weight_g": 32.0
+      },
+      "source_title": "H2O Audio TRI Multi-Sport Waterproof Bone Conduction Headphones, Bluetooth Open Ear Headphones with Built-In MP3 Player -up to 6-Hour Battery Life, 8 GB -For Swimming, Running, Cycling, Hiking (Black)"
+    },
+    {
+      "id": "hp-076",
+      "category": "headphones",
+      "asin": "B08VF2YL71",
+      "name": "Raycon The Work Earbuds",
+      "brand": "Raycon",
+      "price": 99.99,
+      "rating": 4.0,
+      "rating_count": 509,
+      "attributes": {
+        "form_factor": "in_ear",
+        "noise_cancelling": true,
+        "battery_hours": 32.0,
+        "weight_g": 229.6
+      },
+      "source_title": "Raycon The Work Earbuds Bluetooth Wireless Earphones with Microphone- Stereo Sound in-Ear Bluetooth Headset True Wireless Earbuds with 32 Hours of Battery Life (Rose Gold)"
+    },
+    {
+      "id": "hp-077",
+      "category": "headphones",
+      "asin": "B0BVQMRZ6V",
+      "name": "EKSA Truck Driver Bluetooth Headset",
+      "brand": "EKSA",
+      "price": 99.99,
+      "rating": 4.1,
+      "rating_count": 653,
+      "attributes": {
+        "form_factor": "over_ear",
+        "noise_cancelling": true,
+        "battery_hours": 30.0,
+        "weight_g": 379.5
+      },
+      "source_title": "EKSA Truck Driver Bluetooth Headset with Microphone, Environmental Noise Cancelling Wireless Headphone, 99ft Long Wireless Range, Up to 30 Hours of Talk Time, Ultra-Large Soft Earmuff Trucker Headset"
+    },
+    {
+      "id": "hp-078",
+      "category": "headphones",
+      "asin": "B0BN8J8XD5",
+      "name": "Soundcore by Anker Life Q35",
+      "brand": "Soundcore",
+      "price": 99.99,
+      "rating": 4.5,
+      "rating_count": 8858,
+      "attributes": {
+        "form_factor": "over_ear",
+        "noise_cancelling": true,
+        "battery_hours": 40.0,
+        "weight_g": 272.2
+      },
+      "source_title": "Soundcore by Anker Life Q35 Multi Mode Active Noise Cancelling Headphones, Bluetooth Headphones with LDAC for Hi Res Wireless Audio, 40H Playtime, Comfortable Fit, Clear Calls, for Home, Work, Travel"
+    },
+    {
+      "id": "hp-079",
+      "category": "headphones",
+      "asin": "B07PYLJ89Z",
+      "name": "House of Marley Liberate Air True Wireless Earbuds",
+      "brand": "House of Marley",
+      "price": 118.22,
+      "rating": 3.6,
+      "rating_count": 114,
+      "attributes": {
+        "form_factor": "in_ear",
+        "noise_cancelling": false,
+        "battery_hours": 9.0,
+        "weight_g": 58.97
+      },
+      "source_title": "House of Marley Liberate Air: True Wireless Earbuds with Microphone, Bluetooth Connectivity, 32 Hours Total Playtime, and Sustainable Materials"
+    },
+    {
+      "id": "hp-080",
+      "category": "headphones",
+      "asin": "B07G8XCF1N",
+      "name": "AKG Y500 On Ear Wireless Headphones",
+      "brand": "SAMSUNG",
+      "price": 129.99,
+      "rating": 4.0,
+      "rating_count": 67,
+      "attributes": {
+        "form_factor": "on_ear",
+        "noise_cancelling": false,
+        "battery_hours": 33.0,
+        "weight_g": 230.0
+      },
+      "source_title": "AKG Y500 On Ear Foldable Wireless Bluetooth Headphones - Green (US Version)"
+    },
+    {
+      "id": "hp-081",
+      "category": "headphones",
+      "asin": "B071RBLY8S",
+      "name": "JVC HAS90BNB Wireless Noise Canceling Over Ear",
+      "brand": "JVC",
+      "price": 148.5,
+      "rating": 3.5,
+      "rating_count": 35,
+      "attributes": {
+        "form_factor": "over_ear",
+        "noise_cancelling": true,
+        "battery_hours": 35.0,
+        "weight_g": 249.5
+      },
+      "source_title": "JVC Wireless Noise Canceling Over Ear Headphones, Bluetooth, Instant paring with NFC Technology - HAS90BNB, Black, One Size"
+    },
+    {
+      "id": "hp-082",
+      "category": "headphones",
+      "asin": "B00F3SXSOO",
+      "name": "Sony MDR-RF985RK Wireless RF Headphones",
+      "brand": "Sony",
+      "price": 149.0,
+      "rating": 4.2,
+      "rating_count": 5147,
+      "attributes": {
+        "form_factor": "over_ear",
+        "noise_cancelling": false,
+        "battery_hours": 25.0,
+        "weight_g": 298.4
+      },
+      "source_title": "Sony MDRRF985RK Wireless RF Headphone, Black"
+    },
+    {
+      "id": "hp-083",
+      "category": "headphones",
+      "asin": "B0BL5YHZPC",
+      "name": "Bose QuietComfort Noise Cancelling Earbuds",
+      "brand": "Bose",
+      "price": 149.99,
+      "rating": 4.3,
+      "rating_count": 33259,
+      "attributes": {
+        "form_factor": "in_ear",
+        "noise_cancelling": true,
+        "battery_hours": 6.0,
+        "weight_g": 9.0
+      },
+      "source_title": "Bose QuietComfort Noise Cancelling Earbuds-Bluetooth Wireless Earphones, Triple Black"
+    },
+    {
+      "id": "hp-084",
+      "category": "headphones",
+      "asin": "B07YD2XPF3",
+      "name": "adidas RPT-01 Bluetooth Sport On-Ear Headphones",
+      "brand": "adidas",
+      "price": 162.51,
+      "rating": 4.1,
+      "rating_count": 463,
+      "attributes": {
+        "form_factor": "on_ear",
+        "noise_cancelling": false,
+        "battery_hours": 40.0,
+        "weight_g": 215.0
+      },
+      "source_title": "adidas RPT-01 Bluetooth Sport On-Ear Headphones - Night Grey, 2.8 x 5.6 x 7.5 Inches"
+    },
+    {
+      "id": "hp-085",
+      "category": "headphones",
+      "asin": "B08C9PK7TR",
+      "name": "EPOS Sennheiser Adapt 360",
+      "brand": "EPOS",
+      "price": 169.57,
+      "rating": 4.1,
+      "rating_count": 34,
+      "attributes": {
+        "form_factor": "over_ear",
+        "noise_cancelling": true,
+        "battery_hours": 46.0,
+        "weight_g": 226.8
+      },
+      "source_title": "EPOS | SENNHEISER Adapt 360 Black (1000209) - Dual-Sided, Dual-Connectivity, Wireless, Bluetooth, ANC Over-Ear Headset | for Mobile Phone & Softphone | Teams Certified"
+    },
+    {
+      "id": "hp-086",
+      "category": "headphones",
+      "asin": "B0BQ3KHZH6",
+      "name": "Blue Tiger Advantage Plus Wireless Headset",
+      "brand": "Blue Tiger",
+      "price": 169.99,
+      "rating": 4.1,
+      "rating_count": 200,
+      "attributes": {
+        "form_factor": "on_ear",
+        "noise_cancelling": true,
+        "battery_hours": 36.0,
+        "weight_g": 368.5
+      },
+      "source_title": "Blue Tiger Advantage Plus Wireless Bluetooth Headset - Professional Trucker and Office Headset with Microphone - Durable, Noise Cancelling, Clear Sound, Long Battery Life, No Wires - 36 Hour Talk Time"
+    },
+    {
+      "id": "hp-087",
+      "category": "headphones",
+      "asin": "B00M58CMYC",
+      "name": "Bose SoundLink On-Ear",
+      "brand": "Bose",
+      "price": 219.99,
+      "rating": 4.4,
+      "rating_count": 1538,
+      "attributes": {
+        "form_factor": "on_ear",
+        "noise_cancelling": false,
+        "battery_hours": 15.0,
+        "weight_g": 152.6
+      },
+      "source_title": "Bose SoundLink On-Ear Bluetooth Wireless Headphones - Black"
+    },
+    {
+      "id": "hp-088",
+      "category": "headphones",
+      "asin": "B09V6XN62T",
+      "name": "Jabra Evolve2 75 Wireless Headset",
+      "brand": "Jabra",
+      "price": 269.0,
+      "rating": 3.5,
+      "rating_count": 50,
+      "attributes": {
+        "form_factor": "over_ear",
+        "noise_cancelling": true,
+        "battery_hours": 36.0,
+        "weight_g": 197.0
+      },
+      "source_title": "Jabra Evolve2 75 PC Wireless Headset with 8-Microphone Technology - Dual Foam Stereo Headphones with Advanced Active Noise Cancelling, USB-A Bluetooth Adapter and MS Teams-Compatibility - Black"
+    },
+    {
+      "id": "hp-089",
+      "category": "headphones",
+      "asin": "B07773NZP6",
+      "name": "Sony WH1000XM2 Premium Noise Cancelling Wireless",
+      "brand": "Amazon Renewed",
+      "price": 299.0,
+      "rating": 4.1,
+      "rating_count": 24,
+      "attributes": {
+        "form_factor": "over_ear",
+        "noise_cancelling": true,
+        "battery_hours": 30.0,
+        "weight_g": 275.0
+      },
+      "source_title": "Sony WH1000XM2 Premium Noise Cancelling Wireless Headphones ? Black (WH1000XM2/B) (Renewed)"
+    }
+  ],
+  "laptops": [
+    {
+      "id": "lt-001",
+      "category": "laptops",
+      "asin": "B087CFPYF6",
+      "name": "HBESTORE Portable Windows 10 Laptop",
+      "brand": "HBESTORE",
+      "price": 169.99,
+      "rating": 3.8,
+      "rating_count": 447,
+      "attributes": {
+        "ram_gb": 3,
+        "storage_gb": 32,
+        "screen_in": 10.1,
+        "weight_lb": 2.09
+      },
+      "source_title": "HBESTORE Portable Windows 10 10.1inch Education Laptop Notebook Computer Learning Laptop Netbook for Kids Men Women (3GB/32GB, Blue)"
+    },
+    {
+      "id": "lt-002",
+      "category": "laptops",
+      "asin": "B0B5HVSQ2L",
+      "name": "Lenovo Chromebook 3 11.6",
+      "brand": "Lenovo",
+      "price": 179.0,
+      "rating": 4.1,
+      "rating_count": 112,
+      "attributes": {
+        "ram_gb": 4,
+        "storage_gb": 32,
+        "screen_in": 11.6,
+        "weight_lb": 2.42
+      },
+      "source_title": "Lenovo 2022 Newest Lightweight Chromebook 3 11.6\" HD Screen Laptop Business & Student, AMD Dual-Core A6-9220C, up to 2.7 GHZ, 4GB RAM, 32GB eMMC Storage, WiFi 5, Webcam, Chrome OS +MarxsolCables"
+    },
+    {
+      "id": "lt-003",
+      "category": "laptops",
+      "asin": "B0BS2W7V94",
+      "name": "Gateway Touchscreen 11.6 HD 2-in-1 Convertible Laptop",
+      "brand": "Gateway",
+      "price": 179.0,
+      "rating": 3.9,
+      "rating_count": 77,
+      "attributes": {
+        "ram_gb": 4,
+        "storage_gb": 64,
+        "screen_in": 11.6,
+        "weight_lb": 3.98
+      },
+      "source_title": "Newest Gateway Touchscreen 11.6 HD 2-in-1 Convertible Laptop in Blue Intel N4020 4GB RAM 64GB SSD Mini-HDMI Webcam Windows 10 S"
+    },
+    {
+      "id": "lt-004",
+      "category": "laptops",
+      "asin": "B08D4SGBLW",
+      "name": "Acer Chromebook 314",
+      "brand": "Acer",
+      "price": 189.0,
+      "rating": 4.4,
+      "rating_count": 35,
+      "attributes": {
+        "ram_gb": 4,
+        "storage_gb": 32,
+        "screen_in": 14.0,
+        "weight_lb": 3.75
+      },
+      "source_title": "Acer Chromebook 314 CB314-1H-C66Z 14&quot; HD Notebook Computer, Intel Celeron N4000 1.10GHz, 4GB RAM, 32GB Flash Storage, Chrome OS, Pure Silver"
+    },
+    {
+      "id": "lt-005",
+      "category": "laptops",
+      "asin": "B09376XLF5",
+      "name": "LincPlus P3 14 inch Laptop",
+      "brand": "LincPlus",
+      "price": 194.0,
+      "rating": 3.4,
+      "rating_count": 747,
+      "attributes": {
+        "ram_gb": 4,
+        "storage_gb": 128,
+        "screen_in": 14.1,
+        "weight_lb": 3.09
+      },
+      "source_title": "LincPlus P3 14 inch Thin and Light Laptop PC, 4GB RAM 128GB eMMC 1080P Full HD IPS Computer, Intel Celeron Dual-Core, Mini Notebook,Windows 10 Home in S Mode,UK Keyboard White"
+    },
+    {
+      "id": "lt-006",
+      "category": "laptops",
+      "asin": "B07GLV1VC7",
+      "name": "Lenovo Chromebook S330 Laptop",
+      "brand": "Lenovo",
+      "price": 195.0,
+      "rating": 4.2,
+      "rating_count": 3679,
+      "attributes": {
+        "ram_gb": 4,
+        "storage_gb": 64,
+        "screen_in": 14.0,
+        "weight_lb": 3.3
+      },
+      "source_title": "Lenovo Chromebook S330 Laptop, 14-Inch FHD Display, MediaTek MT8173C, 4GB RAM, 64GB Storage, Chrome OS"
+    },
+    {
+      "id": "lt-007",
+      "category": "laptops",
+      "asin": "B0BRQ6Q2FX",
+      "name": "BiTECOOL Windows 11 Laptop 14 inches",
+      "brand": "BiTECOOL",
+      "price": 199.0,
+      "rating": 4.1,
+      "rating_count": 41,
+      "attributes": {
+        "ram_gb": 6,
+        "storage_gb": 256,
+        "screen_in": 14.0,
+        "weight_lb": 2.7
+      },
+      "source_title": "BiTECOOL Windows 11 Laptop, 14 inches HD Clear Display, Intel Celeron J4005 Dual Core, 6GB RAM and 256GB SSD Laptop Computer, 2.4G WiFi, BT4.0, Long Lasting Battery, Mic"
+    },
+    {
+      "id": "lt-008",
+      "category": "laptops",
+      "asin": "B09F8ZVXJ5",
+      "name": "HP Stream 11 Laptop",
+      "brand": "HP",
+      "price": 199.99,
+      "rating": 4.2,
+      "rating_count": 392,
+      "attributes": {
+        "ram_gb": 4,
+        "storage_gb": 64,
+        "screen_in": 11.6,
+        "weight_lb": 2.37
+      },
+      "source_title": "HP Stream 11\" Laptop, Intel Celeron N4020, Intel UHD Graphics 600, 4 GB RAM, 64 GB SSD, Windows 11 Home in S mode (11-ak0030nr, Royal blue)"
+    },
+    {
+      "id": "lt-009",
+      "category": "laptops",
+      "asin": "B08KJMWNMJ",
+      "name": "Avita Pura 14 inch",
+      "brand": "Avita",
+      "price": 199.99,
+      "rating": 4.1,
+      "rating_count": 471,
+      "attributes": {
+        "ram_gb": 8,
+        "storage_gb": 128,
+        "screen_in": 14.0,
+        "weight_lb": 4.36
+      },
+      "source_title": "Avita 14\" Pura [CN6Q14] AMD A9 8GB RAM 128GB SSD IPS 1920 x 1080 HD Screen Windows 10 Laptop for Online Class (Glossy Purple)"
+    },
+    {
+      "id": "lt-010",
+      "category": "laptops",
+      "asin": "B09BCNF1QG",
+      "name": "Lenovo Chromebook Flex 3 11.6",
+      "brand": "Lenovo",
+      "price": 209.99,
+      "rating": 4.1,
+      "rating_count": 21,
+      "attributes": {
+        "ram_gb": 4,
+        "storage_gb": 32,
+        "screen_in": 11.6,
+        "weight_lb": 2.7
+      },
+      "source_title": "Lenovo Chromebook Flex 3 11.6\" HD Touchscreen 2-in-1 Laptop Computer PC, Intel Celeron N4020, 4GB DDR4, 32GB eMMC, Intel UHD 600, 802.11ac, Bluetooth, Webcam, Chrome OS, Blue, 64GB ABYS MicroSD Card"
+    },
+    {
+      "id": "lt-011",
+      "category": "laptops",
+      "asin": "B09186J2B5",
+      "name": "Emerald Computers Tenacious Rugged Laptop",
+      "brand": "Emerald Computers",
+      "price": 215.0,
+      "rating": 3.5,
+      "rating_count": 30,
+      "attributes": {
+        "ram_gb": 8,
+        "storage_gb": 256,
+        "screen_in": 13.3,
+        "weight_lb": 2.86
+      },
+      "source_title": "Emerald Computers Rugged Laptop with I5-8250U Quad Core, 8 Thread CPU, 8GB RAM 256GB SSD, 13.3 Inch 1080p Screen, Tenacious Model in Silver, 14626167"
+    },
+    {
+      "id": "lt-012",
+      "category": "laptops",
+      "asin": "B0C4LWTYST",
+      "name": "Tulasi Laptop Intel Celeron J4005",
+      "brand": "Tulasi",
+      "price": 218.99,
+      "rating": 3.9,
+      "rating_count": 108,
+      "attributes": {
+        "ram_gb": 8,
+        "storage_gb": 128,
+        "screen_in": 14.1,
+        "weight_lb": 2.88
+      },
+      "source_title": "Tulasi Laptop, 8GB RAM 128GB SSD, Intel Celeron J4005 Laptop Computer, Windows 11 Laptop, 14.1\" Full HD IPS Laptop, Support 2.4G/5G WiFi, BT 4.2, Long Battery Life"
+    },
+    {
+      "id": "lt-013",
+      "category": "laptops",
+      "asin": "B0BFMWJGD7",
+      "name": "ECOHERO Alpha Windows 11 Laptop",
+      "brand": "ECOHERO",
+      "price": 219.0,
+      "rating": 3.8,
+      "rating_count": 24,
+      "attributes": {
+        "ram_gb": 6,
+        "storage_gb": 256,
+        "screen_in": 15.6,
+        "weight_lb": 3.74
+      },
+      "source_title": "ECOHERO Newest Windows 11 Laptop, 6GB DDR4 RAM, 256GB SSD Storage, Intel Celeron J4005 Processor Up to 2.7GHz, 15.6-inch Full HD 1920x1080 Display Laptops Computers, Webcam, WiFi, Bluetooth"
+    },
+    {
+      "id": "lt-014",
+      "category": "laptops",
+      "asin": "B09W2FPZVZ",
+      "name": "Lenovo 14w Gen 2",
+      "brand": "Lenovo",
+      "price": 229.0,
+      "rating": 4.7,
+      "rating_count": 20,
+      "attributes": {
+        "ram_gb": 4,
+        "storage_gb": 128,
+        "screen_in": 14.0,
+        "weight_lb": 3.2
+      },
+      "source_title": "Lenovo 14w Gen 2 14” Laptop Student Notebook 2022 Newest, AMD 3000 Series 3015e Processor 4GB RAM 128GB Storage (64 GB eMMC + 64GB Micro SD), Bluetooth, Webcam, HDMI, Windows 10 Pro + CUE Accessories"
+    },
+    {
+      "id": "lt-015",
+      "category": "laptops",
+      "asin": "B0BN3D2MX4",
+      "name": "Coolby Windows 11 Laptop 15.6 inch",
+      "brand": "Coolby",
+      "price": 229.0,
+      "rating": 4.0,
+      "rating_count": 61,
+      "attributes": {
+        "ram_gb": 6,
+        "storage_gb": 256,
+        "screen_in": 15.6,
+        "weight_lb": 5.12
+      },
+      "source_title": "Coolby Windows 11 Laptop Computer, 15.6 inch (1920 x 1080) Notebook PC with Intel J4005 Processor, 6GB DDR4 RAM / 256GB SSD, FHD Display, WiFi, BT, Long -Lasting Battery for School, Business"
+    },
+    {
+      "id": "lt-016",
+      "category": "laptops",
+      "asin": "B0BGF2L79G",
+      "name": "Lenovo 14\" AMD 3015e Business Laptop",
+      "brand": "Lenovo",
+      "price": 249.0,
+      "rating": 4.2,
+      "rating_count": 40,
+      "attributes": {
+        "ram_gb": 4,
+        "storage_gb": 64,
+        "screen_in": 14.0,
+        "weight_lb": 3.19
+      },
+      "source_title": "Lenovo Windows 10 Pro Business Laptop, AMD 3015e Processor up to 2.3GHz, 14\" Anti-Glare, 4GB DDR4 RAM, 64GB eMMC, Bluetooth, WiFi, Type-C, Built-in Webcam, HDMI, Broag 64GB Flash Drive"
+    },
+    {
+      "id": "lt-017",
+      "category": "laptops",
+      "asin": "B08M8P554T",
+      "name": "HP Stream 14",
+      "brand": "HP",
+      "price": 258.0,
+      "rating": 4.3,
+      "rating_count": 109,
+      "attributes": {
+        "ram_gb": 4,
+        "storage_gb": 64,
+        "screen_in": 14.0,
+        "weight_lb": 3.17
+      },
+      "source_title": "HP Stream 14 inches HD Laptop , Intel Celeron N4000 , 4GB RAM, 64GB eMMC, HDMI, Webcam, WiFi, Bluetooth, Windows 10 S 14-cb172"
+    },
+    {
+      "id": "lt-018",
+      "category": "laptops",
+      "asin": "B0C6JXQCF5",
+      "name": "SGIN Laptop 15.6 Inch",
+      "brand": "SGIN",
+      "price": 259.98,
+      "rating": 4.4,
+      "rating_count": 1314,
+      "attributes": {
+        "ram_gb": 4,
+        "storage_gb": 128,
+        "screen_in": 15.6,
+        "weight_lb": 5.37
+      },
+      "source_title": "SGIN Laptop 15.6 Inch, 4GB DDR4 128GB SSD Windows 11 Laptops with Intel Celeron Quad Core J4105(up to 2.5 GHz), Intel UHD Graphics 600, Mini HDMI, WiFi, Webcam, USB3.0, Bluetooth 4.2"
+    },
+    {
+      "id": "lt-019",
+      "category": "laptops",
+      "asin": "B09QK7MT7T",
+      "name": "HP Stream 14",
+      "brand": "HP",
+      "price": 265.95,
+      "rating": 4.5,
+      "rating_count": 190,
+      "attributes": {
+        "ram_gb": 4,
+        "storage_gb": 128,
+        "screen_in": 14.0,
+        "weight_lb": 4.51
+      },
+      "source_title": "HP Stream 14inch HD Display, Intel Celeron N4020 Dual-Core Processor, 4GB DDR4 Memory, 128 GB Storage (64GB eMMC+64GB Card), WiFi, Webcam, Bluetooth,1-Year Microsoft 365 Win10 S Jet Black"
+    },
+    {
+      "id": "lt-020",
+      "category": "laptops",
+      "asin": "B0C33WJBDP",
+      "name": "Ruzava W6 15.6 Inch Laptop",
+      "brand": "Ruzava",
+      "price": 269.99,
+      "rating": 4.3,
+      "rating_count": 189,
+      "attributes": {
+        "ram_gb": 6,
+        "storage_gb": 128,
+        "screen_in": 15.6,
+        "weight_lb": 3.59
+      },
+      "source_title": "Ruzava 15.6 Inch Laptop Computer, 6GB+128GB SSD, Windows 10 Pro Laptop, Intel J4105 1.5Ghz Processor Notebook, 1920x1080 IPS Display, 2.4G+5G WiFi, BT4.2, USB HDMI, Numpad, Fast Charge,WOZIFAN Gray"
+    },
+    {
+      "id": "lt-021",
+      "category": "laptops",
+      "asin": "B089GM7MQ3",
+      "name": "HP 14 Laptop",
+      "brand": "HP",
+      "price": 279.0,
+      "rating": 4.6,
+      "rating_count": 315,
+      "attributes": {
+        "ram_gb": 4,
+        "storage_gb": 128,
+        "screen_in": 14.0,
+        "weight_lb": 5.0
+      },
+      "source_title": "HP 2020 14 14.0\" WLED-Backlit Display Laptop, AMD Athlon Silver 3050U Up to 3.2GHz (Beats i5-7200U), 4GB DDR4 RAM (AMD 3050U (Beats i5-7200U))"
+    },
+    {
+      "id": "lt-022",
+      "category": "laptops",
+      "asin": "B08W9S22BF",
+      "name": "Lenovo IdeaPad Flex 5 14 inch",
+      "brand": "SHOXLAB",
+      "price": 299.0,
+      "rating": 4.3,
+      "rating_count": 69,
+      "attributes": {
+        "ram_gb": 4,
+        "storage_gb": 128,
+        "screen_in": 14.0,
+        "weight_lb": 3.63
+      },
+      "source_title": "SHOXLAB NewLenovo IdeaPad Flex 5 14 inch FHD Touch 2 in 1 Laptop Ryzen 3 4300U (Beat Core i3-8145U), 4GB RAM, 128GB SSD, Webcam, WiFi, Bluetooth, 1-Week Support, Win10 S"
+    },
+    {
+      "id": "lt-023",
+      "category": "laptops",
+      "asin": "B09V3J3YNX",
+      "name": "HP Stream 14in Laptop",
+      "brand": "HP Tuners",
+      "price": 299.0,
+      "rating": 4.3,
+      "rating_count": 77,
+      "attributes": {
+        "ram_gb": 8,
+        "storage_gb": 128,
+        "screen_in": 14.0,
+        "weight_lb": 3.2
+      },
+      "source_title": "2022 Newest HP Stream 14in HD Laptop, Intel Celeron N4020(up to 2.8GHz), 8GB RAM, 128GB Space(64GB eMMC+ Card), 1-Year Office 365, WiFi, HDMI, USB-C, Webcam, Bluetooth, Windows 11S,Rose Gold+JVQ MP"
+    },
+    {
+      "id": "lt-024",
+      "category": "laptops",
+      "asin": "B09HXG3PGG",
+      "name": "Acer Chromebook 315 Laptop",
+      "brand": "Acer",
+      "price": 299.99,
+      "rating": 4.8,
+      "rating_count": 27,
+      "attributes": {
+        "ram_gb": 4,
+        "storage_gb": 64,
+        "screen_in": 15.6,
+        "weight_lb": 3.59
+      },
+      "source_title": "Acer 2022 Chromebook 315 Laptop Computer 15.6” Full HD 1080P Touchscreen IPS Display Intel Celeron N4020 Processor (Up to 2.8GHz) 4GB RAM 64GB eMMC Webcam BT USB Type C Chrome OS + TiTac Accessory"
+    },
+    {
+      "id": "lt-025",
+      "category": "laptops",
+      "asin": "B0BRZW761C",
+      "name": "ALLDOCUBE GT Book 13",
+      "brand": "ALLDOCUBE",
+      "price": 299.99,
+      "rating": 4.3,
+      "rating_count": 29,
+      "attributes": {
+        "ram_gb": 12,
+        "storage_gb": 256,
+        "screen_in": 13.5,
+        "weight_lb": 2.87
+      },
+      "source_title": "ALLDOCUBE Laptop Computers with Windows 11 GT Book 13, Intel Celeron N5100, Quad Core, Laptop 12GB Ram 256GB SSD, 13.5\" 3K Display 3000x2000, 2.4G+5G WiFi, Bluetooth, Type C, HDMI, Full Metal, Gray"
+    },
+    {
+      "id": "lt-026",
+      "category": "laptops",
+      "asin": "B0C1GPRVCQ",
+      "name": "Coolby ZealBook 15.6 inch Laptop",
+      "brand": "Coolby",
+      "price": 319.0,
+      "rating": 4.2,
+      "rating_count": 319,
+      "attributes": {
+        "ram_gb": 12,
+        "storage_gb": 256,
+        "screen_in": 15.6,
+        "weight_lb": 3.31
+      },
+      "source_title": "2023 Windows 11 Laptop, 15.6 inch 1920x1080 IPS Display, Coolby 12GB DDR4 RAM / 256GB SSD Laptop Computers, Intel N4120 Quad-Core Processor Notebook PC, Support 2.4G/5G Hz WiFi, BT, Full Size Keyboard"
+    },
+    {
+      "id": "lt-027",
+      "category": "laptops",
+      "asin": "B08WRFC84W",
+      "name": "Basrdis Inspiro.n 15 3000",
+      "brand": "Basrdis",
+      "price": 346.99,
+      "rating": 4.4,
+      "rating_count": 65,
+      "attributes": {
+        "ram_gb": 4,
+        "storage_gb": 128,
+        "screen_in": 15.6,
+        "weight_lb": 3.91
+      },
+      "source_title": "Basrdis NewDell Inspiro.n 15 3000 Laptop, 15.6” HD Anti-Glare Narrow Border Display, Intel_Celeron N4020 Processor, 4GB RAM, 128GB SSD, Windows 10, WiFi HDMI, 1-Week Support"
+    },
+    {
+      "id": "lt-028",
+      "category": "laptops",
+      "asin": "B0BRCRY29F",
+      "name": "Bmax X15Plus 15.6\" Laptop",
+      "brand": "Bmax",
+      "price": 348.99,
+      "rating": 3.9,
+      "rating_count": 27,
+      "attributes": {
+        "ram_gb": 12,
+        "storage_gb": 512,
+        "screen_in": 15.6,
+        "weight_lb": 3.52
+      },
+      "source_title": "Bmax Laptop 15.6\", 12GB DDR4 RAM 512GB SSD, Intel Celeron N5095 Quad Core Processor (up to 2.9GHz), 2K FHD IPS Display, Windows 11 Gaming Laptop Thin Traditional Computers Expandable 1TB SSD"
+    },
+    {
+      "id": "lt-029",
+      "category": "laptops",
+      "asin": "B0BBWTJNNF",
+      "name": "Coolby Windows 11 Laptop Computer",
+      "brand": "Coolby",
+      "price": 349.0,
+      "rating": 4.1,
+      "rating_count": 35,
+      "attributes": {
+        "ram_gb": 12,
+        "storage_gb": 256,
+        "screen_in": 14.1,
+        "weight_lb": 4.02
+      },
+      "source_title": "Coolby Windows 11 Laptop Computer, Intel Celeron Quad-core N4120 Processor, 12GB DDR4 RAM / 256GB SSD Notebook PC, 14.1\" FHD 1920X1080 IPS Display, Support 2.4G/5G Hz WiFi, BT, Webcam, TF Card"
+    },
+    {
+      "id": "lt-030",
+      "category": "laptops",
+      "asin": "B0C3ZLK42C",
+      "name": "WAICID 15.6 Inch Laptop",
+      "brand": "WAICID",
+      "price": 359.98,
+      "rating": 3.8,
+      "rating_count": 93,
+      "attributes": {
+        "ram_gb": 12,
+        "storage_gb": 512,
+        "screen_in": 15.6,
+        "weight_lb": 3.6
+      },
+      "source_title": "WAICID Laptop 15.6 Inch, 512GB SSD 12GB DDR4, Intel Celeron N5095(4M Cache, up to 2.9 GHz), Windows 11 Laptops Computer with USB Type-C, IPS FHD 1080P Display, 5G/2.4Ghz WiFi, 2*USB 3.0, Bluetooth 4.2"
+    },
+    {
+      "id": "lt-031",
+      "category": "laptops",
+      "asin": "B0C65QDYFM",
+      "name": "SGIN Laptop 15.6 Inch Windows 11",
+      "brand": "SGIN",
+      "price": 359.99,
+      "rating": 4.3,
+      "rating_count": 1840,
+      "attributes": {
+        "ram_gb": 12,
+        "storage_gb": 512,
+        "screen_in": 15.6,
+        "weight_lb": 5.55
+      },
+      "source_title": "SGIN Laptop 12GB RAM 512GB SSD, 15.6 Inch Windows 11 Laptops with Intel Celeron N5095 Quad-Core Processor(up to 2.9 GHz), Full HD 1080P Screen, Mini HDMI, 2.4/5.0G WiFi, Webcam, Bluetooth 4.2, Grey"
+    },
+    {
+      "id": "lt-032",
+      "category": "laptops",
+      "asin": "B086V1Y5M2",
+      "name": "Lenovo Ideapad 3i 15.6 Laptop",
+      "brand": "Lenovo",
+      "price": 375.0,
+      "rating": 4.5,
+      "rating_count": 341,
+      "attributes": {
+        "ram_gb": 8,
+        "storage_gb": 256,
+        "screen_in": 15.6,
+        "weight_lb": 3.75
+      },
+      "source_title": "Lenovo Ideapad 3i Laptop, 15.6\" Full HD 1080P Non-Touch Display, Intel Pentium Gold 7505 Processor, Webcam, HDMI, Wireless-AX Wi-Fi 6, Bluetoooth, Windows 11 Home (8GB RAM | 256GB SSD)"
+    },
+    {
+      "id": "lt-033",
+      "category": "laptops",
+      "asin": "B0BSB1GD2X",
+      "name": "Microsoft Surface Laptop Go 12.4",
+      "brand": "Microsoft",
+      "price": 379.99,
+      "rating": 4.2,
+      "rating_count": 53,
+      "attributes": {
+        "ram_gb": 4,
+        "storage_gb": 512,
+        "screen_in": 12.4,
+        "weight_lb": 2.45
+      },
+      "source_title": "Microsoft 2022 Surface Laptop Go 12.4\" Touchscreen, Intel Core i5-1035G1 Processor, Up to 13Hr Battery Life, WiFi, Webcam, Windows 11 Pro, Platinum Silver (4GB RAM | 512GB SSD)"
+    },
+    {
+      "id": "lt-034",
+      "category": "laptops",
+      "asin": "B01M04U1CD",
+      "name": "Dell Inspiron 13 5000 2-In-1",
+      "brand": "Dell",
+      "price": 409.75,
+      "rating": 3.7,
+      "rating_count": 395,
+      "attributes": {
+        "ram_gb": 8,
+        "storage_gb": 256,
+        "screen_in": 13.3,
+        "weight_lb": 3.44
+      },
+      "source_title": "Dell Inspiron i5378-7171GRY 13.3 FHD 2-In-1 (7th Generation Intel Core i7, 8GB, 256GB SSD) Microsoft Signature Image"
+    },
+    {
+      "id": "lt-035",
+      "category": "laptops",
+      "asin": "B0B17SD56J",
+      "name": "Acer Chromebook 514 Laptop",
+      "brand": "Acer",
+      "price": 459.99,
+      "rating": 4.0,
+      "rating_count": 112,
+      "attributes": {
+        "ram_gb": 8,
+        "storage_gb": 64,
+        "screen_in": 14.0,
+        "weight_lb": 3.02
+      },
+      "source_title": "Acer Chromebook 514 Laptop | 14\" FHD Touch | MediaTek Kompanio 828 Octa-Core Processor | 8GB RAM | 64GB eMMC | Wi-Fi 6 | Backlit KB | Chrome OS | Up to 15 Hours Battery Life | CB514-2HT-K0FZ, Silver"
+    },
+    {
+      "id": "lt-036",
+      "category": "laptops",
+      "asin": "B08KKYQ76H",
+      "name": "Microsoft Surface Laptop Go",
+      "brand": "Microsoft",
+      "price": 487.1,
+      "rating": 4.5,
+      "rating_count": 1328,
+      "attributes": {
+        "ram_gb": 8,
+        "storage_gb": 128,
+        "screen_in": 12.4,
+        "weight_lb": 2.45
+      },
+      "source_title": "Microsoft Surface Laptop Go - 12.4\" Touchscreen - Intel Core i5 - 8GB Memory - 128GB SSD - Ice Blue"
+    },
+    {
+      "id": "lt-037",
+      "category": "laptops",
+      "asin": "B0BC4822CZ",
+      "name": "ASUS VivoBook 15.6 FHD Touchscreen",
+      "brand": "ASUS",
+      "price": 499.0,
+      "rating": 4.2,
+      "rating_count": 75,
+      "attributes": {
+        "ram_gb": 20,
+        "storage_gb": 1024,
+        "screen_in": 15.6,
+        "weight_lb": 3.75
+      },
+      "source_title": "ASUS Newest VivoBook 15.6\" FHD Touchscreen Laptop, 11th Gen Intel i3-1115G4 up to 4.1GHz, 20GB DDR4 RAM, 1TB SSD, Fingerprint Reader, Backlit Keyboard, WiFi, HDMI, Windows 10 S, JVQ MP"
+    },
+    {
+      "id": "lt-038",
+      "category": "laptops",
+      "asin": "B0B61YHNHZ",
+      "name": "ASUS VivoBook 15.6 Laptop",
+      "brand": "ASUS",
+      "price": 499.0,
+      "rating": 4.0,
+      "rating_count": 29,
+      "attributes": {
+        "ram_gb": 20,
+        "storage_gb": 512,
+        "screen_in": 15.6,
+        "weight_lb": 3.97
+      },
+      "source_title": "ASUS VivoBook Laptop (2022 Newest Model), 15.6\" FHD Touch-Screen, Intel Core i3-1115G4 Processor Up to 4.1 GHz, 20GB RAM, 512GB NVMe PCIe SSD, Fingerprint Reader, Windows 10"
+    },
+    {
+      "id": "lt-039",
+      "category": "laptops",
+      "asin": "B08DC72FBT",
+      "name": "Microsoft Surface Laptop 3 13.5 inch",
+      "brand": "Microsoft",
+      "price": 499.99,
+      "rating": 4.6,
+      "rating_count": 522,
+      "attributes": {
+        "ram_gb": 16,
+        "storage_gb": 256,
+        "screen_in": 13.5,
+        "weight_lb": 2.8
+      },
+      "source_title": "Microsoft Surface Laptop 3 – 13.5\" Touch-Screen – Intel Core i7 - 16GB Memory - 256GB Solid State Drive – Platinum with Alcantara"
+    },
+    {
+      "id": "lt-040",
+      "category": "laptops",
+      "asin": "B08XNRTV6M",
+      "name": "Dell Inspiron 15.6 HD Laptop",
+      "brand": "Dell",
+      "price": 539.0,
+      "rating": 4.2,
+      "rating_count": 31,
+      "attributes": {
+        "ram_gb": 16,
+        "storage_gb": 1280,
+        "screen_in": 15.6,
+        "weight_lb": 3.96
+      },
+      "source_title": "2021 Newest Dell Inspiron 15.6’’ HD Laptop for Business and Student, Intel Pentium Silver N5030 Processor, 16GB RAM, 256GB PCle SSD + 1TB HDD, Webcam, USB, HDMI, Bluetooth, Windows 10 Home"
+    },
+    {
+      "id": "lt-041",
+      "category": "laptops",
+      "asin": "B09SBR18YS",
+      "name": "Dell Inspiron 3510 15.6\"",
+      "brand": "Dell",
+      "price": 549.0,
+      "rating": 4.3,
+      "rating_count": 60,
+      "attributes": {
+        "ram_gb": 12,
+        "storage_gb": 1024,
+        "screen_in": 15.6,
+        "weight_lb": 3.82
+      },
+      "source_title": "Dell 2022 Newest Inspiron 3510 15.6\" FHD Laptop, Intel Core i3-1115G4 Processor, 12GB RAM, 1TB SSD, Webcam, Bluetooth, HDMI, Wi-Fi, Windows 11 Home, Black"
+    },
+    {
+      "id": "lt-042",
+      "category": "laptops",
+      "asin": "B019LA01I0",
+      "name": "Toshiba Satellite S55t-C5165",
+      "brand": "Toshiba",
+      "price": 599.99,
+      "rating": 3.7,
+      "rating_count": 37,
+      "attributes": {
+        "ram_gb": 12,
+        "storage_gb": 1128,
+        "screen_in": 15.6,
+        "weight_lb": 5.2
+      },
+      "source_title": "Toshiba Satellite S55t-C5165 S55t-C/5165 15.6\" Laptop (Brushed Metal)"
+    },
+    {
+      "id": "lt-043",
+      "category": "laptops",
+      "asin": "B097QCJZGL",
+      "name": "Asus Zenbook 14 Ryzen 5",
+      "brand": "Asus Laptops",
+      "price": 616.0,
+      "rating": 4.0,
+      "rating_count": 54,
+      "attributes": {
+        "ram_gb": 8,
+        "storage_gb": 256,
+        "screen_in": 14.0,
+        "weight_lb": 4.84
+      },
+      "source_title": "Asus Zenbook 14 inch FHD Laptop, AMD Ryzen 5 5500U, 6-Cores, up to 4 GHz, 8GB DDR4 RAM, 256GB PCle SSD, NVIDIA GeForce MX450 Graphics, Webcam, WiFi, Bluetooth, HDMI, Media Card Reader"
+    },
+    {
+      "id": "lt-044",
+      "category": "laptops",
+      "asin": "B075JLPLBL",
+      "name": "Google Pixelbook",
+      "brand": "Google",
+      "price": 618.61,
+      "rating": 4.0,
+      "rating_count": 214,
+      "attributes": {
+        "ram_gb": 16,
+        "storage_gb": 512,
+        "screen_in": 12.3,
+        "weight_lb": 2.45
+      },
+      "source_title": "Google Pixelbook (i7, 16 GB RAM, 512 GB)"
+    },
+    {
+      "id": "lt-045",
+      "category": "laptops",
+      "asin": "B0BCN8G9B2",
+      "name": "ASUS VivoBook S14 S433 Thin and Light Laptop",
+      "brand": "ASUS",
+      "price": 729.99,
+      "rating": 4.4,
+      "rating_count": 186,
+      "attributes": {
+        "ram_gb": 8,
+        "storage_gb": 512,
+        "screen_in": 14.0,
+        "weight_lb": 3.09
+      },
+      "source_title": "ASUS VivoBook S14 S433 Thin and Light Laptop, 14” FHD Display, Intel Core i5-1135G7 CPU, 8GB DDR4 RAM, 512GB SSD, Thunderbolt 3, Wi-Fi 6, Windows 10, AI Noise-Cancellation, Dreamy White, S433EA-DH51"
+    },
+    {
+      "id": "lt-046",
+      "category": "laptops",
+      "asin": "B08PNFWCPH",
+      "name": "Dell Inspiron 14 7000 2-in-1 Touchscreen",
+      "brand": "Dell",
+      "price": 739.99,
+      "rating": 3.9,
+      "rating_count": 43,
+      "attributes": {
+        "ram_gb": 16,
+        "storage_gb": 1024,
+        "screen_in": 14.0,
+        "weight_lb": 5.35
+      },
+      "source_title": "2021 Newest Dell Inspiron 14 7000 2-in-1 Touchscreen Business Laptop 14\" FHD, AMD Ryzen 5 4500U, 16G RAM 1TB SSD, Backlit Keyboard, Fingerprint Reader, WiFi 6, Window 10"
+    },
+    {
+      "id": "lt-047",
+      "category": "laptops",
+      "asin": "B09MR6YF26",
+      "name": "MSI GF63 Premium Gaming Laptop",
+      "brand": "MSI",
+      "price": 784.14,
+      "rating": 4.4,
+      "rating_count": 245,
+      "attributes": {
+        "ram_gb": 16,
+        "storage_gb": 1024,
+        "screen_in": 15.6,
+        "weight_lb": 4.1
+      },
+      "source_title": "Newest MSI GF63 Premium Gaming Laptop, 15.6\" FHD Thin-Bezel Display,10th Gen Intel Quad-Core i5-10300H, 16GB RAM, 1TB SSD, GeForce GTX 1650 4GB, Backlit Keyboard, Windows 10"
+    },
+    {
+      "id": "lt-048",
+      "category": "laptops",
+      "asin": "B09KTXZXTK",
+      "name": "Dell G15 5511 Gaming Laptop",
+      "brand": "Dell",
+      "price": 807.99,
+      "rating": 4.2,
+      "rating_count": 97,
+      "attributes": {
+        "ram_gb": 8,
+        "storage_gb": 512,
+        "screen_in": 15.6,
+        "weight_lb": 5.37
+      },
+      "source_title": "Dell G15 5511 Gaming Laptop - 15.6 inch FHD 120Hz Display - Intel Core i5-11400H, 8GB DDR4 RAM, 512GB SSD, NVIDIA GeForce RTX 3050 4GB GDDR6, Windows 10 Home - Black"
+    },
+    {
+      "id": "lt-049",
+      "category": "laptops",
+      "asin": "B086QZPGKZ",
+      "name": "ASUS TUF Gaming FX505GT",
+      "brand": "ASUS",
+      "price": 849.99,
+      "rating": 4.6,
+      "rating_count": 235,
+      "attributes": {
+        "ram_gb": 8,
+        "storage_gb": 512,
+        "screen_in": 15.6,
+        "weight_lb": 4.85
+      },
+      "source_title": "ASUS TUF Gaming Laptop, 15.6” Full HD IPS-Type, Intel Core i5-9300H, GeForce GTX 1650, 8GB DDR4, 512GB PCIe SSD, Gigabit Wi-Fi 5, Windows 10 Home, FX505GT-US52"
+    },
+    {
+      "id": "lt-050",
+      "category": "laptops",
+      "asin": "B086Z2FTLR",
+      "name": "LG Gram 15 Laptop",
+      "brand": "LG",
+      "price": 889.99,
+      "rating": 4.5,
+      "rating_count": 78,
+      "attributes": {
+        "ram_gb": 8,
+        "storage_gb": 512,
+        "screen_in": 15.6,
+        "weight_lb": 2.4
+      },
+      "source_title": "LG Gram 15Z995-Laptop 15.6\" IPS Ultra-Lightweight, (1920 x 1080), 10th Gen Intel Core i5 , 8GB-RAM, 512GB SSD, Windows 10 Home, 17 Hour-Battery, USB-C, HDMI, -Headphone Input - Silver"
+    },
+    {
+      "id": "lt-051",
+      "category": "laptops",
+      "asin": "B0912CGY5Q",
+      "name": "MSI GL65 Gaming Laptop",
+      "brand": "MSI",
+      "price": 898.88,
+      "rating": 4.6,
+      "rating_count": 235,
+      "attributes": {
+        "ram_gb": 16,
+        "storage_gb": 512,
+        "screen_in": 15.6,
+        "weight_lb": 5.07
+      },
+      "source_title": "MSI GL65 Gaming Laptop: 15.6\" Display, Intel Core i5-10300H, NVIDIA GeForce GTX 1650, 16GB RAM, 512GB NVMe SSD, Win10, Black (10SCXK-211)"
+    },
+    {
+      "id": "lt-052",
+      "category": "laptops",
+      "asin": "B0BY2Z27LC",
+      "name": "MSI GF65 Thin 9SD Gaming Laptop",
+      "brand": "MSI",
+      "price": 899.0,
+      "rating": 4.5,
+      "rating_count": 1840,
+      "attributes": {
+        "ram_gb": 8,
+        "storage_gb": 512,
+        "screen_in": 15.6,
+        "weight_lb": 4.1
+      },
+      "source_title": "MSI GF65 Thin 9SD-837 i7-9750H/GTX1660Ti/8GB/512G/Win10 Gaming Laptop"
+    },
+    {
+      "id": "lt-053",
+      "category": "laptops",
+      "asin": "B07NJJ6KM3",
+      "name": "MSI GL63 8SE-209 15.6 Gaming Laptop",
+      "brand": "MSI",
+      "price": 909.89,
+      "rating": 3.7,
+      "rating_count": 31,
+      "attributes": {
+        "ram_gb": 16,
+        "storage_gb": 256,
+        "screen_in": 15.6,
+        "weight_lb": 4.8
+      },
+      "source_title": "MSI GL63 8SE-209 15.6\" Performance Gaming Laptop, NVIDIA GeForce RTX 2060 6G, 120Hz 3ms, Intel i5-8300H (4 cores), 16GB, 256GB NVMe SSD, Red Backlit KB, Win 10, Black"
+    },
+    {
+      "id": "lt-054",
+      "category": "laptops",
+      "asin": "B08ZLFLF7L",
+      "name": "ASUS TUF Gaming F17",
+      "brand": "ASUS",
+      "price": 949.0,
+      "rating": 4.5,
+      "rating_count": 269,
+      "attributes": {
+        "ram_gb": 8,
+        "storage_gb": 512,
+        "screen_in": 17.3,
+        "weight_lb": 5.73
+      },
+      "source_title": "ASUS TUF Gaming F17 Gaming Laptop, 17.3” FHD IPS-Type Display, Intel Core i5-10300H, GeForce GTX 1650 Ti, 8GB DDR4, 512GB PCIe SSD, RGB Keyboard, Windows 10, Bonfire Black, FX706LI-RS53"
+    },
+    {
+      "id": "lt-055",
+      "category": "laptops",
+      "asin": "B00VSFL35W",
+      "name": "Apple MacBook 12-Inch",
+      "brand": "Apple",
+      "price": 949.0,
+      "rating": 4.3,
+      "rating_count": 292,
+      "attributes": {
+        "ram_gb": 8,
+        "storage_gb": 512,
+        "screen_in": 12.0,
+        "weight_lb": 2.03
+      },
+      "source_title": "Apple MacBook MJY42LL/A 12-Inch Laptop with Retina Display (Space Gray, 512 GB) OLD VERSION"
+    },
+    {
+      "id": "lt-056",
+      "category": "laptops",
+      "asin": "B0BM57CTYL",
+      "name": "Microsoft Surface Laptop 5",
+      "brand": "Microsoft",
+      "price": 964.99,
+      "rating": 4.4,
+      "rating_count": 99,
+      "attributes": {
+        "ram_gb": 8,
+        "storage_gb": 256,
+        "screen_in": 13.5,
+        "weight_lb": 2.69
+      },
+      "source_title": "Microsoft Surface Laptop 5 (2022), 13.5\" Touch Screen, Thin & Lightweight, Long Battery Life, Fast Intel i5 Processor for Multi-Tasking, 256GB Storage with Windows 11, Platinum"
+    },
+    {
+      "id": "lt-057",
+      "category": "laptops",
+      "asin": "B09WFZXLCR",
+      "name": "Samsung Galaxy Book2 Pro 13.3",
+      "brand": "SAMSUNG",
+      "price": 1005.0,
+      "rating": 4.3,
+      "rating_count": 246,
+      "attributes": {
+        "ram_gb": 8,
+        "storage_gb": 512,
+        "screen_in": 13.3,
+        "weight_lb": 1.92
+      },
+      "source_title": "SAMSUNG 13.3” Galaxy Book2 Pro Laptop Computer, i7 / 8GB / 512GB, 12th Gen Intel Core Processor, Evo Certified, Lightweight, 2022 Model, Graphite"
+    },
+    {
+      "id": "lt-058",
+      "category": "laptops",
+      "asin": "B088PVQFL3",
+      "name": "MSI GF65 Thin 9SD-004",
+      "brand": "MSI",
+      "price": 1048.0,
+      "rating": 4.5,
+      "rating_count": 571,
+      "attributes": {
+        "ram_gb": 16,
+        "storage_gb": 512,
+        "screen_in": 15.6,
+        "weight_lb": 4.1
+      },
+      "source_title": "MSI GF65 Thin 9SD-004 15.6\" 120Hz Gaming Laptop Intel Core i7-9750H GTX1660Ti 16GB 512GB NVMe SSD Win10Home"
+    },
+    {
+      "id": "lt-059",
+      "category": "laptops",
+      "asin": "B09PSW44JY",
+      "name": "ASUS ZenBook Flip 13 Convertible Laptop",
+      "brand": "ASUS",
+      "price": 1054.36,
+      "rating": 4.3,
+      "rating_count": 62,
+      "attributes": {
+        "ram_gb": 8,
+        "storage_gb": 512,
+        "screen_in": 13.3,
+        "weight_lb": 2.8
+      },
+      "source_title": "ASUS ZenBook Flip 13 Ultra Slim Convertible Laptop, 13.3” OLED FHD Touch Display, Intel Core i5-1135G7 Processor, Intel Iris Xe Graphics, 8GB RAM, 512GB SSD, Windows 10 Home, Pine Grey, UX363EA-DH51T"
+    },
+    {
+      "id": "lt-060",
+      "category": "laptops",
+      "asin": "B0BM6R4JFC",
+      "name": "LG Gram 16T90P 16 inch 2-in-1 Laptop",
+      "brand": "LG",
+      "price": 1179.0,
+      "rating": 4.3,
+      "rating_count": 82,
+      "attributes": {
+        "ram_gb": 16,
+        "storage_gb": 512,
+        "screen_in": 16.0,
+        "weight_lb": 3.3
+      },
+      "source_title": "LG Gram 16T90P 16\" WQXGA (2560 x 1600) 2-in-1 Lightweight Touch Display Laptop, Intel Evo 11th Gen Core i7 , 16GB RAM, 512GB SSD, 21 Hour Battery, Alexa Built-in, 2X USB-C, HDMI, USB- Green"
+    },
+    {
+      "id": "lt-061",
+      "category": "laptops",
+      "asin": "B0B938C59K",
+      "name": "Microsoft Surface Laptop 3 15 inch",
+      "brand": "Microsoft",
+      "price": 1198.94,
+      "rating": 4.5,
+      "rating_count": 103,
+      "attributes": {
+        "ram_gb": 8,
+        "storage_gb": 256,
+        "screen_in": 15.0,
+        "weight_lb": 3.4
+      },
+      "source_title": "Microsoft Surface Laptop 3 – 15\" Touch-Screen – AMD Ryzen 5 Surface Edition - 8GB Memory - 256GB Solid State Drive – Platinum"
+    },
+    {
+      "id": "lt-062",
+      "category": "laptops",
+      "asin": "B09LMSX14G",
+      "name": "Lenovo ThinkPad P15s Gen 2",
+      "brand": "Oemgenuine",
+      "price": 1229.95,
+      "rating": 4.2,
+      "rating_count": 54,
+      "attributes": {
+        "ram_gb": 16,
+        "storage_gb": 256,
+        "screen_in": 15.6,
+        "weight_lb": 3.86
+      },
+      "source_title": "OEM Lenovo ThinkPad P15s Gen 2 15.6” FHD IPS, Intel Quad Core i7-1165G7, 16GB RAM, 256GB NVMe, FP, WiFi 6, W10P, 3YR, Business Laptop"
+    },
+    {
+      "id": "lt-063",
+      "category": "laptops",
+      "asin": "B08P3HNZ2W",
+      "name": "Alienware m15 R3 15.6inch FHD Gaming Laptop",
+      "brand": "Alienware",
+      "price": 1296.19,
+      "rating": 4.4,
+      "rating_count": 417,
+      "attributes": {
+        "ram_gb": 16,
+        "storage_gb": 512,
+        "screen_in": 15.6,
+        "weight_lb": 4.65
+      },
+      "source_title": "Alienware m15 R3 15.6inch FHD Gaming Laptop (Lunar Light) Intel Core i7-10750H 10th Gen, 16GB DDR4 RAM, 512GB SSD, Nvidia GeForce RTX 2060 6GB GDDR6, Windows 10 Home (AWm15-7272WHT-PUS)"
+    },
+    {
+      "id": "lt-064",
+      "category": "laptops",
+      "asin": "B08FBJNWB2",
+      "name": "MSI GF75 Thin Gaming Laptop",
+      "brand": "MSI",
+      "price": 1299.99,
+      "rating": 4.3,
+      "rating_count": 35,
+      "attributes": {
+        "ram_gb": 16,
+        "storage_gb": 512,
+        "screen_in": 17.3,
+        "weight_lb": 4.85
+      },
+      "source_title": "MSI GF75 Thin 17.3\" Gaming Laptop Core i7-10750H 16GB RAM 512GB SSD 144Hz GTX 1660 Ti 6GB - 10th Gen i7-10750H Hexa-core - NVIDIA GeForce GTX 1660 Ti 6GB - 144 Hz Refresh Rate - Up to 5 GHz CPU S"
+    },
+    {
+      "id": "lt-065",
+      "category": "laptops",
+      "asin": "B09G8YMZHM",
+      "name": "XPG Xenia 15 KC Gaming Notebook",
+      "brand": "XPG",
+      "price": 1349.99,
+      "rating": 4.0,
+      "rating_count": 67,
+      "attributes": {
+        "ram_gb": 32,
+        "storage_gb": 1024,
+        "screen_in": 15.6,
+        "weight_lb": 4.2
+      },
+      "source_title": "XPG Xenia 15 KC Gaming Notebook Intel i7 11800H CPU with GeForce RTX 3070 1TB PCIe Gen4x4 SSD 32GB DDR4 3200MHz 15.6\" QHD 165Hz IPS Display Mechanical RGB Keyboard (XENIA15I7G11H3070LX-BKCUS)"
+    },
+    {
+      "id": "lt-066",
+      "category": "laptops",
+      "asin": "B0BB8BHKB8",
+      "name": "Apple MacBook Air M2",
+      "brand": "Apple",
+      "price": 1399.95,
+      "rating": 4.9,
+      "rating_count": 35,
+      "attributes": {
+        "ram_gb": 16,
+        "storage_gb": 256,
+        "screen_in": 13.6,
+        "weight_lb": 5.1
+      },
+      "source_title": "Apple 2022 MacBook Air M2, 16GB RAM, 256GB Storage - Midnight (Z160000AU)"
+    },
+    {
+      "id": "lt-067",
+      "category": "laptops",
+      "asin": "B07J1XH67V",
+      "name": "Microsoft Surface Laptop 2",
+      "brand": "Microsoft",
+      "price": 1449.0,
+      "rating": 4.3,
+      "rating_count": 326,
+      "attributes": {
+        "ram_gb": 16,
+        "storage_gb": 512,
+        "screen_in": 13.5,
+        "weight_lb": 2.83
+      },
+      "source_title": "Microsoft Surface Laptop 2 (Intel Core i7, 16GB RAM, 512GB SSD) - Cobalt"
+    },
+    {
+      "id": "lt-068",
+      "category": "laptops",
+      "asin": "B08FPXS834",
+      "name": "Gigabyte AORUS 15G Performance Gaming Laptop",
+      "brand": "Gigabyte",
+      "price": 1550.0,
+      "rating": 4.2,
+      "rating_count": 99,
+      "attributes": {
+        "ram_gb": 16,
+        "storage_gb": 512,
+        "screen_in": 15.6,
+        "weight_lb": 4.85
+      },
+      "source_title": "GIGABYTE AORUS 15G (KB) Performance Gaming Laptop, 15.6-inch FHD 240Hz IPS, GeForce RTX 2060, 10th Gen Intel i7-10875H, 16GB DDR4, 512GB NVMe SSD (AORUS 15G KB-8US2130MH)"
+    },
+    {
+      "id": "lt-069",
+      "category": "laptops",
+      "asin": "B09R4RRSWV",
+      "name": "Alienware M15 R6 Gaming Laptop",
+      "brand": "Alienware",
+      "price": 1599.99,
+      "rating": 4.0,
+      "rating_count": 115,
+      "attributes": {
+        "ram_gb": 16,
+        "storage_gb": 512,
+        "screen_in": 15.6,
+        "weight_lb": 5.93
+      },
+      "source_title": "Alienware M15 R6 VR Ready Gaming Laptop - 15.6 inch QHD 2K 240Hz Display, Intel Core i7-11800H, 16GB DDR4 RAM, HDMI, WiFi,512GB SSD, NVIDIA GeForce RTX 3060 6GB GDDR6, Windows 11-Black"
+    },
+    {
+      "id": "lt-070",
+      "category": "laptops",
+      "asin": "B07NFTX2C4",
+      "name": "Huawei Matebook 13 Signature Edition",
+      "brand": "HUAWEI",
+      "price": 1649.99,
+      "rating": 4.0,
+      "rating_count": 128,
+      "attributes": {
+        "ram_gb": 8,
+        "storage_gb": 512,
+        "screen_in": 13.0,
+        "weight_lb": 2.86
+      },
+      "source_title": "Huawei Matebook 13 Signature Edn. Laptop - 13\" 2K Touch, 8th Gen i7, 8 GB RAM, 512 GB SSD, Office 365 Personal 1-Year, Gray"
+    },
+    {
+      "id": "lt-071",
+      "category": "laptops",
+      "asin": "B08VDQSTZX",
+      "name": "ASUS ROG Zephyrus G15 GA503QM",
+      "brand": "HIDevolution",
+      "price": 1789.0,
+      "rating": 3.8,
+      "rating_count": 61,
+      "attributes": {
+        "ram_gb": 16,
+        "storage_gb": 1024,
+        "screen_in": 15.6,
+        "weight_lb": 4.21
+      },
+      "source_title": "HIDevolution [2021] ASUS ROG Zephyrus G15 GA503QM 15.6\" QHD 165Hz, 3.0 GHz AMD Ryzen 9 5900HS, RTX 3060, 16 GB 3200MHz RAM, 2 x 512 GB PCIe SSD, Eclipse Gray"
+    },
+    {
+      "id": "lt-072",
+      "category": "laptops",
+      "asin": "B0996B5872",
+      "name": "Gigabyte AORUS 15P XD",
+      "brand": "Gigabyte",
+      "price": 2059.0,
+      "rating": 4.4,
+      "rating_count": 34,
+      "attributes": {
+        "ram_gb": 16,
+        "storage_gb": 1024,
+        "screen_in": 15.6,
+        "weight_lb": 4.8
+      },
+      "source_title": "GIGABYTE AORUS 15P XD - 15.6\" FHD IPS Anti-Glare 240Hz, Intel Core i7, NVIDIA GeForce RTX 3070, GPU 8GB GDDR6, 16GB Memory, 1TB SSD, Win10 Home, Gaming Laptop (AORUS 15P XD-73US324SH)"
+    },
+    {
+      "id": "lt-073",
+      "category": "laptops",
+      "asin": "B08F82FJT1",
+      "name": "Eluktronics MECH 15 G3R Gaming Laptop",
+      "brand": "Eluktronics",
+      "price": 2249.55,
+      "rating": 4.4,
+      "rating_count": 84,
+      "attributes": {
+        "ram_gb": 32,
+        "storage_gb": 1024,
+        "screen_in": 15.6,
+        "weight_lb": 4.68
+      },
+      "source_title": "Eluktronics MECH 15 G3R (2022) 15.6\" Liquid Cooled Gaming Laptop: Intel Core i9-12900H, NVIDIA RTX 3080 Ti, Thunderbolt 4, 1TB PCIe Gen 4 SSD, 32GB DDR5 RAM, Win 11 Home, 15.6 QHD 240Hz Notebook"
+    },
+    {
+      "id": "lt-074",
+      "category": "laptops",
+      "asin": "B08YCZ328B",
+      "name": "Razer Blade 15 Base Gaming Laptop",
+      "brand": "Razer",
+      "price": 2299.99,
+      "rating": 4.4,
+      "rating_count": 1441,
+      "attributes": {
+        "ram_gb": 16,
+        "storage_gb": 512,
+        "screen_in": 15.6,
+        "weight_lb": 8.63
+      },
+      "source_title": "Razer Blade 15 Base Gaming Laptop 2020: Intel Core i7-10750H 6-Core, NVIDIA GeForce RTX 2070 Max-Q,15.6\" 4K OLED,16GB RAM,512GB SSD, CNC Aluminum,Chroma RGB,Thunderbolt 3,Creator Ready, Mercury White"
+    },
+    {
+      "id": "lt-075",
+      "category": "laptops",
+      "asin": "B096924S7S",
+      "name": "Alienware x15 R1 Gaming Laptop",
+      "brand": "Alienware",
+      "price": 2499.0,
+      "rating": 4.1,
+      "rating_count": 44,
+      "attributes": {
+        "ram_gb": 16,
+        "storage_gb": 1024,
+        "screen_in": 15.6,
+        "weight_lb": 5.2
+      },
+      "source_title": "Alienware x15 R1 VR Ready Gaming Laptop - 15.6 inch FHD 360Hz Display, Intel Core i7-11800H, 16GB DDR4 RAM, 1TB SSD, HDMI, WiFi, NVIDIA GeForce RTX 3070 8GB GDDR6, Windows 11 Home - White"
+    }
+  ],
+  "coffee_makers": [
+    {
+      "id": "cm-001",
+      "category": "coffee_makers",
+      "asin": "B01CGC9AXC",
+      "name": "Brentwood 4-Cup Coffee Maker",
+      "brand": "Brentwood",
+      "price": 19.48,
+      "rating": 4.0,
+      "rating_count": 703,
+      "attributes": {
+        "capacity_cups": 4,
+        "programmable": false,
+        "thermal_carafe": false,
+        "brew_strength_control": true
+      },
+      "source_title": "Brentwood 4-Cup Coffee Maker (White)"
+    },
+    {
+      "id": "cm-002",
+      "category": "coffee_makers",
+      "asin": "B07TYPZJ4T",
+      "name": "Brentwood TS-213BL Coffee Maker",
+      "brand": "Brentwood",
+      "price": 22.95,
+      "rating": 4.2,
+      "rating_count": 3249,
+      "attributes": {
+        "capacity_cups": 4,
+        "programmable": false,
+        "thermal_carafe": false,
+        "brew_strength_control": false
+      },
+      "source_title": "Brentwood TS-213BL 4 Cup Coffee Maker, Blue"
+    },
+    {
+      "id": "cm-003",
+      "category": "coffee_makers",
+      "asin": "B0B3SBM8SR",
+      "name": "Dominion 4-Cup Coffeemaker",
+      "brand": "Dominion",
+      "price": 22.99,
+      "rating": 4.0,
+      "rating_count": 60,
+      "attributes": {
+        "capacity_cups": 4,
+        "programmable": false,
+        "thermal_carafe": false,
+        "brew_strength_control": false
+      },
+      "source_title": "Dominion 4-Cup Coffeemaker Compact Coffee Pot Brewer Machine, Quiet Operation with On / Off LED Indicator Light, Convenient Cord Storage and Auto Pause Feature, Easy Anti-drip Coffeemaker with Coffee Pot and Removable Filter Basket for Office / Home, White"
+    },
+    {
+      "id": "cm-004",
+      "category": "coffee_makers",
+      "asin": "B082WLL66M",
+      "name": "Dominion 4-Cup Coffeemaker",
+      "brand": "Dominion",
+      "price": 22.99,
+      "rating": 4.2,
+      "rating_count": 91,
+      "attributes": {
+        "capacity_cups": 4,
+        "programmable": false,
+        "thermal_carafe": false,
+        "brew_strength_control": false
+      },
+      "source_title": "Dominion 4-Cup Coffeemaker Compact Coffee Pot Brewer Machine, Quiet Operation with On / Off LED Indicator Light, Convenient Cord Storage and Auto Pause Feature, Easy Anti-drip Coffeemaker with Coffee Pot and Removable Filter Basket for Office / Home, Black"
+    },
+    {
+      "id": "cm-005",
+      "category": "coffee_makers",
+      "asin": "B07YBLPPLZ",
+      "name": "Black & Decker 12 Cup Coffee Maker",
+      "brand": "BLACK+DECKER",
+      "price": 23.79,
+      "rating": 4.6,
+      "rating_count": 268,
+      "attributes": {
+        "capacity_cups": 12,
+        "programmable": false,
+        "thermal_carafe": false,
+        "brew_strength_control": false
+      },
+      "source_title": "Black & Decker CM0910BKD 12 cup coffee maker, Black"
+    },
+    {
+      "id": "cm-006",
+      "category": "coffee_makers",
+      "asin": "B07L96HRC8",
+      "name": "Aigostar 4 Cups Drip Coffee Maker",
+      "brand": "Aigostar",
+      "price": 23.99,
+      "rating": 4.2,
+      "rating_count": 2233,
+      "attributes": {
+        "capacity_cups": 4,
+        "programmable": false,
+        "thermal_carafe": false,
+        "brew_strength_control": false
+      },
+      "source_title": "Aigostar 4 Cups Drip Coffee Maker, Coffee Pot Machine with Reusable Filter, Warming Plate and Glass Carafe Compact Coffeemakers for Home, Office & Travel, Stainless Steel Decoration, Black"
+    },
+    {
+      "id": "cm-007",
+      "category": "coffee_makers",
+      "asin": "B0B5GJ4Q25",
+      "name": "Gevi 5 Cups Small Coffee Maker",
+      "brand": "Gevi",
+      "price": 25.99,
+      "rating": 4.0,
+      "rating_count": 227,
+      "attributes": {
+        "capacity_cups": 5,
+        "programmable": false,
+        "thermal_carafe": false,
+        "brew_strength_control": false
+      },
+      "source_title": "Gevi 5 Cups Small Coffee Maker, Compact Coffee Machine with Reusable Filter, Warming Plate and Coffee Pot for Home and Office"
+    },
+    {
+      "id": "cm-008",
+      "category": "coffee_makers",
+      "asin": "B082KSS5JK",
+      "name": "Hamilton Beach 5 Cup Compact Drip",
+      "brand": "Hamilton Beach",
+      "price": 26.99,
+      "rating": 4.3,
+      "rating_count": 212,
+      "attributes": {
+        "capacity_cups": 5,
+        "programmable": false,
+        "thermal_carafe": false,
+        "brew_strength_control": false
+      },
+      "source_title": "Hamilton Beach 5 Cup Compact Drip Coffee Maker, Works with Smart Plugs, Glass Carafe, Auto Pause and Pour, Black & Stainless Steel (46110)"
+    },
+    {
+      "id": "cm-009",
+      "category": "coffee_makers",
+      "asin": "B0089ME5VQ",
+      "name": "Proctor Silex 10-Cup Drip Coffee Maker",
+      "brand": "Proctor Silex",
+      "price": 27.99,
+      "rating": 4.1,
+      "rating_count": 2231,
+      "attributes": {
+        "capacity_cups": 10,
+        "programmable": false,
+        "thermal_carafe": false,
+        "brew_strength_control": false
+      },
+      "source_title": "Proctor Silex Coffee Maker, Works with Smart Plugs That are Compatible with Alexa, Auto Pause and Serve, 10-Cup, Black"
+    },
+    {
+      "id": "cm-010",
+      "category": "coffee_makers",
+      "asin": "B084ZH769P",
+      "name": "Amazon Basics 12 Cup Coffee Maker",
+      "brand": "Amazon Basics",
+      "price": 29.69,
+      "rating": 4.2,
+      "rating_count": 1486,
+      "attributes": {
+        "capacity_cups": 12,
+        "programmable": false,
+        "thermal_carafe": false,
+        "brew_strength_control": false
+      },
+      "source_title": "Amazon Basics 12 Cup Coffee Maker With Reusable Filter, Black & Stainless Steel"
+    },
+    {
+      "id": "cm-011",
+      "category": "coffee_makers",
+      "asin": "B01FSO0C1E",
+      "name": "Commercial Chef 12 Cup Programmable Drip Coffee Maker",
+      "brand": "Commercial CHEF",
+      "price": 30.67,
+      "rating": 4.1,
+      "rating_count": 860,
+      "attributes": {
+        "capacity_cups": 12,
+        "programmable": true,
+        "thermal_carafe": false,
+        "brew_strength_control": false
+      },
+      "source_title": "COMMERCIAL CHEF Coffee Maker with Nylon Coffee Filter, Digital 12 Cup Coffee Maker with Glass Pot and Handle, Programmable Coffee Maker with LCD Display"
+    },
+    {
+      "id": "cm-012",
+      "category": "coffee_makers",
+      "asin": "B099DBL6V8",
+      "name": "Aigostar Programmable Coffee Maker 8 Cup",
+      "brand": "Aigostar",
+      "price": 32.99,
+      "rating": 4.1,
+      "rating_count": 177,
+      "attributes": {
+        "capacity_cups": 8,
+        "programmable": true,
+        "thermal_carafe": false,
+        "brew_strength_control": false
+      },
+      "source_title": "Aigostar Programmable Coffee Maker, 8 Cup Coffee Maker with Glass Carafe, Auto Pause Electric Coffee Maker, Auto Keep Warm Drip Coffee Maker with Permanent Filter, Black"
+    },
+    {
+      "id": "cm-013",
+      "category": "coffee_makers",
+      "asin": "B0BBM7YN6N",
+      "name": "Aigostar 12 Cup Programmable Coffee Maker",
+      "brand": "Aigostar",
+      "price": 35.99,
+      "rating": 4.1,
+      "rating_count": 61,
+      "attributes": {
+        "capacity_cups": 12,
+        "programmable": true,
+        "thermal_carafe": false,
+        "brew_strength_control": false
+      },
+      "source_title": "Aigostar 12 Cup Programmable Coffee Maker with Glass Carafe Pot, 24H Timer and Anti-Drip System, 2H Keep Warm with Auto-Shut Off, Electric Coffee Maker, Black"
+    },
+    {
+      "id": "cm-014",
+      "category": "coffee_makers",
+      "asin": "B0BNLFCKCG",
+      "name": "Holstein Housewares 5 Cup Coffee Maker",
+      "brand": "Holstein Housewares",
+      "price": 38.17,
+      "rating": 4.2,
+      "rating_count": 10255,
+      "attributes": {
+        "capacity_cups": 5,
+        "programmable": false,
+        "thermal_carafe": false,
+        "brew_strength_control": false
+      },
+      "source_title": "Holstein Housewares 5 Cup Coffee Maker, Black/Metallic Red - User Friendly One-Touch Operation"
+    },
+    {
+      "id": "cm-015",
+      "category": "coffee_makers",
+      "asin": "B085NLFY9F",
+      "name": "Taylor Swoden Programmable Drip Coffee Maker",
+      "brand": "Taylor Swoden",
+      "price": 39.99,
+      "rating": 4.2,
+      "rating_count": 2837,
+      "attributes": {
+        "capacity_cups": 12,
+        "programmable": true,
+        "thermal_carafe": false,
+        "brew_strength_control": true
+      },
+      "source_title": "Taylor Swoden Programmable Coffee Maker, 4-12 Cups Drip Coffee Machine with Glass Carafe, Regular & Strong Brew, Pause & Serve for Home and Office"
+    },
+    {
+      "id": "cm-016",
+      "category": "coffee_makers",
+      "asin": "B09911NLWL",
+      "name": "Oster BVSTDC05-053 5-Cup Coffee Maker",
+      "brand": "Oster",
+      "price": 39.99,
+      "rating": 4.1,
+      "rating_count": 24,
+      "attributes": {
+        "capacity_cups": 5,
+        "programmable": true,
+        "thermal_carafe": false,
+        "brew_strength_control": false
+      },
+      "source_title": "Oster BVSTDC05-053 5-Cup Coffee Maker 220 Volts, Not for USA (European Cord)"
+    },
+    {
+      "id": "cm-017",
+      "category": "coffee_makers",
+      "asin": "B09SQR7QDP",
+      "name": "Proctor Silex FrontFill 12 Cup Drip Coffee Maker",
+      "brand": "Proctor Silex",
+      "price": 43.99,
+      "rating": 3.7,
+      "rating_count": 93,
+      "attributes": {
+        "capacity_cups": 12,
+        "programmable": false,
+        "thermal_carafe": false,
+        "brew_strength_control": false
+      },
+      "source_title": "Proctor Silex FrontFill Drip Coffee Maker, 12 Cup Glass Carafe, Black and Silver (43686)"
+    },
+    {
+      "id": "cm-018",
+      "category": "coffee_makers",
+      "asin": "B07Y8MRQ9Y",
+      "name": "Ninja CE200 12 Cup Programmable Coffee Maker",
+      "brand": "Amazon Renewed",
+      "price": 44.99,
+      "rating": 4.3,
+      "rating_count": 289,
+      "attributes": {
+        "capacity_cups": 12,
+        "programmable": true,
+        "thermal_carafe": true,
+        "brew_strength_control": true
+      },
+      "source_title": "Ninja CE200 12 Cup Programmable Coffee Maker with 60 Ounce Reservoir and Thermal Flavor Extraction, Black (Renewed)"
+    },
+    {
+      "id": "cm-019",
+      "category": "coffee_makers",
+      "asin": "B08LRN59QZ",
+      "name": "Chefman 12-Cup Programmable Coffee Maker",
+      "brand": "Chefman",
+      "price": 45.86,
+      "rating": 4.2,
+      "rating_count": 1883,
+      "attributes": {
+        "capacity_cups": 12,
+        "programmable": true,
+        "thermal_carafe": false,
+        "brew_strength_control": true
+      },
+      "source_title": "Chefman 12-Cup Programmable Coffee Maker, Electric Brewer, Auto Shut Off, Digital Display w/Auto-Brew Function, Anti-Drip Pot, Reusable Filter for Fresh Grounds, Square Stainless Steel, Glass Carafe"
+    },
+    {
+      "id": "cm-020",
+      "category": "coffee_makers",
+      "asin": "B08JTMV5TS",
+      "name": "Safeplus 12 Cup Programmable Drip Coffee Maker",
+      "brand": "Safeplus",
+      "price": 46.99,
+      "rating": 4.2,
+      "rating_count": 149,
+      "attributes": {
+        "capacity_cups": 12,
+        "programmable": true,
+        "thermal_carafe": false,
+        "brew_strength_control": true
+      },
+      "source_title": "Safeplus 12 Cup Programmable Coffee Maker,LCD Display Drip Coffee Brewer, Coffee Machine with 1.8 litres Glass Carafe Capacity, Water Tank other Drinks Tea, kitchen, Office, Reception Room, Party"
+    },
+    {
+      "id": "cm-021",
+      "category": "coffee_makers",
+      "asin": "B01K5PCIHC",
+      "name": "Capresso SG220 Coffee Maker",
+      "brand": "Capresso",
+      "price": 47.44,
+      "rating": 4.1,
+      "rating_count": 121,
+      "attributes": {
+        "capacity_cups": 12,
+        "programmable": true,
+        "thermal_carafe": false,
+        "brew_strength_control": true
+      },
+      "source_title": "Capresso 427.05 Coffee Maker, Stainless Steel"
+    },
+    {
+      "id": "cm-022",
+      "category": "coffee_makers",
+      "asin": "B08SQQ92TV",
+      "name": "Koolatron Total Chef 12-Cup Programmable Coffee Maker",
+      "brand": "Koolatron",
+      "price": 47.94,
+      "rating": 4.0,
+      "rating_count": 78,
+      "attributes": {
+        "capacity_cups": 12,
+        "programmable": true,
+        "thermal_carafe": false,
+        "brew_strength_control": false
+      },
+      "source_title": "Koolatron Total Chef 12-Cup Programmable Coffee Maker, Stainless Steel Drip Coffee Machine with Glass Carafe and Reusable Basket Filter, Black and Silver"
+    },
+    {
+      "id": "cm-023",
+      "category": "coffee_makers",
+      "asin": "B08CHMR4HB",
+      "name": "Capresso 12-Cup Coffee Maker",
+      "brand": "Capresso",
+      "price": 49.0,
+      "rating": 4.3,
+      "rating_count": 280,
+      "attributes": {
+        "capacity_cups": 12,
+        "programmable": true,
+        "thermal_carafe": false,
+        "brew_strength_control": false
+      },
+      "source_title": "Capresso 12-Cup Coffee Maker with Glass Carafe, Stainless and Black 416.05"
+    },
+    {
+      "id": "cm-024",
+      "category": "coffee_makers",
+      "asin": "B000BHDG7G",
+      "name": "Mr. Coffee 4-Cup Programmable Coffee Maker",
+      "brand": "Mr. Coffee",
+      "price": 49.87,
+      "rating": 4.3,
+      "rating_count": 5675,
+      "attributes": {
+        "capacity_cups": 4,
+        "programmable": true,
+        "thermal_carafe": false,
+        "brew_strength_control": false
+      },
+      "source_title": "Mr. Coffee 4-Cup Programmable Coffee Maker, Black (DRX5-RB)"
+    },
+    {
+      "id": "cm-025",
+      "category": "coffee_makers",
+      "asin": "B00B83S226",
+      "name": "Jerdon CM430WD 4-Cup Coffee Maker",
+      "brand": "Jerdon",
+      "price": 49.99,
+      "rating": 3.0,
+      "rating_count": 24,
+      "attributes": {
+        "capacity_cups": 4,
+        "programmable": false,
+        "thermal_carafe": false,
+        "brew_strength_control": false
+      },
+      "source_title": "Jerdon CM430WD 4-Cup Automatic Shut-Off Coffee Maker, Black Finish"
+    },
+    {
+      "id": "cm-026",
+      "category": "coffee_makers",
+      "asin": "B094QK4RMM",
+      "name": "Yabano Programmable Coffee Maker 12 Cup",
+      "brand": "Yabano",
+      "price": 49.99,
+      "rating": 4.1,
+      "rating_count": 1659,
+      "attributes": {
+        "capacity_cups": 12,
+        "programmable": true,
+        "thermal_carafe": false,
+        "brew_strength_control": true
+      },
+      "source_title": "Programmable Coffee Maker, 12 Cups Coffee Pot with Timer and Glass Carafe, Brew Strength Control, Keep Warming, Mid-Brew Pause, Coffee Machine with Permanent Coffee Filter Basket, Anti-Drip System"
+    },
+    {
+      "id": "cm-027",
+      "category": "coffee_makers",
+      "asin": "B09ZX91QK9",
+      "name": "HESASDG 10-Cup Drip Coffee Maker",
+      "brand": "HESASDG",
+      "price": 52.99,
+      "rating": 4.0,
+      "rating_count": 87,
+      "attributes": {
+        "capacity_cups": 10,
+        "programmable": true,
+        "thermal_carafe": false,
+        "brew_strength_control": true
+      },
+      "source_title": "HESASDG 10-Cup Coffee Maker: Drip Coffee Maker with Programmable Timer, Brew Strength Control, Coffee Pot, Permanent Filter, Smart Anti-Drip System, Automatic Stainless Steel Coffee Machine,Black…"
+    },
+    {
+      "id": "cm-028",
+      "category": "coffee_makers",
+      "asin": "B09CTJW92R",
+      "name": "Kognita 12 Cup Programmable Coffee Maker",
+      "brand": "kognita",
+      "price": 54.99,
+      "rating": 4.0,
+      "rating_count": 178,
+      "attributes": {
+        "capacity_cups": 12,
+        "programmable": true,
+        "thermal_carafe": false,
+        "brew_strength_control": true
+      },
+      "source_title": "12 Cup Coffee Maker, Programmable Coffee Machine & Ice Tea Maker with Glass Carafe, Drip Coffee Maker Coffee Pot, Auto Keep Warm, Anti-Drip, Strength Control, Stainless Steel Small Coffe Maker, 900W Quick Brew, Kognita"
+    },
+    {
+      "id": "cm-029",
+      "category": "coffee_makers",
+      "asin": "B0CCBL1PQX",
+      "name": "Krups Simply Brew Stainless Steel Drip Coffee Maker",
+      "brand": "KRUPS",
+      "price": 57.29,
+      "rating": 4.3,
+      "rating_count": 16149,
+      "attributes": {
+        "capacity_cups": 10,
+        "programmable": false,
+        "thermal_carafe": true,
+        "brew_strength_control": false
+      },
+      "source_title": "Krups Simply Brew Stainless Steel Drip Coffee Maker 10 Cup 900 Watts Coffee Filter, Drip Free, Dishwasher Safe Pot Silver and Black"
+    },
+    {
+      "id": "cm-030",
+      "category": "coffee_makers",
+      "asin": "B094WNXDNG",
+      "name": "GE Drip Coffee Maker 12-Cup",
+      "brand": "GE",
+      "price": 59.21,
+      "rating": 4.1,
+      "rating_count": 2813,
+      "attributes": {
+        "capacity_cups": 12,
+        "programmable": true,
+        "thermal_carafe": false,
+        "brew_strength_control": true
+      },
+      "source_title": "GE Drip Coffee Maker With Timer | 12-Cup Glass Carafe Coffee Pot With Warming Plate | Adjustable Brew Strength | Wide Shower Head for Maximum Flavor | Kitchen Essentials | Stainless Steel"
+    },
+    {
+      "id": "cm-031",
+      "category": "coffee_makers",
+      "asin": "B0BHLD9RVV",
+      "name": "Cuisinart CBC-7000PCFR 14 Cup Programmable Coffee Maker",
+      "brand": "Amazon Renewed",
+      "price": 59.99,
+      "rating": 4.5,
+      "rating_count": 715,
+      "attributes": {
+        "capacity_cups": 14,
+        "programmable": true,
+        "thermal_carafe": false,
+        "brew_strength_control": true
+      },
+      "source_title": "Cuisinart CBC-7000PCFR 14 Cup Programmable Coffee Maker (Renewed)"
+    },
+    {
+      "id": "cm-032",
+      "category": "coffee_makers",
+      "asin": "B0BKLBLGLK",
+      "name": "PARIS RHÔNE 12 Cup Drip Coffee Maker",
+      "brand": "PARIS RHÔNE",
+      "price": 59.99,
+      "rating": 4.4,
+      "rating_count": 21,
+      "attributes": {
+        "capacity_cups": 12,
+        "programmable": true,
+        "thermal_carafe": false,
+        "brew_strength_control": true
+      },
+      "source_title": "PARIS RHÔNE Coffee Maker,Drip Coffee Machine with Glass Carafe, Automatic,Keep Warm, 24H Programmable Timer, Brew Strength &Touch Control, Anti-Drip System, Self-Cleaning Function,Sliver (12 CUP)"
+    },
+    {
+      "id": "cm-033",
+      "category": "coffee_makers",
+      "asin": "B004H1M54W",
+      "name": "Cuisinart DCC-1150BKFR 10 Cup Thermal Coffee Maker",
+      "brand": "Amazon Renewed",
+      "price": 59.99,
+      "rating": 4.0,
+      "rating_count": 157,
+      "attributes": {
+        "capacity_cups": 10,
+        "programmable": true,
+        "thermal_carafe": true,
+        "brew_strength_control": true
+      },
+      "source_title": "Cuisinart DCC-1150BKFR 10 Cup Thermal Coffee Maker, Black (Renewed)"
+    },
+    {
+      "id": "cm-034",
+      "category": "coffee_makers",
+      "asin": "B09WMDH98T",
+      "name": "Wamife 12 Cup Programmable Drip Coffee Maker",
+      "brand": "Wamife",
+      "price": 59.99,
+      "rating": 4.3,
+      "rating_count": 1004,
+      "attributes": {
+        "capacity_cups": 12,
+        "programmable": true,
+        "thermal_carafe": false,
+        "brew_strength_control": true
+      },
+      "source_title": "Wamife Coffee Maker - 12 Cup Programmable Drip Coffee Machine Coffee Brewer Timer Machine with Thermal Carafe Retro Coffee Makers for Home & Office (Blue Coffee Machine)"
+    },
+    {
+      "id": "cm-035",
+      "category": "coffee_makers",
+      "asin": "B09FXV1CQ8",
+      "name": "Korex Smart Drip Coffee Maker",
+      "brand": "Korex",
+      "price": 60.99,
+      "rating": 3.2,
+      "rating_count": 86,
+      "attributes": {
+        "capacity_cups": 12,
+        "programmable": true,
+        "thermal_carafe": false,
+        "brew_strength_control": true
+      },
+      "source_title": "Korex Smart Coffee Maker, 1.5L Drip Filter Coffee Machine Easy Programmable Connectivity with APP Alexa Glass Carafe Reusable Filter Anti-Drip Function Boil-Dry Protection 900W"
+    },
+    {
+      "id": "cm-036",
+      "category": "coffee_makers",
+      "asin": "B09KLL967S",
+      "name": "GASTRORAG 10 Cup Drip Coffee Maker",
+      "brand": "GASTRORAG",
+      "price": 63.5,
+      "rating": 4.3,
+      "rating_count": 1164,
+      "attributes": {
+        "capacity_cups": 10,
+        "programmable": true,
+        "thermal_carafe": false,
+        "brew_strength_control": true
+      },
+      "source_title": "GASTRORAG 10 Cup Drip Coffee Maker, Touch Screen, Programmable with Glass Carafe, Stainless Steel Finish, FROZEN RED"
+    },
+    {
+      "id": "cm-037",
+      "category": "coffee_makers",
+      "asin": "B09ZDHTCKM",
+      "name": "N\\W 14 Cup Programmable Touchscreen Coffee Maker",
+      "brand": "N\\W",
+      "price": 65.66,
+      "rating": 3.6,
+      "rating_count": 20,
+      "attributes": {
+        "capacity_cups": 14,
+        "programmable": true,
+        "thermal_carafe": false,
+        "brew_strength_control": false
+      },
+      "source_title": "NW 14 Cup Programmable Touchscreen Coffee Maker, Sage Green"
+    },
+    {
+      "id": "cm-038",
+      "category": "coffee_makers",
+      "asin": "B0BB6XMNZK",
+      "name": "AIRMSEN 12 Cup Programmable Drip Coffee Maker",
+      "brand": "AIRMSEN",
+      "price": 68.25,
+      "rating": 4.2,
+      "rating_count": 81,
+      "attributes": {
+        "capacity_cups": 12,
+        "programmable": true,
+        "thermal_carafe": false,
+        "brew_strength_control": true
+      },
+      "source_title": "AIRMSEN 12 Cup Programmable Coffee Maker, Automatic Coffee Machine with Glass Coffee Pot, Personalised Christmas Gifts for Men/Women, Drip Coffee Maker, 4 Hours Warm-Keeping & Reusable Coffee Filter"
+    },
+    {
+      "id": "cm-039",
+      "category": "coffee_makers",
+      "asin": "B084ZT1J5R",
+      "name": "Hamilton Beach 12 Cup Drip Coffee Maker",
+      "brand": "Hamilton Beach",
+      "price": 69.48,
+      "rating": 4.1,
+      "rating_count": 40,
+      "attributes": {
+        "capacity_cups": 12,
+        "programmable": true,
+        "thermal_carafe": true,
+        "brew_strength_control": false
+      },
+      "source_title": "Hamilton Beach (48465) Coffee Maker with 12 Cup Capacity & Internal Storage Coffee Pot, Brewstation, Black & Stainless & Hamilton Beach Permanent Gold Tone Filter, (80675R/80675)"
+    },
+    {
+      "id": "cm-040",
+      "category": "coffee_makers",
+      "asin": "B0BZVQYBF1",
+      "name": "Hamilton Beach Programmable Thermal Coffee Maker",
+      "brand": "Hamilton Beach",
+      "price": 69.99,
+      "rating": 4.2,
+      "rating_count": 1413,
+      "attributes": {
+        "capacity_cups": 10,
+        "programmable": true,
+        "thermal_carafe": true,
+        "brew_strength_control": true
+      },
+      "source_title": "Hamilton Beach Programmable Coffee Maker with 10 Cup Thermal Carafe, 3 Brewing Options, Auto Shutoff & Pause and Pour, Stainless Steel (46899R)"
+    },
+    {
+      "id": "cm-041",
+      "category": "coffee_makers",
+      "asin": "B00GPA4XY8",
+      "name": "Capresso 424.01 12-Cup Drip Coffeemaker",
+      "brand": "Capresso",
+      "price": 69.99,
+      "rating": 4.1,
+      "rating_count": 119,
+      "attributes": {
+        "capacity_cups": 12,
+        "programmable": true,
+        "thermal_carafe": false,
+        "brew_strength_control": false
+      },
+      "source_title": "Capresso 424.01 12-Cup Drip Coffeemaker Stainless, 13\" x 7.25\" x 10\""
+    },
+    {
+      "id": "cm-042",
+      "category": "coffee_makers",
+      "asin": "B07YP13B4Z",
+      "name": "Mr. Coffee 12 Cup Programmable Digital Coffee Maker",
+      "brand": "Maxam",
+      "price": 73.99,
+      "rating": 4.3,
+      "rating_count": 783,
+      "attributes": {
+        "capacity_cups": 12,
+        "programmable": true,
+        "thermal_carafe": true,
+        "brew_strength_control": false
+      },
+      "source_title": "Mr. Coffee 31160393 Easy Measure 12 Cup Programmable Digital Coffee Maker Machine with Built In Water Filtration and Measuring Scoop, Silver"
+    },
+    {
+      "id": "cm-043",
+      "category": "coffee_makers",
+      "asin": "B07X573QMF",
+      "name": "Capresso SG300 12 Cup Coffee Maker",
+      "brand": "Capresso",
+      "price": 79.99,
+      "rating": 3.8,
+      "rating_count": 215,
+      "attributes": {
+        "capacity_cups": 12,
+        "programmable": true,
+        "thermal_carafe": false,
+        "brew_strength_control": false
+      },
+      "source_title": "Capresso 434.05 12 Cup Coffee Maker SG300, Stainless Steel"
+    },
+    {
+      "id": "cm-044",
+      "category": "coffee_makers",
+      "asin": "B08C95J3NZ",
+      "name": "Cuisinart DCC-1400 Brew Central 10-Cup",
+      "brand": "Amazon Renewed",
+      "price": 79.99,
+      "rating": 4.0,
+      "rating_count": 55,
+      "attributes": {
+        "capacity_cups": 10,
+        "programmable": false,
+        "thermal_carafe": true,
+        "brew_strength_control": false
+      },
+      "source_title": "Cuisinart DCC-1400 Brew Central 10-Cup Thermal Coffee Maker, Silver (Renewed)"
+    },
+    {
+      "id": "cm-045",
+      "category": "coffee_makers",
+      "asin": "B001111JQ6",
+      "name": "Cuisinart DCC-1400 Brew Central 10-Cup Thermal",
+      "brand": "Cuisinart",
+      "price": 80.25,
+      "rating": 4.3,
+      "rating_count": 262,
+      "attributes": {
+        "capacity_cups": 10,
+        "programmable": true,
+        "thermal_carafe": true,
+        "brew_strength_control": true
+      },
+      "source_title": "Cuisinart DCC-1400 Brew Central 10-Cup Thermal Coffee Maker, Silver"
+    },
+    {
+      "id": "cm-046",
+      "category": "coffee_makers",
+      "asin": "B0047Y0UQO",
+      "name": "Mr. Coffee 12 Cup Programmable Thermal Carafe",
+      "brand": "Mr. Coffee",
+      "price": 82.0,
+      "rating": 4.1,
+      "rating_count": 7299,
+      "attributes": {
+        "capacity_cups": 12,
+        "programmable": true,
+        "thermal_carafe": true,
+        "brew_strength_control": true
+      },
+      "source_title": "Mr. Coffee 12 Cup Programmable Coffee Maker with Thermal Carafe Option, Chrome"
+    },
+    {
+      "id": "cm-047",
+      "category": "coffee_makers",
+      "asin": "B089DMBNGM",
+      "name": "Calphalon 14-Cup Programmable Coffee Maker",
+      "brand": "Calphalon",
+      "price": 88.36,
+      "rating": 4.1,
+      "rating_count": 1613,
+      "attributes": {
+        "capacity_cups": 14,
+        "programmable": true,
+        "thermal_carafe": false,
+        "brew_strength_control": true
+      },
+      "source_title": "Calphalon Coffee Maker, Programmable Coffee Machine with Glass Carafe, 14 Cups, Stainless Steel"
+    },
+    {
+      "id": "cm-048",
+      "category": "coffee_makers",
+      "asin": "B0BYY3S99Y",
+      "name": "Hamilton Beach 12 Cup Programmable Thermal Drip",
+      "brand": "Hamilton Beach",
+      "price": 89.85,
+      "rating": 4.0,
+      "rating_count": 1523,
+      "attributes": {
+        "capacity_cups": 12,
+        "programmable": true,
+        "thermal_carafe": true,
+        "brew_strength_control": true
+      },
+      "source_title": "Hamilton Beach 12 Cup Programmable Front-Fill Drip Coffee Maker with Thermal Carafe, Auto Shutoff, 3 Brew Options, Black and Stainless Steel (46391)"
+    },
+    {
+      "id": "cm-049",
+      "category": "coffee_makers",
+      "asin": "B0000C9BPT",
+      "name": "Zojirushi EC-TB40 Coffee Maker",
+      "brand": "Zojirushi",
+      "price": 90.09,
+      "rating": 4.0,
+      "rating_count": 418,
+      "attributes": {
+        "capacity_cups": 4,
+        "programmable": false,
+        "thermal_carafe": false,
+        "brew_strength_control": false
+      },
+      "source_title": "ZOJIRUSHI Coffee Cup - Cup Coffee Maker Communication About 1-4 Herb Brown] Ec-tb40-td"
+    },
+    {
+      "id": "cm-050",
+      "category": "coffee_makers",
+      "asin": "B001ON6ONE",
+      "name": "Braun KF520 CafeHouse Coffee Maker",
+      "brand": "Braun",
+      "price": 99.95,
+      "rating": 4.0,
+      "rating_count": 58,
+      "attributes": {
+        "capacity_cups": 5,
+        "programmable": false,
+        "thermal_carafe": false,
+        "brew_strength_control": false
+      },
+      "source_title": "Braun KF520 / 1 CafeHouse coffee maker white"
+    },
+    {
+      "id": "cm-051",
+      "category": "coffee_makers",
+      "asin": "B0BSWWPR5L",
+      "name": "Ninja DCM201CP Programmable XL 14-Cup Coffee Maker",
+      "brand": "Ninja",
+      "price": 99.99,
+      "rating": 4.6,
+      "rating_count": 21240,
+      "attributes": {
+        "capacity_cups": 14,
+        "programmable": true,
+        "thermal_carafe": false,
+        "brew_strength_control": true
+      },
+      "source_title": "Ninja DCM201CP Programmable XL 14-Cup Coffee Maker PRO with Permanent Filter, 2 Brew Styles Classic & Rich, Delay Brew, Freshness Timer & Keep Warm, Dishwasher Safe, Copper"
+    },
+    {
+      "id": "cm-052",
+      "category": "coffee_makers",
+      "asin": "B09QF2RFJC",
+      "name": "Melitta Aroma Tocco Thermal Drip",
+      "brand": "Melitta",
+      "price": 99.99,
+      "rating": 3.8,
+      "rating_count": 59,
+      "attributes": {
+        "capacity_cups": 8,
+        "programmable": true,
+        "thermal_carafe": true,
+        "brew_strength_control": true
+      },
+      "source_title": "Melitta Aroma Tocco Thermal Drip| Programmable Coffee Machine | 8 Cup Coffee Maker with Thermal Carafe | Glass Touch Control Panel"
+    },
+    {
+      "id": "cm-053",
+      "category": "coffee_makers",
+      "asin": "B095LDQV74",
+      "name": "BUNN Speed Brew Select 10 Cup",
+      "brand": "BUNN",
+      "price": 116.78,
+      "rating": 4.1,
+      "rating_count": 33,
+      "attributes": {
+        "capacity_cups": 10,
+        "programmable": false,
+        "thermal_carafe": false,
+        "brew_strength_control": false
+      },
+      "source_title": "SBS Speed Brew Select 10 Cup Coffee Maker"
+    },
+    {
+      "id": "cm-054",
+      "category": "coffee_makers",
+      "asin": "B01C7TDIRS",
+      "name": "Cuisinart Grind & Brew Thermal 10-Cup",
+      "brand": "Amazon Renewed",
+      "price": 117.99,
+      "rating": 3.9,
+      "rating_count": 111,
+      "attributes": {
+        "capacity_cups": 10,
+        "programmable": true,
+        "thermal_carafe": true,
+        "brew_strength_control": false
+      },
+      "source_title": "Cuisinart Grind & Brew Thermal 10-Cup Automatic Coffee Maker (Renewed)"
+    },
+    {
+      "id": "cm-055",
+      "category": "coffee_makers",
+      "asin": "B0BN1CL9FF",
+      "name": "KOOFFEE Essence-T 8 Cup Drip Coffee Maker",
+      "brand": "KOOFFEE",
+      "price": 119.99,
+      "rating": 3.9,
+      "rating_count": 41,
+      "attributes": {
+        "capacity_cups": 8,
+        "programmable": false,
+        "thermal_carafe": true,
+        "brew_strength_control": false
+      },
+      "source_title": "KOOFFEE Coffee Maker, One-button Brew, Essense-T 8 Cups 1.3L Coffee Machine, 1500 Watt, Optional Pre-infusion Bloom Mode, Drip Coffee Maker with Thermal Double-wall Carafe"
+    },
+    {
+      "id": "cm-056",
+      "category": "coffee_makers",
+      "asin": "B08QYN4TQN",
+      "name": "Galanz 2-in-1 Grind and Brew Coffee Maker",
+      "brand": "Galanz",
+      "price": 122.3,
+      "rating": 3.2,
+      "rating_count": 72,
+      "attributes": {
+        "capacity_cups": 12,
+        "programmable": false,
+        "thermal_carafe": false,
+        "brew_strength_control": true
+      },
+      "source_title": "Galanz 2-in-1 Grind and Brew Coffee Maker with Adjustable Grind Size, Digital LED Touch Screen, Removable Coffee Filter Basket, Clean Indicator Light, 1000W, 12-Cup, Stainless Steel"
+    },
+    {
+      "id": "cm-057",
+      "category": "coffee_makers",
+      "asin": "B0004JML6S",
+      "name": "KRUPS FME414 Programmable Coffee Maker",
+      "brand": "KRUPS",
+      "price": 126.18,
+      "rating": 3.3,
+      "rating_count": 100,
+      "attributes": {
+        "capacity_cups": 12,
+        "programmable": true,
+        "thermal_carafe": true,
+        "brew_strength_control": true
+      },
+      "source_title": "KRUPS FME414 Programmable Coffee Maker with Glass Carafe and LED Control panel, 12-Cup, Black and Stainless Steel"
+    },
+    {
+      "id": "cm-058",
+      "category": "coffee_makers",
+      "asin": "B01M4RBYQC",
+      "name": "KitchenAid KCMB1204BOB 12-Cup Coffee Maker",
+      "brand": "KitchenAid",
+      "price": 129.87,
+      "rating": 4.2,
+      "rating_count": 776,
+      "attributes": {
+        "capacity_cups": 12,
+        "programmable": true,
+        "thermal_carafe": true,
+        "brew_strength_control": true
+      },
+      "source_title": "KitchenAid KCMB1204BOB 12-Cup Coffee Maker with One Touch Brewing with Black Thermal Sleeve - Onyx Black"
+    },
+    {
+      "id": "cm-059",
+      "category": "coffee_makers",
+      "asin": "B07W735HML",
+      "name": "Ninja 12-Cup Programmable Coffee Maker",
+      "brand": "Ninja",
+      "price": 134.63,
+      "rating": 4.4,
+      "rating_count": 4487,
+      "attributes": {
+        "capacity_cups": 12,
+        "programmable": true,
+        "thermal_carafe": false,
+        "brew_strength_control": true
+      },
+      "source_title": "Ninja 12-Cup Programmable Coffee Maker with Classic and Rich Brews, 60 oz. Water Reservoir, and Thermal Flavor Extraction (CE201), Black/Stainless Steel"
+    },
+    {
+      "id": "cm-060",
+      "category": "coffee_makers",
+      "asin": "B0BV6PBLJ3",
+      "name": "Zojirushi EC-ESC120 Coffee Maker Dome Brew",
+      "brand": "Zojirushi",
+      "price": 134.99,
+      "rating": 4.6,
+      "rating_count": 24,
+      "attributes": {
+        "capacity_cups": 12,
+        "programmable": true,
+        "thermal_carafe": false,
+        "brew_strength_control": true
+      },
+      "source_title": "Zojirushi EC-ESC120 Coffee Maker Dome Brew Programmable, StainlessSteel and Black"
+    },
+    {
+      "id": "cm-061",
+      "category": "coffee_makers",
+      "asin": "B01N05O5GW",
+      "name": "BUNN Heat N Brew Programmable Coffee Maker",
+      "brand": "BUNN",
+      "price": 139.98,
+      "rating": 4.3,
+      "rating_count": 2880,
+      "attributes": {
+        "capacity_cups": 10,
+        "programmable": true,
+        "thermal_carafe": false,
+        "brew_strength_control": false
+      },
+      "source_title": "BUNN Heat N Brew Programmable Coffee Maker, 10 cup, Stainless Steel"
+    },
+    {
+      "id": "cm-062",
+      "category": "coffee_makers",
+      "asin": "B0BLLFLZWS",
+      "name": "BUNN CSB2B Speed Brew Elite 10-Cup",
+      "brand": "BUNN",
+      "price": 139.99,
+      "rating": 4.6,
+      "rating_count": 1715,
+      "attributes": {
+        "capacity_cups": 10,
+        "programmable": false,
+        "thermal_carafe": false,
+        "brew_strength_control": false
+      },
+      "source_title": "BUNN CSB2B Speed Brew Elite 10-Cup Coffee Maker, Black/SST"
+    },
+    {
+      "id": "cm-063",
+      "category": "coffee_makers",
+      "asin": "B0BH6NHR8V",
+      "name": "Ninja CM401 Specialty 10-Cup Coffee Maker",
+      "brand": "Ninja",
+      "price": 152.0,
+      "rating": 4.7,
+      "rating_count": 16527,
+      "attributes": {
+        "capacity_cups": 10,
+        "programmable": true,
+        "thermal_carafe": false,
+        "brew_strength_control": true
+      },
+      "source_title": "Ninja CM401 Specialty 10-Cup Coffee Maker, with 4 Brew Styles for Ground Coffee, Built-in Water Reservoir, Fold-Away Frother & Glass Carafe, Black, 50 Oz."
+    },
+    {
+      "id": "cm-064",
+      "category": "coffee_makers",
+      "asin": "B07N6VRNGR",
+      "name": "BUNN CSB3TD Speed Brew High Altitude Coffee Maker",
+      "brand": "BUNN",
+      "price": 159.99,
+      "rating": 4.5,
+      "rating_count": 6540,
+      "attributes": {
+        "capacity_cups": 10,
+        "programmable": false,
+        "thermal_carafe": true,
+        "brew_strength_control": false
+      },
+      "source_title": "BUNN CSB3TD Speed Brew High Altitude Coffee Maker, 10 Cup, Stainless Steel"
+    },
+    {
+      "id": "cm-065",
+      "category": "coffee_makers",
+      "asin": "B000MIP2OY",
+      "name": "KRUPS FMF5 Programmable Coffee Maker",
+      "brand": "KRUPS",
+      "price": 168.0,
+      "rating": 3.1,
+      "rating_count": 244,
+      "attributes": {
+        "capacity_cups": 10,
+        "programmable": true,
+        "thermal_carafe": true,
+        "brew_strength_control": true
+      },
+      "source_title": "KRUPS FMF5 Programmable Coffee Maker with Double Wall Thermal Carafe and LED control panel, 10-Cup, Black"
+    },
+    {
+      "id": "cm-066",
+      "category": "coffee_makers",
+      "asin": "B000CDHS7I",
+      "name": "KRUPS FMF5 Programmable Coffee Maker",
+      "brand": "KRUPS",
+      "price": 177.51,
+      "rating": 3.1,
+      "rating_count": 246,
+      "attributes": {
+        "capacity_cups": 10,
+        "programmable": true,
+        "thermal_carafe": true,
+        "brew_strength_control": true
+      },
+      "source_title": "KRUPS FMF5 Programmable Coffee Maker with Double Wall Thermal Carafe and LED control panel, 10-Cup, Black"
+    },
+    {
+      "id": "cm-067",
+      "category": "coffee_makers",
+      "asin": "B09J1SJZ9B",
+      "name": "Café Specialty Drip Coffee Maker",
+      "brand": "Amazon Renewed",
+      "price": 183.47,
+      "rating": 3.8,
+      "rating_count": 24,
+      "attributes": {
+        "capacity_cups": 10,
+        "programmable": true,
+        "thermal_carafe": true,
+        "brew_strength_control": true
+      },
+      "source_title": "Café Specialty Drip Coffee Maker | 10-Cup Insulated Thermal Carafe | WiFi Enabled Voice-to-Brew Technology | Smart Home Kitchen Essientials | SCA Certified, Barista-Quality Brew | Matte White (Renewed)"
+    },
+    {
+      "id": "cm-068",
+      "category": "coffee_makers",
+      "asin": "B099GL1LQS",
+      "name": "ZWILLING Enfinigy Glass Drip Coffee Maker",
+      "brand": "ZWILLING",
+      "price": 186.95,
+      "rating": 3.8,
+      "rating_count": 57,
+      "attributes": {
+        "capacity_cups": 12,
+        "programmable": true,
+        "thermal_carafe": false,
+        "brew_strength_control": false
+      },
+      "source_title": "ZWILLING Enfinigy Glass Drip Coffee Maker 12 Cup, Awarded the SCA Golden Cup Standard, Black"
+    },
+    {
+      "id": "cm-069",
+      "category": "coffee_makers",
+      "asin": "B07H9G93WK",
+      "name": "OXO Brew 8 Cup Coffee Maker",
+      "brand": "OXO",
+      "price": 188.99,
+      "rating": 4.2,
+      "rating_count": 3401,
+      "attributes": {
+        "capacity_cups": 8,
+        "programmable": false,
+        "thermal_carafe": true,
+        "brew_strength_control": false
+      },
+      "source_title": "OXO Brew 8 Cup Coffee Maker, Stainless Steel"
+    },
+    {
+      "id": "cm-070",
+      "category": "coffee_makers",
+      "asin": "B0000W11CO",
+      "name": "Cuisinart Brew Cent 12 Cup",
+      "brand": "Cuisinart",
+      "price": 191.99,
+      "rating": 4.6,
+      "rating_count": 1402,
+      "attributes": {
+        "capacity_cups": 12,
+        "programmable": true,
+        "thermal_carafe": false,
+        "brew_strength_control": false
+      },
+      "source_title": "Brew Cent 12 Cup Coffee Maker"
+    },
+    {
+      "id": "cm-071",
+      "category": "coffee_makers",
+      "asin": "B08CS79QM2",
+      "name": "Bonavita Connoisseur 8-Cup One-Touch Coffee Maker",
+      "brand": "Bonavita",
+      "price": 197.54,
+      "rating": 4.4,
+      "rating_count": 30,
+      "attributes": {
+        "capacity_cups": 8,
+        "programmable": false,
+        "thermal_carafe": true,
+        "brew_strength_control": false
+      },
+      "source_title": "Bonavita Connoisseur 8-Cup One-Touch Coffee Maker Featuring Hanging Filter Basket and Thermal Carafe, BV1901TS & GOLDTONE Reusable 8-12 Cup Basket Coffee Filter fits Mr. Coffee Makers and Brewers"
+    },
+    {
+      "id": "cm-072",
+      "category": "coffee_makers",
+      "asin": "B011EBK3QE",
+      "name": "KRUPS Savoy EC311050 Coffee Maker",
+      "brand": "KRUPS",
+      "price": 199.98,
+      "rating": 3.8,
+      "rating_count": 697,
+      "attributes": {
+        "capacity_cups": 12,
+        "programmable": true,
+        "thermal_carafe": false,
+        "brew_strength_control": false
+      },
+      "source_title": "KRUPS Coffee Maker, Coffee Machine, LED Control Panel, 12 Cups, Black"
+    },
+    {
+      "id": "cm-073",
+      "category": "coffee_makers",
+      "asin": "B00BH9WKOC",
+      "name": "Cuisinart DCC-1400 Brew Central 10-Cup",
+      "brand": "Cuisinart",
+      "price": 199.99,
+      "rating": 4.3,
+      "rating_count": 263,
+      "attributes": {
+        "capacity_cups": 10,
+        "programmable": true,
+        "thermal_carafe": true,
+        "brew_strength_control": true
+      },
+      "source_title": "Cuisinart DCC-1400 Brew Central 10-Cup Thermal Coffee Maker, Silver"
+    },
+    {
+      "id": "cm-074",
+      "category": "coffee_makers",
+      "asin": "B0935F5FXD",
+      "name": "SYBO Commercial 12 Cup Drip Coffee Maker",
+      "brand": "SYBO",
+      "price": 224.0,
+      "rating": 4.4,
+      "rating_count": 330,
+      "attributes": {
+        "capacity_cups": 12,
+        "programmable": false,
+        "thermal_carafe": true,
+        "brew_strength_control": false
+      },
+      "source_title": "SYBO Commercial Coffee Makers 12 Cup, Drip Coffee Maker Brewer with 74Oz thermal carafe, Coffee Pot Stainless Steel Cafetera SF-CB-1AA"
+    },
+    {
+      "id": "cm-075",
+      "category": "coffee_makers",
+      "asin": "B078213MG4",
+      "name": "OXO Brew 9 Cup Stainless Steel Coffee Maker",
+      "brand": "OXO",
+      "price": 224.99,
+      "rating": 4.2,
+      "rating_count": 3126,
+      "attributes": {
+        "capacity_cups": 9,
+        "programmable": true,
+        "thermal_carafe": true,
+        "brew_strength_control": false
+      },
+      "source_title": "OXO Brew 9 Cup Stainless Steel Coffee Maker,Silver, Black"
+    },
+    {
+      "id": "cm-076",
+      "category": "coffee_makers",
+      "asin": "B07F9DY3NJ",
+      "name": "SMEG 1950's Retro Style Drip Coffee Maker",
+      "brand": "Smeg",
+      "price": 229.95,
+      "rating": 3.7,
+      "rating_count": 137,
+      "attributes": {
+        "capacity_cups": 10,
+        "programmable": true,
+        "thermal_carafe": false,
+        "brew_strength_control": true
+      },
+      "source_title": "SMEG 1950's Retro Style Coffee Maker Machine (Cream)"
+    },
+    {
+      "id": "cm-077",
+      "category": "coffee_makers",
+      "asin": "B09H7ZZC1Y",
+      "name": "Café Specialty Drip Coffee Maker",
+      "brand": "Cafe",
+      "price": 244.99,
+      "rating": 4.2,
+      "rating_count": 880,
+      "attributes": {
+        "capacity_cups": 10,
+        "programmable": true,
+        "thermal_carafe": true,
+        "brew_strength_control": true
+      },
+      "source_title": "Café Specialty Drip Coffee Maker | 10-Cup Insulated Thermal Carafe | WiFi Enabled Voice-to-Brew Technology | Smart Home Kitchen Essentials | SCA Certified, Barista-Quality Brew | Stainless Steel"
+    },
+    {
+      "id": "cm-078",
+      "category": "coffee_makers",
+      "asin": "B07Z4JRFF9",
+      "name": "Technivorm Moccamaster 10-Cup Coffee Brewer",
+      "brand": "Technivorm Moccamaster",
+      "price": 339.0,
+      "rating": 4.3,
+      "rating_count": 45,
+      "attributes": {
+        "capacity_cups": 10,
+        "programmable": false,
+        "thermal_carafe": true,
+        "brew_strength_control": false
+      },
+      "source_title": "Technivorm Moccamaster 10-Cup 40oz Coffee Brewer Handmade Coffee Maker - KBT741 - Stone Gray"
+    },
+    {
+      "id": "cm-079",
+      "category": "coffee_makers",
+      "asin": "B07Z471GHT",
+      "name": "Technivorm Moccamaster 10-Cup Coffee Brewer KBT741",
+      "brand": "Technivorm Moccamaster",
+      "price": 339.0,
+      "rating": 4.3,
+      "rating_count": 89,
+      "attributes": {
+        "capacity_cups": 10,
+        "programmable": false,
+        "thermal_carafe": true,
+        "brew_strength_control": false
+      },
+      "source_title": "Technivorm Moccamaster 10-Cup 40oz Coffee Brewer Handmade Coffee Maker - KBT741 - Polished Silver"
+    },
+    {
+      "id": "cm-080",
+      "category": "coffee_makers",
+      "asin": "B093DZD54Q",
+      "name": "Technivorm Moccamaster KBGV Select",
+      "brand": "Technivorm Moccamaster",
+      "price": 359.0,
+      "rating": 4.7,
+      "rating_count": 199,
+      "attributes": {
+        "capacity_cups": 10,
+        "programmable": false,
+        "thermal_carafe": false,
+        "brew_strength_control": false
+      },
+      "source_title": "Moccamaster 53949 KBGV Select Coffee Maker, Stone Grey, 40 ounce, 10-Cup, 1.25L"
+    }
+  ]
+}
