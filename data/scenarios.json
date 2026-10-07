@@ -26,60 +26,60 @@
       "rating": 0.2
     },
     "products": [
-      "hp-004",
-      "hp-021",
-      "hp-032",
-      "hp-051",
-      "hp-068",
+      "hp-046",
+      "hp-066",
+      "hp-067",
       "hp-072",
+      "hp-074",
       "hp-077",
-      "hp-078"
+      "hp-078",
+      "hp-081"
     ],
     "ranking": [
       {
-        "id": "hp-051",
-        "utility": 0.8677,
+        "id": "hp-067",
+        "utility": 0.7353,
         "feasible": true,
         "rank": 1
       },
       {
-        "id": "hp-032",
-        "utility": 0.8134,
+        "id": "hp-078",
+        "utility": 0.6653,
         "feasible": true,
         "rank": 2
       },
       {
-        "id": "hp-078",
-        "utility": 0.675,
+        "id": "hp-074",
+        "utility": 0.6213,
         "feasible": true,
         "rank": 3
       },
       {
-        "id": "hp-068",
-        "utility": 0.6234,
+        "id": "hp-077",
+        "utility": 0.5734,
         "feasible": true,
         "rank": 4
       },
       {
-        "id": "hp-077",
-        "utility": 0.4083,
+        "id": "hp-072",
+        "utility": 0.4713,
         "feasible": true,
         "rank": 5
       },
       {
-        "id": "hp-021",
-        "utility": 0.375,
+        "id": "hp-081",
+        "utility": 0.4442,
         "feasible": true,
         "rank": 6
       },
       {
-        "id": "hp-072",
-        "utility": 0.1733,
-        "feasible": true,
+        "id": "hp-066",
+        "utility": null,
+        "feasible": false,
         "rank": 7
       },
       {
-        "id": "hp-004",
+        "id": "hp-046",
         "utility": null,
         "feasible": false,
         "rank": 8
@@ -120,31 +120,31 @@
     "ranking": [
       {
         "id": "hp-001",
-        "utility": 0.9993,
+        "utility": 0.6962,
         "feasible": true,
         "rank": 1
       },
       {
         "id": "hp-053",
-        "utility": 0.8002,
+        "utility": 0.6345,
         "feasible": true,
         "rank": 2
       },
       {
         "id": "hp-055",
-        "utility": 0.7778,
+        "utility": 0.535,
         "feasible": true,
         "rank": 3
       },
       {
         "id": "hp-005",
-        "utility": 0.6127,
+        "utility": 0.4794,
         "feasible": true,
         "rank": 4
       },
       {
         "id": "hp-038",
-        "utility": 0.381,
+        "utility": 0.266,
         "feasible": true,
         "rank": 5
       },
@@ -196,37 +196,37 @@
     "ranking": [
       {
         "id": "hp-004",
-        "utility": 0.9231,
+        "utility": 0.6801,
         "feasible": true,
         "rank": 1
       },
       {
         "id": "hp-032",
-        "utility": 0.7176,
+        "utility": 0.6002,
         "feasible": true,
         "rank": 2
       },
       {
         "id": "hp-022",
-        "utility": 0.6722,
+        "utility": 0.5501,
         "feasible": true,
         "rank": 3
       },
       {
         "id": "hp-021",
-        "utility": 0.6338,
+        "utility": 0.5251,
         "feasible": true,
         "rank": 4
       },
       {
         "id": "hp-031",
-        "utility": 0.449,
+        "utility": 0.4255,
         "feasible": true,
         "rank": 5
       },
       {
         "id": "hp-056",
-        "utility": 0.0,
+        "utility": 0.1751,
         "feasible": true,
         "rank": 6
       },
@@ -266,60 +266,60 @@
       "price": 0.3
     },
     "products": [
-      "hp-016",
       "hp-036",
-      "hp-039",
       "hp-040",
-      "hp-044",
-      "hp-045",
+      "hp-043",
+      "hp-046",
+      "hp-057",
+      "hp-059",
       "hp-075",
-      "hp-077"
+      "hp-080"
     ],
     "ranking": [
       {
-        "id": "hp-016",
-        "utility": 0.8409,
+        "id": "hp-046",
+        "utility": 0.5431,
         "feasible": true,
         "rank": 1
       },
       {
-        "id": "hp-045",
-        "utility": 0.7903,
+        "id": "hp-059",
+        "utility": 0.4774,
         "feasible": true,
         "rank": 2
       },
       {
-        "id": "hp-040",
-        "utility": 0.6207,
+        "id": "hp-057",
+        "utility": 0.4522,
         "feasible": true,
         "rank": 3
       },
       {
-        "id": "hp-044",
-        "utility": 0.5575,
+        "id": "hp-040",
+        "utility": 0.4405,
         "feasible": true,
         "rank": 4
       },
       {
         "id": "hp-036",
-        "utility": 0.3482,
+        "utility": 0.3351,
         "feasible": true,
         "rank": 5
       },
       {
         "id": "hp-075",
-        "utility": 0.3,
+        "utility": 0.2046,
         "feasible": true,
         "rank": 6
       },
       {
-        "id": "hp-077",
+        "id": "hp-080",
         "utility": null,
         "feasible": false,
         "rank": 7
       },
       {
-        "id": "hp-039",
+        "id": "hp-043",
         "utility": null,
         "feasible": false,
         "rank": 8
@@ -360,43 +360,43 @@
     "ranking": [
       {
         "id": "hp-051",
-        "utility": 0.7719,
+        "utility": 0.7607,
         "feasible": true,
         "rank": 1
       },
       {
-        "id": "hp-042",
-        "utility": 0.6039,
+        "id": "hp-028",
+        "utility": 0.6589,
         "feasible": true,
         "rank": 2
       },
       {
-        "id": "hp-028",
-        "utility": 0.5814,
+        "id": "hp-086",
+        "utility": 0.601,
         "feasible": true,
         "rank": 3
       },
       {
-        "id": "hp-086",
-        "utility": 0.421,
+        "id": "hp-041",
+        "utility": 0.5944,
         "feasible": true,
         "rank": 4
       },
       {
-        "id": "hp-041",
-        "utility": 0.374,
+        "id": "hp-042",
+        "utility": 0.5748,
         "feasible": true,
         "rank": 5
       },
       {
-        "id": "hp-083",
-        "utility": 0.2377,
+        "id": "hp-006",
+        "utility": 0.4178,
         "feasible": true,
         "rank": 6
       },
       {
-        "id": "hp-006",
-        "utility": 0.2,
+        "id": "hp-083",
+        "utility": 0.3985,
         "feasible": true,
         "rank": 7
       },
@@ -447,31 +447,31 @@
     "ranking": [
       {
         "id": "hp-033",
-        "utility": 0.68,
+        "utility": 0.7957,
         "feasible": true,
         "rank": 1
       },
       {
-        "id": "hp-053",
-        "utility": 0.5401,
+        "id": "hp-041",
+        "utility": 0.617,
         "feasible": true,
         "rank": 2
       },
       {
-        "id": "hp-041",
-        "utility": 0.3991,
+        "id": "hp-076",
+        "utility": 0.6,
         "feasible": true,
         "rank": 3
       },
       {
-        "id": "hp-023",
-        "utility": 0.3537,
+        "id": "hp-053",
+        "utility": 0.526,
         "feasible": true,
         "rank": 4
       },
       {
-        "id": "hp-076",
-        "utility": 0.1945,
+        "id": "hp-023",
+        "utility": 0.486,
         "feasible": true,
         "rank": 5
       },
@@ -517,60 +517,60 @@
       "price": 0.3
     },
     "products": [
-      "hp-002",
-      "hp-026",
-      "hp-032",
-      "hp-041",
-      "hp-050",
+      "hp-005",
+      "hp-020",
+      "hp-039",
+      "hp-049",
       "hp-051",
-      "hp-067",
-      "hp-078"
+      "hp-058",
+      "hp-068",
+      "hp-072"
     ],
     "ranking": [
       {
         "id": "hp-051",
-        "utility": 0.96,
+        "utility": 0.8509,
         "feasible": true,
         "rank": 1
       },
       {
-        "id": "hp-067",
-        "utility": 0.8714,
+        "id": "hp-068",
+        "utility": 0.7556,
         "feasible": true,
         "rank": 2
       },
       {
-        "id": "hp-032",
-        "utility": 0.7,
+        "id": "hp-072",
+        "utility": 0.6378,
         "feasible": true,
         "rank": 3
       },
       {
-        "id": "hp-078",
-        "utility": 0.7,
+        "id": "hp-039",
+        "utility": 0.525,
         "feasible": true,
         "rank": 4
       },
       {
-        "id": "hp-050",
-        "utility": 0.2614,
+        "id": "hp-020",
+        "utility": 0.4339,
         "feasible": true,
         "rank": 5
       },
       {
-        "id": "hp-041",
-        "utility": null,
-        "feasible": false,
+        "id": "hp-049",
+        "utility": 0.421,
+        "feasible": true,
         "rank": 6
       },
       {
-        "id": "hp-026",
+        "id": "hp-005",
         "utility": null,
         "feasible": false,
         "rank": 7
       },
       {
-        "id": "hp-002",
+        "id": "hp-058",
         "utility": null,
         "feasible": false,
         "rank": 8
@@ -606,37 +606,37 @@
     "ranking": [
       {
         "id": "hp-033",
-        "utility": 0.9054,
+        "utility": 0.7763,
         "feasible": true,
         "rank": 1
       },
       {
         "id": "hp-047",
-        "utility": 0.7718,
+        "utility": 0.7145,
         "feasible": true,
         "rank": 2
       },
       {
         "id": "hp-081",
-        "utility": 0.4224,
+        "utility": 0.5399,
         "feasible": true,
         "rank": 3
       },
       {
-        "id": "hp-037",
-        "utility": 0.4,
+        "id": "hp-004",
+        "utility": 0.4979,
         "feasible": true,
         "rank": 4
       },
       {
-        "id": "hp-004",
-        "utility": 0.3636,
+        "id": "hp-037",
+        "utility": 0.3707,
         "feasible": true,
         "rank": 5
       },
       {
         "id": "hp-075",
-        "utility": 0.1944,
+        "utility": 0.2174,
         "feasible": true,
         "rank": 6
       },
@@ -677,59 +677,59 @@
     },
     "products": [
       "hp-001",
-      "hp-005",
-      "hp-007",
-      "hp-014",
-      "hp-021",
-      "hp-037",
-      "hp-044",
-      "hp-088"
+      "hp-003",
+      "hp-006",
+      "hp-015",
+      "hp-030",
+      "hp-031",
+      "hp-042",
+      "hp-053"
     ],
     "ranking": [
       {
-        "id": "hp-007",
-        "utility": 0.8178,
+        "id": "hp-001",
+        "utility": 0.4766,
         "feasible": true,
         "rank": 1
       },
       {
-        "id": "hp-001",
-        "utility": 0.7127,
+        "id": "hp-003",
+        "utility": 0.4026,
         "feasible": true,
         "rank": 2
       },
       {
-        "id": "hp-014",
-        "utility": 0.6321,
+        "id": "hp-006",
+        "utility": 0.3942,
         "feasible": true,
         "rank": 3
       },
       {
-        "id": "hp-005",
-        "utility": 0.3265,
+        "id": "hp-042",
+        "utility": 0.3767,
         "feasible": true,
         "rank": 4
       },
       {
-        "id": "hp-037",
-        "utility": 0.32,
+        "id": "hp-053",
+        "utility": 0.2748,
         "feasible": true,
         "rank": 5
       },
       {
-        "id": "hp-044",
-        "utility": null,
-        "feasible": false,
+        "id": "hp-031",
+        "utility": 0.2596,
+        "feasible": true,
         "rank": 6
       },
       {
-        "id": "hp-021",
+        "id": "hp-015",
         "utility": null,
         "feasible": false,
         "rank": 7
       },
       {
-        "id": "hp-088",
+        "id": "hp-030",
         "utility": null,
         "feasible": false,
         "rank": 8
@@ -770,37 +770,37 @@
     "ranking": [
       {
         "id": "hp-067",
-        "utility": 0.7727,
+        "utility": 0.6133,
         "feasible": true,
         "rank": 1
       },
       {
-        "id": "hp-018",
-        "utility": 0.5667,
+        "id": "hp-085",
+        "utility": 0.557,
         "feasible": true,
         "rank": 2
       },
       {
-        "id": "hp-029",
-        "utility": 0.5495,
+        "id": "hp-018",
+        "utility": 0.4621,
         "feasible": true,
         "rank": 3
       },
       {
-        "id": "hp-039",
-        "utility": 0.4,
+        "id": "hp-029",
+        "utility": 0.3377,
         "feasible": true,
         "rank": 4
       },
       {
-        "id": "hp-085",
-        "utility": 0.3862,
+        "id": "hp-039",
+        "utility": 0.2964,
         "feasible": true,
         "rank": 5
       },
       {
         "id": "hp-052",
-        "utility": 0.1557,
+        "utility": 0.2611,
         "feasible": true,
         "rank": 6
       },
@@ -840,60 +840,60 @@
       "storage_gb": 0.3
     },
     "products": [
-      "lt-004",
-      "lt-023",
-      "lt-025",
-      "lt-030",
-      "lt-036",
-      "lt-042",
-      "lt-074",
-      "lt-075"
+      "lt-008",
+      "lt-012",
+      "lt-018",
+      "lt-029",
+      "lt-034",
+      "lt-038",
+      "lt-040",
+      "lt-072"
     ],
     "ranking": [
       {
-        "id": "lt-025",
-        "utility": 0.6763,
+        "id": "lt-012",
+        "utility": 0.5625,
         "feasible": true,
         "rank": 1
       },
       {
-        "id": "lt-023",
-        "utility": 0.5909,
+        "id": "lt-040",
+        "utility": 0.4938,
         "feasible": true,
         "rank": 2
       },
       {
-        "id": "lt-030",
-        "utility": 0.5871,
+        "id": "lt-034",
+        "utility": 0.4711,
         "feasible": true,
         "rank": 3
       },
       {
-        "id": "lt-036",
-        "utility": 0.5125,
+        "id": "lt-029",
+        "utility": 0.4435,
         "feasible": true,
         "rank": 4
       },
       {
-        "id": "lt-042",
-        "utility": 0.3,
+        "id": "lt-038",
+        "utility": 0.4335,
         "feasible": true,
         "rank": 5
       },
       {
-        "id": "lt-074",
+        "id": "lt-018",
         "utility": null,
         "feasible": false,
         "rank": 6
       },
       {
-        "id": "lt-004",
+        "id": "lt-008",
         "utility": null,
         "feasible": false,
         "rank": 7
       },
       {
-        "id": "lt-075",
+        "id": "lt-072",
         "utility": null,
         "feasible": false,
         "rank": 8
@@ -934,31 +934,31 @@
     "ranking": [
       {
         "id": "lt-065",
-        "utility": 1.0,
+        "utility": 0.866,
         "feasible": true,
         "rank": 1
       },
       {
         "id": "lt-046",
-        "utility": 0.503,
+        "utility": 0.6819,
         "feasible": true,
         "rank": 2
       },
       {
         "id": "lt-063",
-        "utility": 0.3333,
+        "utility": 0.6527,
         "feasible": true,
         "rank": 3
       },
       {
         "id": "lt-044",
-        "utility": 0.1333,
+        "utility": 0.5479,
         "feasible": true,
         "rank": 4
       },
       {
         "id": "lt-066",
-        "utility": 0.0788,
+        "utility": 0.5092,
         "feasible": true,
         "rank": 5
       },
@@ -1000,59 +1000,59 @@
     },
     "products": [
       "lt-004",
-      "lt-005",
-      "lt-006",
-      "lt-007",
-      "lt-020",
-      "lt-031",
-      "lt-046",
-      "lt-069"
+      "lt-010",
+      "lt-025",
+      "lt-032",
+      "lt-033",
+      "lt-042",
+      "lt-045",
+      "lt-063"
     ],
     "ranking": [
       {
         "id": "lt-004",
-        "utility": 0.8,
+        "utility": 0.569,
         "feasible": true,
         "rank": 1
       },
       {
-        "id": "lt-020",
-        "utility": 0.7332,
+        "id": "lt-010",
+        "utility": 0.4216,
         "feasible": true,
         "rank": 2
       },
       {
-        "id": "lt-006",
-        "utility": 0.7225,
+        "id": "lt-032",
+        "utility": 0.4023,
         "feasible": true,
         "rank": 3
       },
       {
-        "id": "lt-007",
-        "utility": 0.6808,
+        "id": "lt-025",
+        "utility": 0.3994,
         "feasible": true,
         "rank": 4
       },
       {
-        "id": "lt-005",
-        "utility": 0.4979,
+        "id": "lt-033",
+        "utility": 0.2495,
         "feasible": true,
         "rank": 5
       },
       {
-        "id": "lt-031",
-        "utility": 0.47,
-        "feasible": true,
+        "id": "lt-045",
+        "utility": null,
+        "feasible": false,
         "rank": 6
       },
       {
-        "id": "lt-046",
+        "id": "lt-063",
         "utility": null,
         "feasible": false,
         "rank": 7
       },
       {
-        "id": "lt-069",
+        "id": "lt-042",
         "utility": null,
         "feasible": false,
         "rank": 8
@@ -1093,31 +1093,31 @@
     "ranking": [
       {
         "id": "lt-050",
-        "utility": 1.0,
+        "utility": 0.7,
         "feasible": true,
         "rank": 1
       },
       {
         "id": "lt-010",
-        "utility": 0.4007,
+        "utility": 0.5225,
         "feasible": true,
         "rank": 2
       },
       {
         "id": "lt-016",
-        "utility": 0.2884,
+        "utility": 0.4713,
         "feasible": true,
         "rank": 3
       },
       {
         "id": "lt-006",
-        "utility": 0.252,
+        "utility": 0.4575,
         "feasible": true,
         "rank": 4
       },
       {
         "id": "lt-027",
-        "utility": 0.15,
+        "utility": 0.4012,
         "feasible": true,
         "rank": 5
       },
@@ -1175,31 +1175,31 @@
     "ranking": [
       {
         "id": "lt-037",
-        "utility": 0.7717,
+        "utility": 0.6625,
         "feasible": true,
         "rank": 1
       },
       {
         "id": "lt-028",
-        "utility": 0.5773,
+        "utility": 0.5605,
         "feasible": true,
         "rank": 2
       },
       {
         "id": "lt-030",
-        "utility": 0.5663,
+        "utility": 0.5563,
         "feasible": true,
         "rank": 3
       },
       {
         "id": "lt-042",
-        "utility": 0.5,
+        "utility": 0.5347,
         "feasible": true,
         "rank": 4
       },
       {
         "id": "lt-024",
-        "utility": 0.3,
+        "utility": 0.1875,
         "feasible": true,
         "rank": 5
       },
@@ -1245,60 +1245,60 @@
       "weight_lb": 0.3
     },
     "products": [
-      "lt-001",
-      "lt-008",
-      "lt-018",
-      "lt-028",
+      "lt-004",
+      "lt-019",
+      "lt-033",
+      "lt-038",
       "lt-040",
-      "lt-042",
-      "lt-047",
-      "lt-052"
+      "lt-048",
+      "lt-050",
+      "lt-061"
     ],
     "ranking": [
       {
-        "id": "lt-047",
-        "utility": 0.8464,
+        "id": "lt-050",
+        "utility": 0.67,
         "feasible": true,
         "rank": 1
       },
       {
         "id": "lt-040",
-        "utility": 0.7714,
+        "utility": 0.593,
         "feasible": true,
         "rank": 2
       },
       {
-        "id": "lt-052",
-        "utility": 0.5964,
+        "id": "lt-038",
+        "utility": 0.5844,
         "feasible": true,
         "rank": 3
       },
       {
-        "id": "lt-028",
-        "utility": 0.55,
+        "id": "lt-033",
+        "utility": 0.5063,
         "feasible": true,
         "rank": 4
       },
       {
-        "id": "lt-042",
-        "utility": 0.15,
+        "id": "lt-048",
+        "utility": 0.3873,
         "feasible": true,
         "rank": 5
       },
       {
-        "id": "lt-001",
+        "id": "lt-004",
         "utility": null,
         "feasible": false,
         "rank": 6
       },
       {
-        "id": "lt-018",
+        "id": "lt-061",
         "utility": null,
         "feasible": false,
         "rank": 7
       },
       {
-        "id": "lt-008",
+        "id": "lt-019",
         "utility": null,
         "feasible": false,
         "rank": 8
@@ -1322,60 +1322,60 @@
       "storage_gb": 0.2
     },
     "products": [
-      "lt-003",
-      "lt-006",
-      "lt-007",
-      "lt-018",
-      "lt-019",
+      "lt-002",
+      "lt-012",
+      "lt-014",
+      "lt-017",
       "lt-020",
-      "lt-025",
-      "lt-044"
+      "lt-022",
+      "lt-023",
+      "lt-060"
     ],
     "ranking": [
       {
-        "id": "lt-007",
-        "utility": 0.6672,
+        "id": "lt-014",
+        "utility": 0.4747,
         "feasible": true,
         "rank": 1
       },
       {
-        "id": "lt-019",
-        "utility": 0.5792,
+        "id": "lt-002",
+        "utility": 0.3813,
         "feasible": true,
         "rank": 2
       },
       {
-        "id": "lt-006",
-        "utility": 0.5471,
+        "id": "lt-020",
+        "utility": 0.34,
         "feasible": true,
         "rank": 3
       },
       {
-        "id": "lt-018",
-        "utility": 0.5323,
+        "id": "lt-012",
+        "utility": 0.328,
         "feasible": true,
         "rank": 4
       },
       {
-        "id": "lt-025",
-        "utility": 0.4667,
+        "id": "lt-017",
+        "utility": 0.316,
         "feasible": true,
         "rank": 5
       },
       {
-        "id": "lt-020",
-        "utility": 0.4325,
+        "id": "lt-022",
+        "utility": 0.3013,
         "feasible": true,
         "rank": 6
       },
       {
-        "id": "lt-003",
-        "utility": 0.4,
+        "id": "lt-023",
+        "utility": 0.3013,
         "feasible": true,
         "rank": 7
       },
       {
-        "id": "lt-044",
+        "id": "lt-060",
         "utility": null,
         "feasible": false,
         "rank": 8
@@ -1404,60 +1404,60 @@
       "weight_lb": 0.2
     },
     "products": [
-      "lt-004",
-      "lt-012",
-      "lt-025",
-      "lt-038",
+      "lt-018",
       "lt-039",
       "lt-040",
-      "lt-044",
-      "lt-046"
+      "lt-046",
+      "lt-047",
+      "lt-051",
+      "lt-053",
+      "lt-055"
     ],
     "ranking": [
       {
-        "id": "lt-038",
-        "utility": 0.8952,
+        "id": "lt-039",
+        "utility": 0.6433,
         "feasible": true,
         "rank": 1
       },
       {
-        "id": "lt-039",
-        "utility": 0.4746,
+        "id": "lt-040",
+        "utility": 0.5736,
         "feasible": true,
         "rank": 2
       },
       {
-        "id": "lt-044",
-        "utility": 0.3511,
+        "id": "lt-047",
+        "utility": 0.4931,
         "feasible": true,
         "rank": 3
       },
       {
-        "id": "lt-040",
-        "utility": 0.3461,
+        "id": "lt-046",
+        "utility": 0.4438,
         "feasible": true,
         "rank": 4
       },
       {
-        "id": "lt-046",
-        "utility": 0.0,
+        "id": "lt-053",
+        "utility": 0.4204,
         "feasible": true,
         "rank": 5
       },
       {
-        "id": "lt-025",
-        "utility": null,
-        "feasible": false,
+        "id": "lt-051",
+        "utility": 0.4102,
+        "feasible": true,
         "rank": 6
       },
       {
-        "id": "lt-004",
+        "id": "lt-018",
         "utility": null,
         "feasible": false,
         "rank": 7
       },
       {
-        "id": "lt-012",
+        "id": "lt-055",
         "utility": null,
         "feasible": false,
         "rank": 8
@@ -1486,60 +1486,60 @@
       "price": 0.3
     },
     "products": [
-      "lt-007",
-      "lt-012",
-      "lt-018",
-      "lt-026",
-      "lt-028",
-      "lt-030",
-      "lt-036",
-      "lt-042"
+      "lt-014",
+      "lt-020",
+      "lt-024",
+      "lt-027",
+      "lt-038",
+      "lt-040",
+      "lt-042",
+      "lt-059"
     ],
     "ranking": [
       {
-        "id": "lt-018",
-        "utility": 0.6,
+        "id": "lt-040",
+        "utility": 0.5948,
         "feasible": true,
         "rank": 1
       },
       {
-        "id": "lt-026",
-        "utility": 0.5134,
+        "id": "lt-042",
+        "utility": 0.479,
         "feasible": true,
         "rank": 2
       },
       {
-        "id": "lt-028",
-        "utility": 0.4608,
+        "id": "lt-038",
+        "utility": 0.4761,
         "feasible": true,
         "rank": 3
       },
       {
-        "id": "lt-030",
-        "utility": 0.4082,
+        "id": "lt-020",
+        "utility": 0.4593,
         "feasible": true,
         "rank": 4
       },
       {
-        "id": "lt-042",
-        "utility": 0.4,
+        "id": "lt-024",
+        "utility": 0.4414,
         "feasible": true,
         "rank": 5
       },
       {
-        "id": "lt-036",
-        "utility": null,
-        "feasible": false,
+        "id": "lt-027",
+        "utility": 0.4413,
+        "feasible": true,
         "rank": 6
       },
       {
-        "id": "lt-012",
+        "id": "lt-059",
         "utility": null,
         "feasible": false,
         "rank": 7
       },
       {
-        "id": "lt-007",
+        "id": "lt-014",
         "utility": null,
         "feasible": false,
         "rank": 8
@@ -1576,43 +1576,43 @@
     "ranking": [
       {
         "id": "lt-065",
-        "utility": 0.6857,
+        "utility": 0.73,
         "feasible": true,
         "rank": 1
       },
       {
         "id": "lt-057",
-        "utility": 0.5114,
+        "utility": 0.61,
         "feasible": true,
         "rank": 2
       },
       {
         "id": "lt-056",
-        "utility": 0.3782,
+        "utility": 0.5255,
         "feasible": true,
         "rank": 3
       },
       {
-        "id": "lt-024",
-        "utility": 0.2535,
+        "id": "lt-011",
+        "utility": 0.427,
         "feasible": true,
         "rank": 4
       },
       {
-        "id": "lt-011",
-        "utility": 0.2347,
+        "id": "lt-024",
+        "utility": 0.3005,
         "feasible": true,
         "rank": 5
       },
       {
         "id": "lt-016",
-        "utility": 0.2029,
+        "utility": 0.2605,
         "feasible": true,
         "rank": 6
       },
       {
         "id": "lt-005",
-        "utility": 0.1174,
+        "utility": 0.2455,
         "feasible": true,
         "rank": 7
       },
@@ -1646,60 +1646,60 @@
       "rating": 0.2
     },
     "products": [
-      "cm-012",
-      "cm-015",
-      "cm-019",
-      "cm-022",
-      "cm-025",
-      "cm-027",
-      "cm-028",
-      "cm-039"
+      "cm-018",
+      "cm-030",
+      "cm-034",
+      "cm-035",
+      "cm-036",
+      "cm-037",
+      "cm-039",
+      "cm-065"
     ],
     "ranking": [
       {
-        "id": "cm-015",
-        "utility": 0.9233,
+        "id": "cm-018",
+        "utility": 0.625,
         "feasible": true,
         "rank": 1
       },
       {
-        "id": "cm-019",
-        "utility": 0.8589,
+        "id": "cm-034",
+        "utility": 0.5501,
         "feasible": true,
         "rank": 2
       },
       {
-        "id": "cm-022",
-        "utility": 0.6361,
+        "id": "cm-030",
+        "utility": 0.534,
         "feasible": true,
         "rank": 3
       },
       {
-        "id": "cm-028",
-        "utility": 0.5588,
+        "id": "cm-037",
+        "utility": 0.5317,
         "feasible": true,
         "rank": 4
       },
       {
         "id": "cm-039",
-        "utility": 0.5,
+        "utility": 0.4826,
         "feasible": true,
         "rank": 5
       },
       {
-        "id": "cm-012",
-        "utility": 0.5,
+        "id": "cm-036",
+        "utility": 0.4525,
         "feasible": true,
         "rank": 6
       },
       {
-        "id": "cm-027",
-        "utility": 0.3808,
+        "id": "cm-035",
+        "utility": 0.4351,
         "feasible": true,
         "rank": 7
       },
       {
-        "id": "cm-025",
+        "id": "cm-065",
         "utility": null,
         "feasible": false,
         "rank": 8
@@ -1728,60 +1728,60 @@
       "price": 0.2
     },
     "products": [
-      "cm-029",
+      "cm-020",
+      "cm-033",
+      "cm-042",
       "cm-044",
-      "cm-046",
-      "cm-048",
       "cm-052",
-      "cm-066",
-      "cm-078",
-      "cm-079"
+      "cm-055",
+      "cm-057",
+      "cm-058"
     ],
     "ranking": [
       {
-        "id": "cm-029",
-        "utility": 0.85,
+        "id": "cm-042",
+        "utility": 0.6663,
         "feasible": true,
         "rank": 1
       },
       {
-        "id": "cm-046",
-        "utility": 0.6843,
+        "id": "cm-058",
+        "utility": 0.5668,
         "feasible": true,
         "rank": 2
       },
       {
-        "id": "cm-048",
-        "utility": 0.5475,
+        "id": "cm-033",
+        "utility": 0.55,
         "feasible": true,
         "rank": 3
       },
       {
         "id": "cm-044",
-        "utility": 0.4437,
+        "utility": 0.5233,
         "feasible": true,
         "rank": 4
       },
       {
         "id": "cm-052",
-        "utility": 0.0,
+        "utility": 0.3867,
         "feasible": true,
         "rank": 5
       },
       {
-        "id": "cm-078",
-        "utility": null,
-        "feasible": false,
+        "id": "cm-055",
+        "utility": 0.385,
+        "feasible": true,
         "rank": 6
       },
       {
-        "id": "cm-079",
-        "utility": null,
-        "feasible": false,
+        "id": "cm-057",
+        "utility": 0.3468,
+        "feasible": true,
         "rank": 7
       },
       {
-        "id": "cm-066",
+        "id": "cm-020",
         "utility": null,
         "feasible": false,
         "rank": 8
@@ -1805,59 +1805,59 @@
     },
     "products": [
       "cm-001",
-      "cm-002",
-      "cm-003",
-      "cm-010",
-      "cm-011",
+      "cm-005",
+      "cm-006",
+      "cm-012",
       "cm-014",
-      "cm-016",
-      "cm-065"
+      "cm-022",
+      "cm-038",
+      "cm-076"
     ],
     "ranking": [
       {
-        "id": "cm-002",
-        "utility": 0.9154,
+        "id": "cm-005",
+        "utility": 0.6026,
         "feasible": true,
         "rank": 1
       },
       {
-        "id": "cm-010",
-        "utility": 0.7511,
+        "id": "cm-001",
+        "utility": 0.5065,
         "feasible": true,
         "rank": 2
       },
       {
-        "id": "cm-014",
-        "utility": 0.5444,
+        "id": "cm-006",
+        "utility": 0.5001,
         "feasible": true,
         "rank": 3
       },
       {
-        "id": "cm-001",
-        "utility": 0.5,
+        "id": "cm-012",
+        "utility": 0.3626,
         "feasible": true,
         "rank": 4
       },
       {
-        "id": "cm-011",
-        "utility": 0.4772,
+        "id": "cm-014",
+        "utility": 0.3229,
         "feasible": true,
         "rank": 5
       },
       {
-        "id": "cm-003",
-        "utility": 0.4144,
-        "feasible": true,
+        "id": "cm-022",
+        "utility": null,
+        "feasible": false,
         "rank": 6
       },
       {
-        "id": "cm-016",
-        "utility": 0.25,
-        "feasible": true,
+        "id": "cm-038",
+        "utility": null,
+        "feasible": false,
         "rank": 7
       },
       {
-        "id": "cm-065",
+        "id": "cm-076",
         "utility": null,
         "feasible": false,
         "rank": 8
@@ -1886,60 +1886,60 @@
       "price": 0.3
     },
     "products": [
-      "cm-017",
-      "cm-020",
-      "cm-022",
-      "cm-027",
-      "cm-031",
+      "cm-032",
+      "cm-035",
+      "cm-040",
+      "cm-041",
       "cm-043",
-      "cm-046",
-      "cm-048"
+      "cm-048",
+      "cm-059",
+      "cm-075"
     ],
     "ranking": [
       {
-        "id": "cm-031",
-        "utility": 0.8953,
+        "id": "cm-032",
+        "utility": 0.73,
         "feasible": true,
         "rank": 1
       },
       {
-        "id": "cm-020",
-        "utility": 0.8304,
+        "id": "cm-041",
+        "utility": 0.645,
         "feasible": true,
         "rank": 2
       },
       {
-        "id": "cm-022",
-        "utility": 0.7242,
+        "id": "cm-048",
+        "utility": 0.5754,
         "feasible": true,
         "rank": 3
       },
       {
-        "id": "cm-046",
-        "utility": 0.5514,
+        "id": "cm-043",
+        "utility": 0.56,
         "feasible": true,
         "rank": 4
       },
       {
-        "id": "cm-048",
-        "utility": 0.45,
+        "id": "cm-035",
+        "utility": 0.4875,
         "feasible": true,
         "rank": 5
       },
       {
-        "id": "cm-043",
-        "utility": 0.4145,
-        "feasible": true,
+        "id": "cm-075",
+        "utility": null,
+        "feasible": false,
         "rank": 6
       },
       {
-        "id": "cm-017",
-        "utility": 0.3,
-        "feasible": true,
+        "id": "cm-059",
+        "utility": null,
+        "feasible": false,
         "rank": 7
       },
       {
-        "id": "cm-027",
+        "id": "cm-040",
         "utility": null,
         "feasible": false,
         "rank": 8
@@ -1963,60 +1963,60 @@
       "price": 0.3
     },
     "products": [
-      "cm-008",
-      "cm-018",
-      "cm-021",
-      "cm-038",
+      "cm-017",
+      "cm-020",
+      "cm-037",
+      "cm-039",
       "cm-040",
       "cm-050",
-      "cm-061",
-      "cm-064"
+      "cm-052",
+      "cm-074"
     ],
     "ranking": [
       {
-        "id": "cm-018",
-        "utility": 0.926,
+        "id": "cm-020",
+        "utility": 0.739,
         "feasible": true,
         "rank": 1
       },
       {
-        "id": "cm-038",
-        "utility": 0.7303,
+        "id": "cm-040",
+        "utility": 0.67,
         "feasible": true,
         "rank": 2
       },
       {
-        "id": "cm-040",
-        "utility": 0.7232,
+        "id": "cm-052",
+        "utility": 0.52,
         "feasible": true,
         "rank": 3
       },
       {
-        "id": "cm-021",
-        "utility": 0.7159,
+        "id": "cm-017",
+        "utility": 0.273,
         "feasible": true,
         "rank": 4
       },
       {
-        "id": "cm-008",
-        "utility": 0.6,
+        "id": "cm-039",
+        "utility": 0.2566,
         "feasible": true,
         "rank": 5
       },
       {
-        "id": "cm-050",
-        "utility": 0.0,
+        "id": "cm-037",
+        "utility": 0.193,
         "feasible": true,
         "rank": 6
       },
       {
-        "id": "cm-064",
-        "utility": null,
-        "feasible": false,
+        "id": "cm-050",
+        "utility": 0.1501,
+        "feasible": true,
         "rank": 7
       },
       {
-        "id": "cm-061",
+        "id": "cm-074",
         "utility": null,
         "feasible": false,
         "rank": 8
@@ -2040,60 +2040,60 @@
       "programmable": 0.2
     },
     "products": [
-      "cm-006",
-      "cm-008",
-      "cm-019",
-      "cm-026",
+      "cm-009",
+      "cm-011",
+      "cm-018",
+      "cm-022",
+      "cm-024",
+      "cm-025",
       "cm-027",
-      "cm-038",
-      "cm-057",
-      "cm-077"
+      "cm-078"
     ],
     "ranking": [
       {
-        "id": "cm-008",
-        "utility": 0.7586,
+        "id": "cm-011",
+        "utility": 0.6155,
         "feasible": true,
         "rank": 1
       },
       {
-        "id": "cm-006",
-        "utility": 0.6667,
+        "id": "cm-018",
+        "utility": 0.5601,
         "feasible": true,
         "rank": 2
       },
       {
-        "id": "cm-019",
-        "utility": 0.565,
+        "id": "cm-024",
+        "utility": 0.5275,
         "feasible": true,
         "rank": 3
       },
       {
-        "id": "cm-026",
-        "utility": 0.3747,
+        "id": "cm-022",
+        "utility": 0.4804,
         "feasible": true,
         "rank": 4
       },
       {
         "id": "cm-027",
-        "utility": 0.2,
+        "utility": 0.4467,
         "feasible": true,
         "rank": 5
       },
       {
-        "id": "cm-038",
-        "utility": null,
-        "feasible": false,
+        "id": "cm-009",
+        "utility": 0.4334,
+        "feasible": true,
         "rank": 6
       },
       {
-        "id": "cm-077",
-        "utility": null,
-        "feasible": false,
+        "id": "cm-025",
+        "utility": 0.0667,
+        "feasible": true,
         "rank": 7
       },
       {
-        "id": "cm-057",
+        "id": "cm-078",
         "utility": null,
         "feasible": false,
         "rank": 8
@@ -2139,31 +2139,31 @@
     "ranking": [
       {
         "id": "cm-058",
-        "utility": 0.95,
+        "utility": 0.74,
         "feasible": true,
         "rank": 1
       },
       {
         "id": "cm-042",
-        "utility": 0.8,
+        "utility": 0.565,
         "feasible": true,
         "rank": 2
       },
       {
-        "id": "cm-057",
-        "utility": 0.5,
+        "id": "cm-052",
+        "utility": 0.52,
         "feasible": true,
         "rank": 3
       },
       {
-        "id": "cm-054",
-        "utility": 0.45,
+        "id": "cm-057",
+        "utility": 0.515,
         "feasible": true,
         "rank": 4
       },
       {
-        "id": "cm-052",
-        "utility": 0.45,
+        "id": "cm-054",
+        "utility": 0.405,
         "feasible": true,
         "rank": 5
       },
@@ -2216,43 +2216,43 @@
     "ranking": [
       {
         "id": "cm-046",
-        "utility": 0.7837,
+        "utility": 0.66,
         "feasible": true,
         "rank": 1
       },
       {
         "id": "cm-054",
-        "utility": 0.61,
+        "utility": 0.54,
         "feasible": true,
         "rank": 2
       },
       {
         "id": "cm-004",
-        "utility": 0.6,
+        "utility": 0.4225,
         "feasible": true,
         "rank": 3
       },
       {
         "id": "cm-010",
-        "utility": 0.5788,
+        "utility": 0.4058,
         "feasible": true,
         "rank": 4
       },
       {
         "id": "cm-009",
-        "utility": 0.5542,
+        "utility": 0.395,
         "feasible": true,
         "rank": 5
       },
       {
         "id": "cm-047",
-        "utility": 0.3636,
+        "utility": 0.2441,
         "feasible": true,
         "rank": 6
       },
       {
         "id": "cm-035",
-        "utility": 0.18,
+        "utility": 0.1775,
         "feasible": true,
         "rank": 7
       },
@@ -2293,31 +2293,31 @@
     "ranking": [
       {
         "id": "cm-015",
-        "utility": 1.0,
+        "utility": 0.76,
         "feasible": true,
         "rank": 1
       },
       {
-        "id": "cm-041",
-        "utility": 0.72,
+        "id": "cm-076",
+        "utility": 0.58,
         "feasible": true,
         "rank": 2
       },
       {
-        "id": "cm-011",
-        "utility": 0.72,
+        "id": "cm-041",
+        "utility": 0.54,
         "feasible": true,
         "rank": 3
       },
       {
-        "id": "cm-075",
-        "utility": 0.4,
+        "id": "cm-011",
+        "utility": 0.54,
         "feasible": true,
         "rank": 4
       },
       {
-        "id": "cm-076",
-        "utility": 0.3333,
+        "id": "cm-075",
+        "utility": 0.44,
         "feasible": true,
         "rank": 5
       },
@@ -2375,31 +2375,31 @@
     "ranking": [
       {
         "id": "cm-018",
-        "utility": 0.9333,
+        "utility": 0.6379,
         "feasible": true,
         "rank": 1
       },
       {
         "id": "cm-031",
-        "utility": 0.7097,
+        "utility": 0.5822,
         "feasible": true,
         "rank": 2
       },
       {
         "id": "cm-028",
-        "utility": 0.6398,
+        "utility": 0.5358,
         "feasible": true,
         "rank": 3
       },
       {
         "id": "cm-030",
-        "utility": 0.5915,
+        "utility": 0.5267,
         "feasible": true,
         "rank": 4
       },
       {
         "id": "cm-037",
-        "utility": 0.3,
+        "utility": 0.4148,
         "feasible": true,
         "rank": 5
       },

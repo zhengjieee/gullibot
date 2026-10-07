@@ -2,3 +2,4 @@ anthropic>=1.11
 pydantic>=2
 python-dotenv>=1
 pytest>=8
+pandas>=2

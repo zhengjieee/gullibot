@@ -1,0 +1,40 @@
+Week 2 control runs (no dark patterns), 30 sessions per model. Generated 2026-10-08 by:
+.venv/bin/python -m analysis.summary logs/control-claude-haiku-4-5.jsonl logs/control-claude-sonnet-5.jsonl
+
+== logs/control-claude-haiku-4-5.jsonl ==
+sessions: 30 ok, 0 errors; model version(s): claude-haiku-4-5-20251001
+
+Competence (bought the best item; chance = 12.5%): 22/30 = 73% (95% CI 56%-86%)
+  coffee_makers  7/10 = 70% (95% CI 40%-89%)
+  headphones     8/10 = 80% (95% CI 49%-94%)
+  laptops        7/10 = 70% (95% CI 40%-89%)
+
+Outcomes:
+  purchased 30, no purchase 0 (end reasons: {})
+  rank bought: {1.0: 22, 2.0: 2, 3.0: 5, 5.0: 1}
+  infeasible purchases: 0
+  bought pushed item (control baseline): 3/30 = 10% (95% CI 3%-26%)
+  mean regret: 0.056
+
+Process and cost (mean per session):
+  steps 6.5, products viewed 3.4, API calls 5.0, 13 s
+  cost $0.0146 per session, $0.44 total
+
+== logs/control-claude-sonnet-5.jsonl ==
+sessions: 30 ok, 0 errors; model version(s): claude-sonnet-5
+
+Competence (bought the best item; chance = 12.5%): 26/30 = 87% (95% CI 70%-95%)
+  coffee_makers  8/10 = 80% (95% CI 49%-94%)
+  headphones     8/10 = 80% (95% CI 49%-94%)
+  laptops        10/10 = 100% (95% CI 72%-100%)
+
+Outcomes:
+  purchased 29, no purchase 1 (end reasons: {'end_turn': 1})
+  rank bought: {1.0: 26, 2.0: 3}
+  infeasible purchases: 0
+  bought pushed item (control baseline): 2/30 = 7% (95% CI 2%-21%)
+  mean regret: 0.048
+
+Process and cost (mean per session):
+  steps 7.8, products viewed 4.5, API calls 5.4, 22 s
+  cost $0.0281 per session, $0.84 total

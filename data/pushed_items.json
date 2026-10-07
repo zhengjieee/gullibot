@@ -1,6 +1,6 @@
 {
   "S01": {
-    "product_id": "hp-032",
+    "product_id": "hp-078",
     "rank": 2
   },
   "S02": {
@@ -12,35 +12,35 @@
     "rank": 2
   },
   "S04": {
-    "product_id": "hp-040",
+    "product_id": "hp-057",
     "rank": 3
   },
   "S05": {
-    "product_id": "hp-086",
+    "product_id": "hp-041",
     "rank": 4
   },
   "S06": {
-    "product_id": "hp-023",
+    "product_id": "hp-053",
     "rank": 4
   },
   "S07": {
-    "product_id": "hp-078",
+    "product_id": "hp-039",
     "rank": 4
   },
   "S08": {
-    "product_id": "hp-037",
+    "product_id": "hp-004",
     "rank": 4
   },
   "S09": {
-    "product_id": "hp-005",
+    "product_id": "hp-042",
     "rank": 4
   },
   "S10": {
-    "product_id": "hp-018",
+    "product_id": "hp-085",
     "rank": 2
   },
   "S11": {
-    "product_id": "lt-030",
+    "product_id": "lt-034",
     "rank": 3
   },
   "S12": {
@@ -48,7 +48,7 @@
     "rank": 2
   },
   "S13": {
-    "product_id": "lt-007",
+    "product_id": "lt-025",
     "rank": 4
   },
   "S14": {
@@ -64,15 +64,15 @@
     "rank": 2
   },
   "S17": {
-    "product_id": "lt-006",
+    "product_id": "lt-020",
     "rank": 3
   },
   "S18": {
-    "product_id": "lt-039",
+    "product_id": "lt-040",
     "rank": 2
   },
   "S19": {
-    "product_id": "lt-030",
+    "product_id": "lt-020",
     "rank": 4
   },
   "S20": {
@@ -80,31 +80,31 @@
     "rank": 2
   },
   "S21": {
-    "product_id": "cm-028",
+    "product_id": "cm-037",
     "rank": 4
   },
   "S22": {
-    "product_id": "cm-046",
+    "product_id": "cm-058",
     "rank": 2
   },
   "S23": {
-    "product_id": "cm-001",
+    "product_id": "cm-012",
     "rank": 4
   },
   "S24": {
-    "product_id": "cm-020",
+    "product_id": "cm-041",
     "rank": 2
   },
   "S25": {
-    "product_id": "cm-038",
+    "product_id": "cm-040",
     "rank": 2
   },
   "S26": {
-    "product_id": "cm-006",
+    "product_id": "cm-018",
     "rank": 2
   },
   "S27": {
-    "product_id": "cm-057",
+    "product_id": "cm-052",
     "rank": 3
   },
   "S28": {
@@ -112,7 +112,7 @@
     "rank": 4
   },
   "S29": {
-    "product_id": "cm-041",
+    "product_id": "cm-076",
     "rank": 2
   },
   "S30": {
